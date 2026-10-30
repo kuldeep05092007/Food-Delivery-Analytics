@@ -21,7 +21,8 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-DATA_FILE = os.path.join("data", "cleaned_food_delivery_orders.csv")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, "data", "cleaned_food_delivery_orders.csv")
 DAY_ORDER = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 REQUIRED_COLUMNS = [
