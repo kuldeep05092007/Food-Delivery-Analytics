@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Order_Time,Customer_ID,City,Restaurant_Name,Cuisine_Type,Order_Value,Discount,Delivery_Fee,Payment_Method,Order_Status,Preparation_Time_Min,Delivery_Time_Min,Expected_Delivery_Time_Min,Customer_Rating
+FD100852,2026-09-13,11:16,CUST1454,Noida,Spice Route,North Indian,395,84,25,Net Banking,Refunded,20,40,50,2
+FD100817,2026-04-04,23:52,CUST1445,Noida,Burger Barn,Fast Food,300,0,0,Cash on Delivery,delivered,12,27,45,
+FD100920,2026-06-25,19:24,CUST1079,Kolkata,Slice Station,Pizza,355,0,35,UPI,Delivered,17,28,50,3
+FD101043,2026-06-22,20:11,CUST1299,Jaipur,Dragon Wok,Chinese,200,0,25,Credit Card,Delivered,29,54,50,
+FD100582,2026-08-28,18:02,CUST1437,Gurugram,Chai & Chaat,Street Food,180,33,35,Cash on Delivery,Delivered,8,24,45,4
+FD100860,2026-07-05,19:01,CUST1405,Jaipur,sweet tooth,desserts,485,0,49,Digital Wallet,Delivered,11,30,40,5
+FD100457,2026-06-24,22:14,CUST1282,Chennai,Punjabi Tadka,North Indian,245,0,35,UPI,Delivered,25,51,55,4
+FD101210,2026-08-11,21:50,CUST1112,Kolkata,Dosa Corner,South Indian,135,0,0,Digital Wallet,DELIVERED,19,36,50,3
+FD100689,2026-09-02,21:28,CUST1017,Mumbai,Pizza Junction,Pizza,350,43,35,UPI,Delivered,25,73,55,
+FD101458,2026-04-16,20:05,CUST1117,Kolkata,Spice Route,North Indian,225,0,49,Cash on Delivery,Delivered,24,43,55,
+FD100217,2026-09-04,21:04,CUST1572,Pune,Hyderabadi Handi,Biryani,415,0,0,Net Banking,Delivered,37,85,60,
+FD100708,2026-04-12,22:06,CUST1267,Delhi,Spice Route,North Indian,355,63,25,Credit Card,Delivered,25,51,55,3
+FD101388,2026-09-27,12:25,CUST1560,Pune,Dilli Darbar,North Indian,350,0,25,UPI,Delivered,25,,55,5
+FD101152,2026-08-22,21:18,CUST1453,  Mumbai ,Chai & Chaat,Street Food,155,0,35,UPI,Delivered,17,46,45,4
+FD100017,2026-06-29,12:15,CUST1027,Gurugram,Momo Magic,Street Food,205,26,49,UPI,Delivered,12,45,45,4
+FD100356,2026-08-19,20:10,CUST1475,,Slice Station,Pizza,1170,150,0,Debit Card,Delivered,,44,50,3
+FD100070,2026-06-19,22:58,CUST1290,Kolkata,Dragon Wok,Chinese,225,0,0,credit card,Delivered,26,72,55,2
+FD100086,2026-09-16,21:35,CUST1355,Mumbai,Momo Magic,Street Food,165,0,25,UPI,Delivered,14,76,50,2
+FD101271,2026-06-12,12:14,CUST1281,Bangalore,Spice Route,North Indian,415,0,35,UPI,Delivered,21,39,55,
+FD100680,2026-09-11,12:59,CUST1601,Delhi,Biryani House,Biryani,525,86,25,UPI,Delivered,21,35,60,5
+FD100350,2026-06-06,22:46,CUST1496,Delhi,Burger Barn,Fast Food,535,150,25,Credit Card,Delivered,21,63,45,2
+FD100728,2026-06-07,17:50,CUST1209,Noida,Spice Route,North Indian,560,0,0,Net Banking,Delivered,19,34,50,3
+FD100846,2026-05-15,12:32,CUST1162,Hyderabad,Spice Route,North Indian,460,0,35,Cash on Delivery,Delivered,20,52,50,4
+FD100816,2026-07-13,22:02,CUST1456,Bengaluru,Dosa Corner,South Indian,280,77,25,UPI,Delivered,19,63,50,4
+FD100676,2026-06-03,18:19,CUST1438,bengaluru,Healthy Bowl,Healthy,525,0,35,Credit Card,Delivered,13,29,50,5
+FD100305,2026-08-03,19:09,CUST1624,Jaipur,Chai & Chaat,Street Food,225,35,35,Cash on Delivery,Delivered,11,29,40,
+FD100100,2026-06-26,16:41,CUST1602,Hyderabad,Biryani House,Biryani,455,0,35,COD,Delivered,27,46,60,
+FD100609,2026-04-09,21:20,CUST1559,Delhi,Bengal Bites,Regional,205,0,35,Net Banking,Delivered,24,39,55,3
+FD100603,2026-08-29,11:03,CUST1099,Gurugram,Rajasthani Rasoi,Regional,550,0,35,  UPI ,Delivered,29,52,55,
+FD100693,2026-07-22,21:06,CUST1351,Delhi,Rajasthani Rasoi,Regional,745,0,0,  UPI ,Cancelled,,,55,
+FD100443,2026-08-06,18:59,CUST1464,Mumbai,Pizza Junction,Pizza,890,150,0,UPI,Delivered,19,48,55,3
+FD100769,2026-06-07,17:52,CUST1359,Pune,Chai & Chaat,Street Food,355,0,0,Digital Wallet,Delivered,12,47,40,
+FD100205,2026-08-03,22:54,CUST1591,Chennai,Noodle Nation,Chinese,190,0,0,UPI,Delivered,19,34,50,2
+FD101285,2026-04-12,13:30,CUST1327,Hyderabad,Tandoori Nights,Mughlai,1085,0,0,UPI,Delivered,27,45,55,
+FD100051,2026-04-14,18:12,CUST1274,Bengaluru,Punjabi Tadka,  North Indian ,620,0,0,UPI,Delivered,23,51,60,4
+FD101311,2026-09-25,12:17,CUST1250,Mumbai,Dragon Wok,Chinese,510,0,49,Digital Wallet,Delivered,20,47,55,
+FD100198,2026-07-09,22:14,CUST1566,Mumbai,  Hyderabadi Handi ,Biryani,710,73,0,UPI,Delivered,30,53,65,3
+FD101411,2026-05-16,15:06,CUST1163,Noida,Pizza Junction,Pizza,365,0,35,UPI,Delivered,24,33,50,4
+FD100294,2026-08-12,20:18,CUST1462,Mumbai,Slice Station,Pizza,585,62,25,UPI,Delivered,28,58,55,3
+FD100472,2026-07-19,12:55,CUST1384,NOIDA,Healthy Bowl,Healthy,375,0,25,Upi,Delivered,18,47,45,
+FD101364,2026-06-04,17:45,CUST1102,Delhi,Momo Magic,Street Food,185,0,0,UPI,Delivered,16,33,45,4
+FD101211,2026-05-17,20:13,CUST1401,Kolkata,Fresh Salad Co,Healthy,400,0,25,  Credit Card ,Delivered,,39,45,2
+FD100267,2026-09-05,14:19,CUST1606,Delhi,Rajasthani Rasoi,Regional,255,52,35,UPI,Delivered,29,61,55,
+FD100062,2026-04-21,20:33,CUST1166,Mumbai,Hyderabadi Handi,Biryani,440,0,49,UPI,Delivered,35,60,65,3
+FD100825,2026-05-03,18:36,CUST1414,Chennai,Slice Station,Pizza,510,132,35,UPI,Delivered,18,34,50,4
+FD100141,2026-07-20,23:08,CUST1139,Mumbai,Royal Kebab,MUGHLAI,665,0,0,UPI,Delivered,27,39,60,4
+FD100884,2026-04-25,19:48,CUST1419,Gurgaon,Pizza Junction,Pizza,730,0,0,UPI,Delivered,22,48,55,3
+FD100329,2026-07-22,18:37,CUST1515,Gurugram,Dragon Wok,Chinese,375,66,25,Credit Card,Delivered,21,46,55,
+FD100084,2026-05-29,21:46,CUST1172,Jaipur,  Wrap It Up ,Fast Food,205,24,25,UPI,Delivered,18,47,40,3
+FD101284,2026-08-09,18:00,CUST1420,Hyderabad,Pizza Junction,Pizza,615,113,0,UPI,Delivered,18,34,50,3
+FD100540,2026-08-04,17:05,CUST1629,Pune,Noodle  Nation,Chinese,200,0,49,cash on delivery,Delivered,19,39,50,3
+FD101093,2026-05-02,14:31,CUST1627,Mumbai,Fresh Salad Co,Healthy,650,0,0,UPI,delivered,13,35,45,4
+FD101334,2026-07-04,13:06,CUST1093,  Delhi ,Dilli Darbar,North Indian,320,0,35,Cash on Delivery,Delivered,29,61,55,3
+FD100264,2026-06-18,23:02,CUST1697,Delhi,Biryani House,Biryani,290,60,25,Digital Wallet,Delivered,25,42,60,4
+FD100885,2026-05-25,12:24,CUST1236,Jaipur,Spice Route,North Indian,685,0,0,Cash on Delivery,Delivered,21,26,50,4
+FD101044,2026-08-12,15:44,CUST1001,Pune,Chai & Chaat,Street Food,175,0,49,UPI,Delivered,12,39,40,5
+FD100639,2026-05-12,23:06,CUST1231,Delhi,Slice Station,  Pizza ,915,0,0,Digital Wallet,Delivered,19,34,50,3
+FD101233,2026-08-23,21:02,CUST1037,Noida,  Biryani House ,Biryani,500,0,0,Cash on Delivery,Cancelled,,,55,
+FD101232,2026-09-08,20:04,CUST1340,Mumbai,Rajasthani Rasoi,Regional,605,138,0,Cash on Delivery,Delivered,25,67,60,4
+FD101162,2026-09-03,22:19,CUST1497,Jaipur,Mithai Mahal,Desserts,355,0,49,UPI,Delivered,15,35,40,
+FD101086,2026-05-13,22:29,CUST1451,PUNE,Noodle Nation,Chinese,370,49,49,UPI,Delivered,19,52,50,3
+FD100505,2026-08-26,21:15,CUST1089,Chennai,Slice Station,Pizza,390,0,49,UPI,Delivered,22,54,50,
+FD100488,2026-09-06,15:03,CUST1402,Bengaluru,Tandoori Nights,Mughlai,315,94,49,UPI,Delivered,26,39,60,
+FD100762,2026-06-15,18:30,CUST1113,Gurugram,Hyderabadi Handi,Biryani,185,0,25,Cash on Delivery,Canceled,,,60,
+FD100361,2026-06-18,21:16,CUST1234,Hyderabad,Burger Barn,Fast Food,190,0,25,Credit Card,Delivered,17,40,45,3
+FD100647,2026-05-01,21:08,CUST1230,Noida,Kathi Roll Co.,Street Food,155,17,49,UPI,Delivered,15,33,45,
+FD100222,2026-09-10,20:52,CUST1541,Pune,Slice Station,Pizza,270,50,25,UPI,Delivered,21,56,50,3
+FD100071,2026-06-04,21:45,CUST1368,Jaipur,Pizza Junction,Pizza,260,64,25,UPI,Delivered,25,46,50,4
+FD100719,2026-09-09,21:08,CUST1596,Bengaluru,spice route,North Indian,320,0,0,UPI,Delivered,21,47,55,3
+FD100005,2026-05-05,14:20,CUST1522,Mumbai,South Spice,South Indian,170,0,35,UPI,  Delivered ,21,51,50,4
+FD101326,2026-04-27,22:53,CUST1700,Jaipur,Kathi Roll Co.,Street Food,265,0,49,Cash on Delivery,Cancelled,22,,45,
+FD100588,2026-08-07,13:18,CUST1505,Noida,Wrap It Up,Fast Food,190,45,25,UPI,Delivered,19,54,45,2
+FD101013,2026-06-12,22:48,CUST1018,Bengaluru,Dragon Wok,Chinese,250,38,49,Upi,Delivered,30,60,55,2
+FD100403,2026-05-22,20:03,CUST1037,Jaipur,Wrap It Up,Fast Food,305,0,35,UPI,Delivered,15,38,40,
+FD100821,2026-04-22,14:21,CUST1107,Delhi,Kathi Roll Co.,Street Food,365,0,49,UPI,Delivered,13,35,45,4
+FD101148,2026-08-21,20:35,CUST1463,kolkata,BIRYANI HOUSE,Biryani,340,0,35,Net Banking,Delivered,31,48,60,4
+FD100465,2026-07-24,21:15,CUST1152,Noida,Dosa Corner,South Indian,305,0,49,Credit Card,Delivered,19,47,45,5
+FD100569,2026-06-05,18:36,CUST1327,Mumbai,Burger Barn,Fast Food,430,0,35,Digital Wallet,Refunded,12,19,50,1
+FD100491,2026-06-10,19:58,CUST1184,Delhi,Sweet Tooth,Desserts,365,0,0,UPI,Delivered,21,35,45,
+FD100793,2026-09-12,21:51,CUST1235,Hyderabad,Hyderabadi Handi,Biryani,485,0,35,UPI,Cancelled,,,60,
+FD100707,2026-06-06,12:52,CUST1384,Bengaluru,Bengal Bites,Regional,515,0,49,UPI,Delivered,27,54,55,
+FD101421,2026-05-13,17:55,CUST1239,Mumbai,Pizza Junction,Pizza,580,150,25,Net Banking,Delivered,23,44,55,
+FD101206,2026-04-14,21:51,CUST1542,Gurugram,Burger Barn,  Fast Food ,360,0,49,UPI,Delivered,17,45,50,
+FD101222,2026-05-27,13:19,CUST1285,Delhi,Momo Magic,Street Food,270,0,0,Cash on Delivery,Delivered,22,51,45,4
+FD100530,2026-09-16,13:38,CUST1456,Hyderabad,Punjabi Tadka,North Indian,250,0,35,Cash on Delivery,Delivered,27,55,55,4
+FD100842,2026-09-16,20:12,CUST1008,Mumbai,Sweet Tooth,Desserts,335,60,25,UPI,Delivered,13,36,45,
+FD100585,2026-08-20,14:05,CUST1486,Hyderabad,Dosa Corner,South Indian,250,0,0,Cash on Delivery,Delivered,22,245,45,
+FD100944,2026-05-07,20:33,CUST1310,Bengaluru,Tandoori Nights,Mughlai,495,0,49,Digital Wallet,Delivered,29,45,60,4
+FD101429,2026-09-10,12:17,CUST1338,Chennai,Royal Kebab,Mughlai,360,0,0,Cash on Delivery,Delivered,26,42,60,4
+FD100317,2026-05-01,13:48,CUST1399,Chennai,Punjabi Tadka,North Indian,395,0,35,Cash on Delivery,Delivered,23,62,55,4
+FD100819,2026-07-14,15:00,CUST1678,Bengaluru,Spice Route,North Indian,225,0,35,UPI,Delivered,20,53,55,4
+FD101254,2026-04-24,13:48,CUST1629,Kolkata,Punjabi Tadka,North Indian,320,0,49,UPI,Delivered,30,43,55,
+FD100318,2026-09-24,17:19,CUST1513,Pune,Chai & Chaat,Street Food,125,0,35,UPI,Cancelled,9,,40,
+FD100233,2026-09-02,14:14,CUST1228,CHENNAI,Tandoori Nights,Mughlai,550,0,35,Upi,Delivered,23,49,55,4
+FD100449,2026-04-27,16:08,CUST1303,Kolkata,Spice Route,North Indian,325,63,25,Debit Card,Delivered,22,40,55,3
+FD101354,2026-09-11,11:16,CUST1026,Delhi,Spice Route,North Indian,600,0,0,Credit Card,Delivered,17,37,55,3
+FD100289,2026-05-21,13:26,CUST1247,Mumbai,Dosa Corner,South Indian,300,0,49,Cash on Delivery,Delivered,15,36,50,
+FD101199,2026-09-14,21:53,CUST1180,Bengaluru,Noodle Nation,Chinese,240,44,0,Debit Card,Delivered,21,44,55,3
+FD101137,2026-04-09,12:01,CUST1127,Noida,Punjabi Tadka,North Indian,415,0,0,Debit Card,Delivered,22,63,55,4
+FD100363,2026-08-17,13:24,CUST1270,Hyderabad,Mithai Mahal,Desserts,370,0,49,UPI,Delivered,11,31,40,
+FD100586,2026-06-30,11:06,CUST1208,Jaipur,Kathi Roll Co.,Street Food,325,0,49,Credit Card,Delivered,11,20,45,3
+FD100104,2026-05-03,13:42,CUST1176,Jaipur,Slice Station,Pizza,380,0,35,Debit Card,Delivered,17,31,50,2
+FD101154,2026-06-16,21:53,CUST1529,Mumbai,Hyderabadi Handi,Biryani,405,0,35,UPI,DELIVERED,32,58,65,4
+FD101470,2026-08-28,19:01,CUST1344,Pune,Royal Kebab,Mughlai,570,0,0,Cash on Delivery,Refunded,29,48,60,1
+FD100200,2026-09-24,20:52,CUST1024,Delhi,Spice Route,North Indian,175,0,25,Cash on Delivery,Delivered,25,47,55,3
+FD100476,2026-07-13,18:55,CUST1650,Hyderabad,Biryani House,Biryani,385,0,49,Credit Card,Delivered,23,47,60,4
+FD100473,2026-06-28,20:32,CUST1109,Pune,Dilli Darbar,North Indian,495,0,49,UPI,Delivered,25,53,55,4
+FD100199,2026-08-08,13:09,CUST1122,Delhi,Tandoori Nights,Mughlai,4532,77,0,UPI,Delivered,21,59,60,
+FD101183,2026-07-28,18:02,CUST1564,Bengaluru,Dosa Corner,South Indian,190,55,49,Upi,Delivered,14,34,50,3
+FD100486,2026-04-26,13:00,CUST1145,Mumbai,Royal Kebab,MUGHLAI,685,0,0,UPI,Delivered,32,59,60,4
+FD100374,2026-06-02,13:00,CUST1142,Pune,Slice Station,Pizza,470,0,35,UPI,Delivered,23,41,50,
+FD100916,2026-04-23,22:20,CUST1605,Noida,rajasthani rasoi,Regional,635,150,0,UPI,Delivered,26,65,55,
+FD101028,2026-04-30,19:54,CUST1148,Jaipur,Royal Kebab,Mughlai,565,0,49,Net Banking,Delivered,23,48,55,5
+FD100270,2026-04-23,12:15,CUST1295,chennai,Sweet Tooth,Desserts,285,0,0,Credit Card,Delivered,17,26,45,
+FD100587,2026-07-20,16:48,CUST1021,Hyderabad,Noodle Nation,Chinese,345,0,49,UPI,Delivered,17,33,50,4
+FD101178,2026-07-19,17:20,CUST1466,Bengaluru,Mithai Mahal,Desserts,450,102,49,UPI,Delivered,,31,45,4
+FD100875,2026-05-11,15:31,CUST1176,Chennai,Rajasthani Rasoi,Regional,560,150,35,Digital Wallet,Delivered,25,43,55,
+FD100523,2026-06-21,13:47,CUST1048,Hyderabad,Fresh Salad Co,Healthy,230,0,35,UPI,Delivered,12,37,45,2
+FD100549,2026-07-08,19:14,CUST1208,Chennai,Tandoori Nights,Mughlai,370,92,35,Cash on Delivery,Delivered,,47,55,4
+FD101389,2026-09-06,19:40,CUST1221,delhi,Tandoori Nights,Mughlai,870,103,0,Cash on Delivery,Delivered,22,48,60,
+FD100604,2026-04-20,18:13,CUST1181,Gurugram,Pizza Junction,Pizza,360,0,49,Cash on Delivery,Delivered,22,,55,4
+FD101331,2026-09-11,23:08,CUST1440,Hyderabad,Pizza Junction,Pizza,720,150,0,UPI,Delivered,20,29,50,3
+FD100240,2026-05-03,13:46,CUST1484,Pune,Wrap It Up,Fast Food,170,0,49,Debit Card,Delivered,20,43,45,3
+FD100781,2026-04-29,21:12,CUST1379,Mumbai,Rajasthani Rasoi,Regional,605,150,0,Cash on Delivery,Delivered,26,51,60,
+FD101191,2026-05-29,14:25,CUST1589,Chennai,Bengal Bites,Regional,285,37,0,Upi,Delivered,,42,50,
+FD100981,2026-08-03,15:09,CUST1384,Delhi,Dosa Corner,South Indian,215,0,35,UPI,DELIVERED,16,41,50,5
+FD100990,2026-09-23,14:01,CUST1575,Kolkata,Slice Station,Pizza,600,130,0,UPI,Delivered,18,60,50,2
+FD101145,2026-09-03,21:36,CUST1698,Mumbai,Dosa Corner,South Indian,155,0,25,UPI,Delivered,19,51,50,
+FD100678,2026-06-07,13:15,CUST1508,Mumbai,Pizza Junction,Pizza,470,67,35,UPI,Delivered,23,42,55,4
+FD101060,2026-09-06,22:36,CUST1195,Delhi,Fresh Salad Co,Healthy,505,0,35,Credit Card,Delivered,19,39,45,5
+FD101197,2026-04-01,22:04,CUST1632,kolkata,Fresh Salad Co,Healthy,255,62,49,UPI,Delivered,16,28,45,3
+FD100720,2026-04-01,18:48,CUST1278,Mumbai,Spice Route,North Indian,250,0,35,Cash on Delivery,Delivered,11,33,55,3
+FD101157,2026-08-23,23:32,CUST1174,Noida,Punjabi Tadka,North Indian,630,0,0,Cash on Delivery,Delivered,23,37,55,5
+FD100118,2026-07-09,20:28,CUST1451,mumbai,HYDERABADI HANDI,Biryani,435,97,49,Cash on Delivery,Cancelled,30,,65,
+FD101450,2026-07-11,12:36,CUST1101,Bengaluru,Slice Station,Pizza,740,0,0,UPI,Cancelled,18,,55,
+FD100887,2026-08-25,21:22,CUST1083,Noida,Dragon Wok,Chinese,450,0,25,UPI,Delivered,25,47,50,
+FD101419,2026-05-04,18:02,CUST1094,Bengaluru,royal kebab,Mughlai,600,0,0,Net Banking,Delivered,28,48,65,4
+FD100325,2026-07-26,18:16,CUST1360,Gurgaon,Hyderabadi Handi,Biryani,720,0,0,Credit Card,Refunded,27,44,60,2
+FD100171,2026-05-04,22:47,CUST1288,Delhi,South Spice,South Indian,395,70,49,Digital Wallet,Delivered,22,78,50,
+FD100195,2026-09-19,19:48,CUST1641,Bengaluru,Spice Route,North Indian,395,0,25,UPI,Delivered,21,50,55,3
+FD100579,2026-09-16,13:56,CUST1407,Hyderabad,Dragon Wok,Chinese,445,0,35,Credit Card,Delivered,20,35,55,
+FD100956,2026-05-12,19:11,CUST1025,Pune,Dosa Corner,South Indian,115,0,25,UPI,Delivered,16,25,45,4
+FD100917,2026-05-27,20:16,CUST1065,Jaipur,Sweet Tooth,Desserts,425,71,25,Cash on Delivery,Delivered,19,47,40,
+FD101244,2026-09-27,18:48,CUST1287,Noida,punjabi tadka,North Indian,385,72,25,Cash on Delivery,Delivered,17,28,55,3
+FD100856,2026-07-25,11:41,CUST1631,Gurugram,Biryani House,Biryani,325,0,49,Digital Wallet,Delivered,29,44,60,
+FD101409,2026-04-09,12:58,CUST1412,Bengaluru,Chai & Chaat,Street Food,215,0,35,digital wallet,Cancelled,10,,45,
+FD100132,2026-08-09,20:22,CUST1035,Bengaluru,Fresh Salad Co,Healthy,455,112,49,Cash on Delivery,Delivered,10,38,50,4
+FD100230,2026-05-24,19:36,CUST1479,Hyderabad,Healthy Bowl,Healthy,745,0,0,UPI,Delivered,13,44,50,
+FD100741,2026-09-18,20:27,CUST1281,  Mumbai ,Momo Magic,Street Food,115,22,35,Debit Card,Delivered,17,70,50,
+FD101381,2026-05-12,12:45,CUST1327,Delhi,Spice Route,North Indian,775,0,0,Debit Card,Delivered,16,33,55,3
+FD100934,2026-07-14,20:33,CUST1593,Delhi,Noodle Nation,Chinese,365,0,0,UPI,Delivered,23,47,50,4
+FD101007,2026-07-22,11:23,CUST1165,Bengaluru,Tandoori Nights,Mughlai,430,45,35,UPI,Delivered,29,44,60,
+FD100189,2026-05-14,20:50,CUST1679,Delhi,Pizza Junction,Pizza,1335,0,0,UPI,Delivered,21,46,55,
+FD101301,2026-06-09,21:54,CUST1129,Mumbai,hyderabadi handi,Biryani,515,0,49,Cash on Delivery,Delivered,30,77,65,4
+FD100752,2026-09-08,13:31,CUST1489,Chennai,Slice Station,Pizza,510,0,35,UPI,Delivered,27,48,50,3
+FD100703,2026-05-24,11:29,CUST1341,Noida,Slice Station,Pizza,380,0,35,UPI,Delivered,19,49,50,3
+FD100750,2026-09-07,13:17,CUST1164,Mumbai,Dosa Corner,South Indian,400,0,49,Credit Card,Delivered,19,44,50,
+FD100992,2026-05-10,15:47,CUST1201,Delhi,Dragon Wok,Chinese,430,62,35,Credit Card,Delivered,,42,55,
+FD100122,2026-05-28,13:18,CUST1628,Delhi,Dragon Wok,Chinese,490,146,49,Cash on Delivery,Delivered,23,50,55,2
+FD101339,2026-08-01,17:46,CUST1019,Kolkata,Chai & Chaat,Street Food,210,0,25,Cash on Delivery,Delivered,12,35,45,4
+FD101158,2026-04-27,16:53,CUST1287,Delhi,Chai & Chaat,Street Food,275,0,0,UPI,Delivered,9,41,45,4
+FD100158,2026-09-14,13:45,CUST1228,KOLKATA,Chai & Chaat,Street Food,125,0,49,UPI,Delivered,16,56,45,4
+FD101005,2026-08-21,21:04,CUST1451,  Kolkata ,Pizza Junction,Pizza,520,59,35,Cash on Delivery,Delivered,22,56,55,3
+FD101379,2026-09-26,10:32,CUST1470,Bengaluru,Spice Route,North Indian,550,123,35,Debit Card,Refunded,23,52,55,1
+FD100351,2026-05-05,12:02,CUST1013,Mumbai,Momo Magic,Street Food,130,0,0,Debit Card,Delivered,7,26,50,
+FD100066,2026-07-11,21:39,CUST1459,Mumbai,Royal Kebab,Mughlai,720,0,0,UPI,Delivered,33,50,60,
+FD100379,2026-08-28,23:48,CUST1526,Gurugram,Slice Station,PIZZA,400,0,49,Credit Card,Delivered,22,53,55,4
+FD100269,2026-09-19,13:37,CUST1411,Pune,Fresh Salad Co,Healthy,340,45,25,Debit Card,Cancelled,,,45,
+FD100028,2026-04-02,18:42,CUST1505,Gurugram,Slice Station,Pizza,500,0,0,UPI,Delivered,21,55,55,4
+FD101399,2026-07-03,19:14,CUST1118,Jaipur,Sweet Tooth,Desserts,425,49,25,Cash on Delivery,Delivered,10,20,40,
+FD100108,2026-09-19,12:05,CUST1638,Delhi,Tandoori Nights,Mughlai,325,0,25,credit card,Delivered,28,55,60,3
+FD100151,2026-05-07,13:34,CUST1062,Pune,Spice Route,North Indian,665,150,0,Cash on Delivery,Delivered,21,41,50,2
+FD101374,2026-09-18,19:17,CUST1608,Bengaluru,Mithai Mahal,  Desserts ,440,0,35,Net Banking,Cancelled,13,,45,
+FD100340,2026-04-20,13:02,CUST1445,Chennai,Wrap It Up,Fast Food,480,116,49,UPI,Delivered,16,30,45,
+FD101363,2026-08-15,20:40,CUST1678,Hyderabad,BURGER BARN,Fast Food,475,0,0,UPI,Refunded,23,65,45,1
+FD100249,2026-04-13,11:44,CUST1381,Gurugram,Chai & Chaat,Street Food,130,0,49,Debit Card,Delivered,12,44,45,4
+FD100616,2026-09-10,12:35,CUST1221,Bengaluru,Kathi Roll Co.,Street Food,195,0,35,Credit  Card,Delivered,6,27,50,4
+FD101186,2026-06-26,14:29,CUST1416,Pune,Fresh Salad Co,Healthy,285,84,25,UPI,Delivered,13,33,45,3
+FD100499,2026-05-04,14:58,CUST1352,Noida,Hyderabadi Handi,Biryani,610,0,0,Net Banking,Delivered,36,72,60,3
+FD100939,2026-04-30,19:26,CUST1293,Noida,Hyderabadi Handi,Biryani,680,0,0,Upi,Delivered,31,52,60,4
+FD100194,2026-04-28,18:35,CUST1601,Kolkata,Kathi Roll Co.,Street Food,205,57,49,Net Banking,Cancelled,14,,45,
+FD101350,2026-09-01,13:48,CUST1100,Mumbai,Dosa Corner,south indian,265,0,35,Cash on Delivery,Delivered,13,44,50,
+FD101225,2026-09-13,10:08,CUST1176,Gurugram,Dragon Wok,Chinese,260,0,25,debit card,Delivered,19,63,55,4
+FD101084,2026-06-21,21:34,CUST1287,  Delhi ,Bengal Bites,Regional,295,76,49,UPI,Delivered,27,43,55,
+FD100412,2026-05-15,17:36,CUST1400,Mumbai,Rajasthani Rasoi,Regional,715,0,0,UPI,Delivered,23,46,60,4
+FD100954,2026-06-22,16:15,CUST1130,Delhi,Biryani House,Biryani,390,0,49,DEBIT CARD,Delivered,28,43,60,3
+FD100748,2026-07-23,11:52,CUST1188,Mumbai,WRAP IT UP,Fast  Food,310,0,49,UPI,Delivered,10,33,45,
+FD100985,2026-08-18,15:17,CUST1428,Pune,Biryani House,Biryani,710,0,0,Debit Card,Delivered,26,40,60,4
+FD101107,2026-09-30,16:50,CUST1002,Jaipur,Rajasthani Rasoi,Regional,430,107,49,UPI,Refunded,26,50,55,2
+FD100004,2026-04-11,19:32,CUST1175,Mumbai,Fresh Salad Co,Healthy,485,67,49,Debit Card,delivered,18,35,45,3
+FD101193,2026-06-06,13:31,CUST1625,Bengaluru,Dilli Darbar,North Indian,365,84,35,UPI,Cancelled,,,60,
+FD100566,2026-04-06,11:20,CUST1179,MUMBAI,Rajasthani Rasoi,Regional,565,0,35,Net Banking,Delivered,23,44,60,2
+FD101307,2026-08-26,23:21,CUST1204,Gurugram,Bengal Bites,Regional,265,0,35,Cash on Delivery,Delivered,28,46,55,4
+FD100899,2026-07-31,15:32,CUST1163,Chennai,Tandoori Nights,Mughlai,375,99,25,UPI,Delivered,26,46,55,3
+FD101251,2026-04-29,15:23,CUST1504,Delhi,Wrap It Up,Fast Food,255,0,35,Cash on Delivery,Delivered,11,25,45,3
+FD101392,2026-08-30,13:03,CUST1206,Hyderabad,Rajasthani Rasoi,Regional,530,109,35,Digital Wallet,Delivered,28,57,55,4
+FD100344,2026-08-09,17:45,CUST1413,Pune,Dragon Wok,Chinese,715,150,0,UPI,Delivered,20,49,55,3
+FD101446,2026-05-08,10:20,CUST1559,Kolkata,South Spice,South  Indian,280,0,49,UPI,Delivered,17,34,50,4
+FD100149,2026-05-26,18:18,CUST1543,Bengaluru,Bengal Bites,Regional,295,0,35,Digital Wallet,Delivered,21,67,55,4
+FD100812,2026-07-23,14:26,CUST1270,Jaipur,Kathi Roll Co.,Street Food,360,0,49,UPI,Delivered,13,38,45,2
+FD100161,2026-08-26,22:23,CUST1057,Pune,Fresh Salad Co,Healthy,445,0,25,Debit  Card,Delivered,9,24,45,
+FD100942,2026-07-07,22:04,CUST1450,Mumbai,Dragon Wok,Chinese,270,73,25,Debit Card,Delivered,26,43,55,
+FD101239,2026-06-08,19:35,CUST1171,Bengaluru,Fresh Salad Co,Healthy,540,0,35,UPI,Delivered,14,30,50,5
+FD100991,2026-06-12,21:04,CUST1387,Noida,  Momo Magic ,Street Food,215,0,35,UPI,Delivered,15,68,45,2
+FD101375,2026-07-23,22:56,CUST1182,Kolkata,Bengal Bites,Regional,440,86,35,Digital Wallet,Delivered,20,46,55,2
+FD101312,2026-09-08,13:57,CUST1607,,DRAGON WOK,Chinese,510,139,49,Digital Wallet,Delivered,14,52,50,3
+FD100113,2026-09-24,22:23,CUST1343,Jaipur,Biryani House,Biryani,825,0,0,UPI,Delivered,28,51,55,4
+FD100756,2026-09-08,14:49,CUST1639,Noida,Chai & Chaat,Street Food,155,0,0,UPI,Delivered,15,35,40,4
+FD100082,2026-08-17,13:05,CUST1286,Chennai,  Dosa Corner ,South Indian,275,76,49,UPI,Delivered,19,32,45,4
+FD100510,2026-08-04,20:16,CUST1152,Delhi,Burger Barn,Fast Food,495,0,35,UPI,Delivered,15,46,45,4
+FD100145,2026-06-07,13:43,CUST1187,Chennai,wrap it up,Fast Food,170,49,25,Credit Card,Delivered,19,51,45,2
+FD100408,2026-08-26,10:11,CUST1661,Pune,Noodle  Nation,Chinese,345,0,25,Cash on Delivery,delivered,22,35,50,3
+FD100744,2026-04-08,14:21,CUST1220,Hyderabad,Hyderabadi Handi,Biryani,665,0,0,Net Banking,Delivered,34,64,60,4
+FD101021,2026-04-05,13:22,CUST1522,Bengaluru,Sweet Tooth,Desserts,225,23,25,UPI,Delivered,16,38,50,4
+FD101377,2026-07-01,19:54,CUST1124,Pune,Royal Kebab,Mughlai,1040,0,0,Net Banking,Cancelled,30,,60,
+FD100843,2026-09-10,21:33,CUST1324,Pune,Punjabi Tadka,North Indian,290,0,0,UPI,Delivered,30,55,55,4
+FD101352,2026-04-19,19:32,CUST1666,Bengaluru,Biryani House,Biryani,835,0,0,Debit Card,Delivered,24,52,60,3
+FD100753,2026-08-01,13:11,CUST1286,Jaipur,Spice Route,North Indian,480,0,35,UPI,Cancelled,,,50,
+FD100138,2026-09-18,21:15,CUST1467,Chennai,Biryani House,Biryani,460,0,35,Digital Wallet,Cancelled,,,60,
+FD100291,2026-06-16,13:01,CUST1697,Bengaluru,Dilli Darbar,North Indian,290,67,35,UPI,Delivered,26,69,60,
+FD101405,2026-08-27,19:20,CUST1059,Chennai,Kathi Roll Co.,Street Food,240,0,25,UPI,Delivered,12,55,45,3
+FD100730,2026-07-07,13:30,CUST1115,Hyderabad,Bengal Bites,Regional,420,0,0,UPI,Delivered,19,41,50,
+FD101172,2026-05-13,21:51,CUST1318,Mumbai,Burger Barn,Fast Food,455,0,25,Debit Card,Delivered,18,44,50,
+FD100955,2026-07-17,19:45,CUST1395,Jaipur,Dragon Wok,Chinese,825,0,0,Digital Wallet,Delivered,26,41,50,4
+FD100440,2026-06-04,21:10,CUST1679,Hyderabad,Noodle Nation,Chinese,345,97,35,UPI,Cancelled,22,,50,
+FD100002,2026-05-13,19:15,CUST1402,Jaipur,Fresh Salad Co,Healthy,555,0,49,Digital Wallet,Cancelled,10,,40,
+FD100826,2026-09-25,22:00,CUST1461,Delhi,Wrap It Up,Fast Food,160,0,0,UPI,Refunded,16,49,45,2
+FD100820,2026-06-24,13:09,CUST1402,Pune,Momo Magic,Street Food,180,51,35,Debit Card,Delivered,20,39,45,4
+FD100699,2026-04-09,20:47,CUST1601,Noida,Dragon Wok,Chinese,415,0,25,Credit Card,Delivered,27,49,50,3
+FD101202,2026-09-13,12:58,CUST1040,Hyderabad,Hyderabadi Handi,Biryani,590,0,35,UPI,Delivered,30,60,60,4
+FD101424,2026-07-18,21:52,CUST1061,kolkata,Dragon Wok,Chinese,275,0,49,  Debit Card ,Delivered,21,44,55,4
+FD101351,2026-09-27,13:30,CUST1488,Mumbai,Dragon Wok,Chinese,260,0,49,Upi,Delivered,28,77,55,
+FD100854,2026-06-07,21:08,CUST1494,Bengaluru,Mithai Mahal,Desserts,385,93,25,,Delivered,16,36,45,3
+FD100322,2026-08-30,19:11,CUST1006,Noida,Rajasthani Rasoi,Regional,325,61,25,Digital Wallet,Cancelled,,,55,
+FD100806,2026-05-25,20:41,CUST1549,HYDERABAD,Biryani House,Biryani,340,46,0,upi,Delivered,25,48,60,4
+FD101188,2026-09-04,21:55,CUST1149,Delhi,Wrap It Up,Fast Food,360,0,49,Net Banking,Delivered,21,45,45,3
+FD101001,2026-08-08,21:43,CUST1271,Noida,Sweet Tooth,Desserts,460,46,49,UPI,Delivered,18,32,45,
+FD100188,2026-07-25,21:09,CUST1417,Bengaluru,Pizza Junction,Pizza,475,0,35,Cash on Delivery,Delivered,25,50,55,4
+FD100088,2026-05-15,14:06,CUST1158,Hyderabad,Noodle Nation,Chinese,235,0,25,Cash on Delivery,Refunded,20,51,50,3
+FD101329,2026-05-31,11:54,CUST1210,Noida,Noodle Nation,Chinese,240,31,0,Credit Card,Delivered,18,33,50,3
+FD100936,2026-07-16,20:33,CUST1544,chennai,Pizza Junction,Pizza,895,0,0,Debit Card,Delivered,20,53,50,4
+FD100382,2026-09-12,21:11,CUST1580,Jaipur,Fresh Salad Co,Healthy,590,0,35,UPI,Cancelled,,,40,
+FD100601,2026-09-27,22:50,CUST1518,Hyderabad,Biryani House,Biryani,410,0,49,UPI,Delivered,36,65,60,4
+FD100807,2026-07-30,22:19,CUST1457,Mumbai,Mithai Mahal,Desserts,370,87,49,Credit Card,Cancelled,13,,45,
+FD100007,2026-08-22,20:50,CUST1249,Chennai,Tandoori Nights,Mughlai,835,150,0,Debit Card,Refunded,25,63,55,2
+FD100880,2026-07-07,13:54,CUST1427,Delhi,Pizza Junction,Pizza,445,0,35,UPI,Delivered,22,39,55,4
+FD100032,2026-08-27,13:52,CUST1127,Delhi,Pizza  Junction,Pizza,640,0,0,UPI,Delivered,25,41,55,
+FD100248,2026-05-09,13:27,CUST1619,Bengaluru,Dragon Wok,Chinese,535,0,0,Cash on Delivery,Delivered,26,49,55,4
+FD100319,2026-08-30,20:47,CUST1088,Hyderabad,Dosa Corner,South Indian,330,0,25,UPI,Delivered,13,480,45,
+FD101121,2026-06-26,13:47,CUST1700,Chennai,South Spice,South Indian,100,0,0,Cash on Delivery,Delivered,24,58,50,
+FD100598,2026-07-09,21:04,CUST1473,Chennai,Kathi Roll Co.,Street Food,255,0,25,Cash on Delivery,Refunded,20,33,45,2
+FD100181,2026-04-04,20:36,CUST1087,Bengaluru,Tandoori Nights,Mughlai,840,0,0,Credit Card,Delivered,23,56,60,2
+FD101010,2026-09-16,21:18,CUST1396,Chennai,Momo Magic,Street Food,355,91,35,UPI,Delivered,16,45,45,4
+FD101445,2026-08-18,13:35,CUST1156,Bengaluru,FRESH SALAD CO,Healthy,175,0,49,Cash on Delivery,Delivered,15,44,50,2
+FD100655,2026-05-01,20:37,CUST1280,Chennai,Chai & Chaat,Street Food,155,,35,UPI,Delivered,17,45,40,3
+FD100788,2026-04-04,13:28,CUST1082,Bengaluru,Punjabi Tadka,North Indian,500,0,25,Net Banking,Delivered,25,55,60,4
+FD100668,2026-09-15,13:29,CUST1523,Kolkata,Biryani House,Biryani,695,0,0,Cash on Delivery,Delivered,32,63,60,3
+FD100784,2026-05-09,13:21,CUST1250,Hyderabad,Dilli Darbar,North Indian,565,60,25,UPI,Delivered,24,38,55,4
+FD100304,2026-07-17,14:37,CUST1253,Mumbai,bengal bites,Regional,440,0,25,  UPI ,Delivered,24,49,55,
+FD100187,2026-08-13,20:11,CUST1440,Chennai,Tandoori  Nights,Mughlai,465,0,0,Credit Card,Delivered,27,42,55,4
+FD100430,2026-05-09,15:00,CUST1389,Mumbai,Dosa Corner,South Indian,330,0,35,UPI,Delivered,20,39,50,4
+FD100265,2026-07-15,22:15,CUST1100,Pune,WRAP IT UP,Fast Food,240,40,35,UPI,Delivered,20,39,45,3
+FD100425,2026-04-13,19:07,CUST1281,Noida,Biryani House,Biryani,240,59,25,Cash on Delivery,Delivered,27,37,55,4
+FD100751,2026-04-02,15:54,CUST1175,Hyderabad,Slice Station,Pizza,335,89,25,Credit Card,Delivered,23,41,50,2
+FD100814,2026-09-28,17:53,CUST1585,mumbai,Chai & Chaat,Street Food,215,0,35,UPI,Delivered,9,24,45,3
+FD101140,2026-05-08,19:09,CUST1144,Kolkata,Pizza Junction,Pizza,715,0,0,UPI,Delivered,26,39,55,4
+FD100167,2026-09-21,12:18,CUST1584,Delhi,Tandoori Nights,Mughlai,500,0,25,UPI,Cancelled,,,60,
+FD100378,2026-09-18,17:21,CUST1597,Delhi,Healthy Bowl,Healthy,520,0,25,UPI,Delivered,16,26,50,5
+FD100087,2026-07-03,21:32,CUST1013,Delhi,SWEET TOOTH,Desserts,365,42,0,Upi,Delivered,11,24,45,3
+FD100333,2026-08-24,18:07,CUST1358,Bengaluru,Punjabi Tadka,  North Indian ,325,70,25,UPI,Delivered,25,39,60,4
+FD100597,2026-08-27,15:17,CUST1574,Mumbai,Sweet Tooth,Desserts,520,131,25,Credit Card,Delivered,16,35,45,4
+FD101373,2026-07-17,16:45,CUST1278,Delhi,Fresh Salad Co,Healthy,230,42,49,UPI,Delivered,13,35,45,
+FD101335,2026-08-13,21:45,CUST1185,Bangalore,Punjabi Tadka,North Indian,725,150,0,Cash on Delivery,Cancelled,32,,60,
+FD100709,2026-04-26,21:05,CUST1345,Noida,Fresh Salad Co,Healthy,395,0,25,Cash on Delivery,Delivered,16,37,45,3
+FD100124,2026-07-14,19:08,CUST1502,Hyderabad,Mithai Mahal,Desserts,405,0,0,UPI,Cancelled,,,40,
+FD100617,2026-08-21,18:10,CUST1370,noida,Dilli Darbar,North Indian,440,0,0,Credit Card,Delivered,21,29,55,4
+FD100244,2026-05-04,13:18,CUST1088,Delhi,Rajasthani Rasoi,Regional,645,150,0,Credit Card,Delivered,29,53,55,4
+FD100913,2026-09-21,19:16,CUST1030,Bengaluru,Momo Magic,Street Food,365,62,25,,Delivered,9,35,50,4
+FD101062,2026-08-22,20:07,CUST1499,mumbai,Healthy Bowl,Healthy,345,0,25,Cash on Delivery,Delivered,19,40,50,3
+FD101320,2026-07-22,11:50,CUST1109,Chennai,Momo Magic,Street Food,200,0,35,Credit Card,Delivered,16,26,45,
+FD101170,2026-09-27,13:06,CUST1254,Delhi,Royal Kebab,mughlai,690,0,0,UPI,Delivered,27,64,60,
+FD101155,2026-05-18,20:43,CUST1254,Delhi,Dilli Darbar,North Indian,485,0,0,Digital Wallet,Delivered,28,40,55,5
+FD101296,2026-09-08,15:19,CUST1406,Delhi,Mithai Mahal,Desserts,455,0,35,UPI,Delivered,8,32,45,
+FD101023,2026-05-14,12:41,CUST1571,Bengaluru,Royal Kebab,  Mughlai ,500,0,25,Cash on Delivery,Delivered,24,58,65,4
+FD101316,2026-06-18,12:16,CUST1269,Hyderabad,Royal  Kebab,Mughlai,330,0,25,UPI,Cancelled,,,60,
+FD100516,2026-09-05,20:48,CUST1108,  Delhi ,Tandoori Nights,Mughlai,350,93,49,  Credit Card ,Delivered,34,78,60,3
+FD100611,2026-04-12,19:19,CUST1673,Mumbai,Healthy Bowl,Healthy,545,0,25,UPI,DELIVERED,19,39,50,
+FD100263,2026-04-12,12:54,CUST1243,Bengaluru,South Spice,South Indian,175,0,25,Digital Wallet,Delivered,12,45,55,4
+FD100058,2026-06-24,17:18,CUST1137,Pune,South Spice,South Indian,345,0,25,Debit Card,Delivered,21,40,50,3
+FD100250,2026-07-26,22:32,CUST1156,Noida,Pizza Junction,Pizza,860,150,0,UPI,Delivered,27,68,50,4
+FD100029,2026-08-29,21:13,CUST1471,Bengaluru,Fresh Salad Co,Healthy,830,123,0,UPI,Delivered,19,58,50,2
+FD100621,2026-08-01,10:34,CUST1507,Mumbai,HEALTHY BOWL,Healthy,355,39,0,UPI,Delivered,16,41,50,
+FD100020,2026-06-06,20:55,CUST1607,Hyderabad,Chai & Chaat,Street Food,200,0,25,Cash on Delivery,Delivered,14,75,40,2
+FD101112,2026-06-07,12:45,CUST1032,Pune,Slice Station,Pizza,475,0,0,UPI,Delivered,13,25,50,3
+FD101286,2026-09-22,12:08,CUST1085,Chennai,Hyderabadi Handi,Biryani,695,0,0,UPI,Delivered,28,39,60,
+FD101384,2026-04-22,16:04,CUST1043,Bengaluru,Tandoori Nights,Mughlai,515,58,25,Cash on Delivery,Delivered,28,46,60,2
+FD100649,2026-09-30,20:02,CUST1487,Delhi,Dosa Corner,South Indian,180,0,35,Digital Wallet,Delivered,16,34,50,5
+FD100686,2026-07-06,23:03,CUST1572,Mumbai,Dragon Wok,Chinese,245,0,49,UPI,  Delivered ,19,43,55,3
+FD100986,2026-07-04,22:56,CUST1062,Hyderabad,Hyderabadi Handi,Biryani,645,150,0,Digital Wallet,Delivered,31,58,60,
+FD100212,2026-08-31,23:26,CUST1340,Bengaluru,Mithai Mahal,Desserts,315,0,25,Debit Card,Delivered,8,35,45,4
+FD100550,2026-08-25,22:21,CUST1248,Jaipur,South Spice,South Indian,290,0,35,UPI,Delivered,24,45,45,3
+FD100949,2026-04-27,13:26,CUST1384,Pune,Spice Route,North Indian,475,0,25,UPI,Delivered,25,45,50,
+FD101321,2026-09-27,11:24,CUST1285,Delhi,Chai & Chaat,Street Food,270,0,25,UPI,Cancelled,,,45,
+FD100976,2026-05-31,14:33,CUST1673,Bengaluru,Dosa Corner,South Indian,170,0,35,Digital Wallet,Delivered,19,56,50,3
+FD100745,2026-04-25,15:20,CUST1496,Mumbai,Hyderabadi Handi,Biryani,320,0,25,Credit Card,Delivered,31,56,65,3
+FD100052,2026-05-31,16:36,CUST1388,Pune,Rajasthani Rasoi,  Regional ,860,150,0,  Debit Card ,Delivered,33,45,55,4
+FD100237,2026-05-03,22:14,CUST1130,hyderabad,FRESH SALAD CO,Healthy,,,25,Digital Wallet,Delivered,13,45,45,
+FD100571,2026-04-02,17:18,CUST1365,Kolkata,Slice Station,Pizza,325,83,25,Digital Wallet,Delivered,15,30,50,3
+FD100553,2026-09-17,17:39,CUST1612,Bengaluru,Royal Kebab,Mughlai,305,31,25,Cash on Delivery,Delivered,23,44,65,
+FD100059,2026-09-02,14:54,CUST1418,Kolkata,Fresh Salad Co,Healthy,530,0,49,UPI,Delivered,16,42,45,4
+FD101423,2026-09-17,13:47,CUST1144,Jaipur,Tandoori Nights,Mughlai,645,98,0,UPI,Delivered,27,49,55,3
+FD100575,2026-09-27,13:30,CUST1425,Jaipur,DOSA CORNER,South Indian,220,0,25,Cash on Delivery,Delivered,14,26,45,4
+FD100049,2026-09-08,15:55,CUST1090,Chennai,Punjabi Tadka,  North Indian ,415,0,25,UPI,Cancelled,20,,55,
+FD101057,2026-05-23,19:57,CUST1093,Gurugram,Sweet Tooth,Desserts,360,40,25,Credit  Card,Refunded,7,50,45,1
+FD100043,2026-07-21,20:44,CUST1534,Delhi,Pizza Junction,Pizza,445,0,0,UPI,Delivered,22,41,55,3
+FD101283,2026-07-28,20:46,CUST1261,Mumbai,Tandoori Nights,Mughlai,590,111,49,UPI,Delivered,27,45,60,3
+FD101055,2026-08-03,14:59,CUST1037,delhi,Pizza Junction,Pizza,255,0,49,UPI,Delivered,24,45,55,3
+FD100358,2026-09-20,22:59,CUST1311,Noida,Chai & Chaat,Street Food,300,0,0,Digital Wallet,Delivered,14,28,40,4
+FD101134,2026-04-01,14:02,CUST1440,Delhi,Hyderabadi Handi,Biryani,490,,49,UPI,Cancelled,,,60,
+FD100127,2026-09-04,13:50,CUST1427,Bengaluru,Pizza Junction,Pizza,505,61,35,UPI,Delivered,21,66,55,3
+FD100390,2026-09-15,20:54,CUST1121,Delhi,Wrap It Up,Fast Food,185,0,35,cash on delivery,Delivered,12,30,45,3
+FD100643,2026-08-31,14:50,CUST1210,Kolkata,Chai & Chaat,Street Food,325,0,35,UPI,Delivered,14,28,45,3
+FD100567,2026-09-19,22:16,CUST1200,Pune,Biryani House,Biryani,350,0,49,Cash on Delivery,Delivered,32,60,60,
+FD100670,2026-06-08,17:28,CUST1590,Delhi,pizza junction,Pizza,400,109,25,Credit Card,Refunded,15,27,55,2
+FD100313,2026-04-22,12:39,CUST1073,Mumbai,Dragon Wok,Chinese,230,0,35,UPI,Delivered,27,46,55,4
+FD101425,2026-08-02,11:22,CUST1076,Jaipur,Burger Barn,Fast  Food,265,0,0,Credit Card,Delivered,10,25,45,3
+FD100302,2026-08-06,14:27,CUST1551,Jaipur,Pizza Junction,Pizza,400,71,49,UPI,Delivered,26,56,50,3
+FD101386,2026-08-15,10:09,CUST1147,  Gurugram ,Wrap It Up,Fast Food,475,0,25,Digital Wallet,Delivered,7,28,45,
+FD100120,2026-07-24,15:34,CUST1303,Mumbai,Biryani House,Biryani,810,87,0,Cash on Delivery,Delivered,24,37,60,
+FD100288,2026-06-26,21:38,CUST1498,Kolkata,Fresh Salad Co,Healthy,325,0,49,Cash on Delivery,Delivered,18,65,45,3
+FD100897,2026-04-22,19:32,CUST1602,Mumbai,Chai & Chaat,Street Food,270,0,25,UPI,Delivered,8,29,45,4
+FD100375,2026-07-04,18:09,CUST1689,Pune,Royal Kebab,Mughlai,355,0,49,Credit Card,Delivered,31,64,60,4
+FD101401,2026-06-15,23:23,CUST1007,Jaipur,Dilli Darbar,North Indian,460,0,25,UPI,Delivered,21,29,55,3
+FD101439,2026-05-10,19:43,CUST1645,gurugram,KATHI ROLL CO.,Street Food,260,,25,UPI,Cancelled,,,45,
+FD101258,2026-06-24,20:48,CUST1010,Delhi,Kathi Roll Co.,Street Food,420,0,35,  Digital Wallet ,Refunded,17,30,45,3
+FD100031,2026-08-15,20:36,CUST1618,Mumbai,Mithai Mahal,Desserts,445,0,25,Digital Wallet,Delivered,15,40,45,3
+FD101385,2026-09-10,18:30,CUST1072,Jaipur,Healthy Bowl,Healthy,635,0,0,Cash on Delivery,Delivered,15,30,45,4
+FD100671,2026-09-17,21:07,CUST1282,Pune,Wrap It Up,Fast Food,225,0,25,Net Banking,Delivered,17,41,45,4
+FD100202,2026-09-19,18:22,CUST1301,Jaipur,Burger Barn,Fast Food,270,74,0,Debit Card,Delivered,12,26,45,3
+FD100353,2026-09-20,14:00,CUST1549,chennai,Hyderabadi Handi,Biryani,605,0,0,Cash on Delivery,Delivered,35,65,60,
+FD100761,2026-09-28,23:41,CUST1669,Chennai,Tandoori Nights,Mughlai,945,150,0,Digital Wallet,Delivered,23,43,55,
+FD100065,2026-05-06,19:49,CUST1079,Pune,Punjabi Tadka,North Indian,280,74,49,Cash on Delivery,Delivered,22,37,55,5
+FD101264,2026-06-09,20:59,CUST1629,Jaipur,Biryani House,Biryani,930,150,0,Debit Card,Delivered,31,51,55,
+FD100832,2026-07-05,23:57,CUST1289,Mumbai,Chai & Chaat,Street Food,100,21,0,Net Banking,Delivered,11,32,45,
+FD100179,2026-07-11,20:01,CUST1429,Mumbai,Noodle Nation,Chinese,485,0,49,UPI,Cancelled,25,,55,
+FD101305,2026-05-29,20:26,CUST1354,bengaluru,Royal Kebab,Mughlai,790,85,0,UPI,Delivered,32,47,65,3
+FD100229,2026-07-03,20:05,CUST1007,Delhi,Mithai Mahal,Desserts,410,64,35,Cash on Delivery,Delivered,12,27,45,
+FD101231,2026-04-28,12:09,CUST1079,Mumbai,Pizza Junction,Pizza,525,142,25,Debit Card,Delivered,20,52,55,
+FD100081,2026-08-27,12:04,CUST1074,Bengaluru,Dilli Darbar,North Indian,635,150,0,Cash on Delivery,Delivered,26,43,60,3
+FD101083,2026-04-26,20:01,CUST1008,Pune,Noodle Nation,Chinese,265,0,25,Cash on Delivery,Delivered,19,40,50,
+FD100979,2026-04-29,20:01,CUST1514,Gurugram,Dragon Wok,Chinese,540,90,35,Cash on Delivery,Cancelled,22,,55,
+FD100779,2026-09-13,20:01,CUST1452,Gurugram,Momo Magic,Street Food,305,0,0,UPI,Delivered,22,46,45,4
+FD101355,2026-08-03,20:42,CUST1454,Delhi,Dragon Wok,Chinese,285,48,49,  UPI ,Delivered,28,48,55,
+FD100328,2026-05-09,18:07,CUST1520,HYDERABAD,Healthy Bowl,Healthy,665,67,0,Digital Wallet,Delivered,13,41,50,3
+FD101345,2026-05-12,15:34,CUST1549,Pune,Rajasthani Rasoi,Regional,330,0,49,Credit Card,DELIVERED,23,54,55,3
+FD100285,2026-05-28,14:34,CUST1418,Chennai,Slice Station,Pizza,465,0,25,Debit Card,Delivered,24,48,50,
+FD100417,2026-09-07,10:10,CUST1284,Noida,Biryani House,Biryani,465,123,35,UPI,Delivered,26,41,55,3
+FD101265,2026-07-02,20:34,CUST1289,Delhi,Spice Route,North Indian,225,0,0,UPI,Delivered,26,41,55,4
+FD100792,2026-09-15,12:40,CUST1115,Mumbai,Kathi Roll Co.,Street Food,180,36,49,UPI,Delivered,13,32,50,
+FD100791,2026-04-29,13:10,CUST1001,Jaipur,Pizza Junction,Pizza,860,0,0,Digital Wallet,Delivered,23,61,50,
+FD100210,2026-07-27,19:43,CUST1355,Kolkata,Burger Barn,Fast Food,515,106,35,Cash on Delivery,Delivered,11,23,45,
+FD101330,2026-06-04,22:38,CUST1185,Bengaluru,Hyderabadi Handi,Biryani,530,0,35,Cash on Delivery,Delivered,35,55,65,4
+FD100970,2026-05-17,19:19,CUST1426,Chennai,Punjabi Tadka,North Indian,275,62,25,Cash on Delivery,Cancelled,18,,55,
+FD100098,2026-08-06,11:45,CUST1621,Bengaluru,Biryani House,BIRYANI,365,0,35,Credit Card,Delivered,24,48,60,4
+FD100284,2026-08-04,17:40,CUST1402,Bangalore,Biryani House,Biryani,280,31,35,Cash on Delivery,Delivered,28,52,60,5
+FD100675,2026-08-07,14:28,CUST1697,Kolkata,South Spice,South Indian,260,61,35,Credit Card,Delivered,25,52,50,
+FD100778,2026-06-07,19:02,CUST1124,Delhi,Dilli Darbar,North Indian,325,55,0,UPI,Delivered,30,51,55,
+FD100746,2026-08-01,19:31,CUST1235,Hyderabad,Chai & Chaat,Street Food,115,21,49,Cash on Delivery,Delivered,11,36,40,4
+FD100401,2026-07-29,14:04,CUST1556,Delhi,Punjabi Tadka,North Indian,620,0,0,Debit Card,Delivered,27,41,55,3
+FD100717,2026-04-01,23:47,CUST1437,Mumbai,Dosa Corner,South Indian,255,0,35,UPI,Delivered,17,50,50,5
+FD101116,2026-08-09,14:52,CUST1119,Mumbai,Royal Kebab,Mughlai,495,0,49,UPI,Delivered,36,66,60,4
+FD100838,2026-08-19,15:55,CUST1566,Noida,Bengal Bites,Regional,475,0,35,UPI,Delivered,19,56,50,2
+FD100478,2026-09-13,23:55,CUST1343,Kolkata,Slice Station,Pizza,410,88,25,Net Banking,Delivered,18,39,50,4
+FD100898,2026-09-06,20:30,CUST1467,Gurugram,Dragon Wok,Chinese,355,64,49,UPI,Delivered,27,50,55,3
+FD101042,2026-09-27,19:41,CUST1097,Hyderabad,Chai & Chaat,Street Food,175,28,25,Cash on Delivery,Delivered,11,53,40,3
+FD101104,2026-08-12,16:45,CUST1102,Pune,Tandoori Nights,Mughlai,320,0,25,UPI,Refunded,22,54,55,1
+FD100607,2026-09-19,20:58,CUST1311,mumbai,PIZZA JUNCTION,Pizza,390,60,25,,Delivered,21,114,55,2
+FD100362,2026-09-28,23:49,CUST1674,Hyderabad,Dilli Darbar,North Indian,585,0,49,Debit Card,Delivered,26,58,55,
+FD100572,2026-05-30,22:28,CUST1648,Gurugram,Biryani House,Biryani,535,0,49,Digital Wallet,Delivered,33,52,60,5
+FD100494,2026-08-21,20:21,CUST1127,Mumbai,Rajasthani Rasoi,Regional,420,0,25,Cash on Delivery,Cancelled,24,,60,
+FD100850,2026-06-18,14:26,CUST1228,Chennai,Dosa Corner,South Indian,255,0,35,Digital Wallet,Delivered,19,43,45,
+FD100336,2026-07-28,18:54,CUST1582,Delhi,Hyderabadi Handi,biryani,455,0,25,Cash on Delivery,Delivered,33,55,60,
+FD100133,2026-05-31,15:28,CUST1353,Kolkata,Chai & Chaat,Street Food,125,0,49,UPI,Delivered,10,28,45,5
+FD101402,2026-06-21,12:14,CUST1685,Pune,Hyderabadi Handi,Biryani,440,129,49,Digital Wallet,Delivered,25,44,60,5
+FD100354,2026-06-29,19:18,CUST1050,Mumbai,Noodle Nation,  Chinese ,365,0,25,Credit Card,Cancelled,,,55,
+FD100073,2026-06-15,12:37,CUST1646,Kolkata,Punjabi Tadka,North Indian,505,0,25,Cash on Delivery,Delivered,20,42,55,5
+FD100886,2026-06-02,20:30,CUST1504,Pune,Dragon Wok,Chinese,595,87,35,Upi,Delivered,24,39,55,3
+FD100144,2026-09-01,22:42,CUST1188,Bangalore,Pizza Junction,Pizza,540,0,35,Debit Card,Refunded,22,59,55,1
+FD101071,2026-07-26,19:24,CUST1581,Gurugram,Burger Barn,Fast Food,150,0,49,UPI,Delivered,11,27,50,4
+FD100823,2026-06-21,13:43,CUST1252,Bengaluru,Mithai Mahal,Desserts,340,93,25,Credit Card,Delivered,12,45,45,3
+FD101215,2026-05-09,12:59,CUST1287,Mumbai,Hyderabadi Handi,Biryani,360,92,35,UPI,Delivered,25,51,65,2
+FD100555,2026-09-07,12:56,CUST1328,Jaipur,Burger Barn,Fast Food,360,96,25,Debit Card,Delivered,11,22,45,3
+FD100381,2026-09-30,22:23,CUST1526,Pune,Noodle Nation,Chinese,270,0,49,UPI,Cancelled,26,,50,
+FD101142,2026-09-09,17:42,CUST1033,Gurugram,Punjabi Tadka,North Indian,305,82,49,DEBIT CARD,Delivered,20,42,55,5
+FD100290,2026-06-16,12:11,CUST1315,Hyderabad,Chai & Chaat,Street Food,160,16,0,Credit Card,Refunded,7,20,40,2
+FD100315,2026-04-19,16:55,CUST1308,Bengaluru,Slice Station,Pizza,445,0,35,COD,Cancelled,17,,55,
+FD101439,2026-05-10,19:43,CUST1645,Gurugram,Kathi Roll Co.,Street Food,260,,25,UPI,Cancelled,,,45,
+FD100871,2026-08-23,20:28,CUST1283,Mumbai,Sweet Tooth,desserts,300,85,35,Debit Card,Delivered,15,54,45,
+FD101127,2026-05-03,21:55,CUST1032,Mumbai,Slice Station,Pizza,720,0,0,UPI,Delivered,22,60,55,
+FD100479,2026-09-19,20:44,CUST1534,Noida,Pizza Junction,Pizza,865,0,0,UPI,Delivered,23,46,50,3
+FD100493,2026-06-06,13:37,CUST1161,Pune,Pizza Junction,Pizza,745,0,0,Cash on Delivery,Delivered,24,58,50,3
+FD100335,2026-07-09,22:14,CUST1157,Mumbai,punjabi tadka,North Indian,375,0,25,Cash on Delivery,Delivered,27,57,55,4
+FD100209,2026-09-26,14:08,CUST1037,Delhi,Pizza Junction,Pizza,690,150,0,Net Banking,Delivered,27,102,55,4
+FD101103,2026-07-11,12:53,CUST1655,Jaipur,Kathi Roll Co.,Street Food,265,0,0,UPI,Delivered,12,38,45,3
+FD101056,2026-06-10,14:00,CUST1625,Gurugram,Pizza Junction,Pizza,605,0,0,UPI,DELIVERED,25,46,55,3
+FD100203,2026-04-06,13:04,CUST1664,bengaluru,BIRYANI HOUSE,BIRYANI,190,43,35,UPI,Delivered,29,58,60,
+FD100638,2026-09-13,20:16,CUST1172,  Chennai ,Slice Station,Pizza,385,0,49,Credit Card,Delivered,22,43,50,2
+FD100712,2026-08-14,19:18,CUST1614,Mumbai,Kathi Roll Co.,Street Food,195,40,49,Debit Card,Delivered,17,36,50,
+FD100155,2026-09-14,22:14,CUST1242,Noida,Hyderabadi Handi,Biryani,540,0,25,Upi,Delivered,33,47,60,3
+FD100632,2026-06-13,15:06,CUST1044,Mumbai,DILLI DARBAR,North Indian,455,83,25,UPI,Delivered,27,51,60,
+FD100176,2026-06-06,21:05,CUST1438,Hyderabad,Fresh Salad Co,Healthy,295,74,35,Credit Card,Delivered,14,28,45,
+FD100008,2026-09-26,22:17,CUST1344,Gurugram,Kathi Roll Co.,Street Food,170,0,25,UPI,Delivered,16,41,45,3
+FD101132,2026-04-16,17:29,CUST1518,Delhi,Momo Magic,Street Food,330,35,0,Digital Wallet,Cancelled,,,45,
+FD101342,2026-07-15,19:35,CUST1633,Chennai,South Spice,South Indian,440,0,35,Cash on Delivery,Delivered,14,53,50,3
+FD100426,2026-07-31,22:52,CUST1110,Noida,Dragon Wok,Chinese,485,0,35,Credit Card,Delivered,25,45,50,3
+FD100153,2026-06-29,14:53,CUST1264,Hyderabad,Dragon Wok,Chinese,415,0,25,Debit Card,Delivered,22,49,55,4
+FD100974,2026-04-01,19:41,CUST1660,delhi,Chai & Chaat,Street Food,265,0,0,Upi,Delivered,10,40,45,5
+FD101376,2026-06-22,11:12,CUST1082,Hyderabad,Healthy Bowl,HEALTHY,635,0,0,UPI,Delivered,,127,50,
+FD100698,2026-06-28,19:32,CUST1082,Pune,Healthy Bowl,Healthy,235,50,49,UPI,Delivered,20,40,50,
+FD100239,2026-06-06,20:18,CUST1652,Delhi,Rajasthani Rasoi,Regional,335,0,35,UPI,Cancelled,30,,55,
+FD100360,2026-07-07,20:03,CUST1019,Delhi,Biryani House,Biryani,785,150,0,Debit Card,Delivered,29,65,60,5
+FD100079,2026-05-28,19:16,CUST1384,Chennai,Dosa Corner,South Indian,260,0,0,UPI,Delivered,12,37,45,4
+FD100228,2026-09-10,13:36,CUST1057,Pune,Burger Barn,Fast Food,375,0,35,Cash on Delivery,Delivered,20,76,45,1
+FD100613,2026-08-10,20:56,CUST1494,Gurugram,Pizza Junction,Pizza,565,150,25,UPI,Delivered,21,57,55,3
+FD100870,2026-04-23,21:41,CUST1192,Mumbai,Bengal Bites,Regional,605,0,0,Digital Wallet,Delivered,33,58,55,
+FD100117,2026-07-08,13:35,CUST1631,Jaipur,  Chai & Chaat ,Street Food,220,0,35,Credit Card,Delivered,15,25,40,
+FD100324,2026-05-25,18:11,CUST1007,Hyderabad,Noodle Nation,Chinese,585,0,25,UPI,Delivered,17,24,50,1
+FD100147,2026-06-01,20:54,CUST1094,Mumbai,Sweet Tooth,Desserts,470,57,35,UPI,Delivered,19,46,45,
+FD101462,2026-04-12,14:45,CUST1048,Delhi,Biryani House,Biryani,360,0,35,UPI,Delivered,22,49,60,
+FD100964,2026-04-12,12:20,CUST1675,Mumbai,South Spice,South Indian,215,0,35,UPI,Delivered,16,38,50,
+FD100174,2026-09-11,13:53,CUST1170,Jaipur,Pizza Junction,Pizza,410,0,49,Digital Wallet,Delivered,,48,50,3
+FD101220,2026-04-13,12:26,CUST1390,Chennai,Royal Kebab,Mughlai,905,0,0,Cash on Delivery,Delivered,28,43,60,4
+FD100912,2026-05-16,13:51,CUST1033,Pune,  Fresh Salad Co ,Healthy,550,150,25,Credit Card,Delivered,16,43,45,4
+FD100047,2026-05-17,21:57,CUST1649,Delhi,Pizza Junction,Pizza,345,0,25,Digital Wallet,Delivered,21,46,55,4
+FD100972,2026-06-29,20:49,CUST1298,Chennai,Hyderabadi Handi,Biryani,990,0,0,Debit Card,Cancelled,35,,60,
+FD100734,2026-09-20,11:56,CUST1001,Mumbai,  Fresh Salad Co ,Healthy,255,0,35,Upi,Delivered,11,34,45,3
+FD100148,2026-07-13,12:00,CUST1045,Delhi,Sweet Tooth,Desserts,210,50,0,UPI,Delivered,13,31,45,4
+FD100415,2026-08-22,21:39,CUST1647,Bengaluru,Hyderabadi Handi,Biryani,425,98,35,UPI,Delivered,28,54,65,4
+FD100154,2026-09-29,21:22,CUST1527,Hyderabad,Hyderabadi Handi,Biryani,295,0,35,Net Banking,Delivered,28,60,60,
+FD100564,2026-06-11,18:33,CUST1382,Mumbai,Noodle Nation,Chinese,385,69,35,Debit Card,Refunded,19,42,55,3
+FD100810,2026-08-10,18:08,CUST1641,Hyderabad,Dosa Corner,South Indian,525,137,25,Cash on Delivery,Delivered,14,24,45,4
+FD100428,2026-09-13,14:21,CUST1385,Bengaluru,Bengal Bites,Regional,295,0,25,Debit Card,Delivered,24,53,55,4
+FD100165,2026-08-22,16:10,CUST1692,Hyderabad,Rajasthani Rasoi,Regional,460,126,25,,Delivered,20,47,55,
+FD101459,2026-07-27,12:47,CUST1665,Hyderabad,Biryani House,Biryani,250,0,35,Cash on Delivery,Delivered,26,44,60,3
+FD101078,2026-06-10,19:00,CUST1084,Chennai,Punjabi Tadka,North Indian,380,0,0,Credit Card,Delivered,21,37,55,4
+FD100624,2026-07-13,11:49,CUST1552,Pune,Biryani House,Biryani,320,0,0,UPI,Delivered,25,44,60,
+FD101288,2026-09-19,12:14,CUST1589,Chennai,Healthy Bowl,Healthy,450,0,35,,Canceled,19,,50,
+FD100914,2026-04-27,14:51,CUST1079,  Hyderabad ,Dilli Darbar,North Indian,275,53,25,Debit Card,Delivered,27,58,55,3
+FD101267,2026-07-04,20:44,CUST1214,Delhi,Rajasthani Rasoi,Regional,540,0,35,Upi,Delivered,27,50,55,3
+FD100387,2026-08-08,18:51,CUST1210,Pune,Biryani House,Biryani,570,0,35,Credit Card,delivered,29,54,60,3
+FD100236,2026-07-27,16:06,CUST1456,Delhi,Slice Station,Pizza,425,0,35,UPI,Delivered,24,49,50,
+FD100123,2026-06-09,10:24,CUST1449,Kolkata,Spice Route,North Indian,390,0,0,UPI,Delivered,23,37,55,
+FD100096,2026-08-02,12:53,CUST1087,Chennai,Dosa Corner,South Indian,570,0,49,Debit Card,Delivered,13,43,45,4
+FD100211,2026-09-20,18:03,CUST1598,Delhi,Slice Station,Pizza,350,0,25,UPI,Cancelled,12,,50,
+FD100046,2026-06-29,17:03,CUST1048,Chennai,Hyderabadi Handi,Biryani,455,118,25,Digital Wallet,Delivered,26,48,60,4
+FD101217,2026-09-09,23:13,CUST1253,Delhi,Biryani House,Biryani,390,0,25,Cash on Delivery,Delivered,21,43,60,5
+FD100615,2026-08-26,14:18,CUST1298,Noida,Dragon Wok,Chinese,330,0,25,Digital Wallet,Delivered,27,53,50,4
+FD100163,2026-06-18,13:12,CUST1133,Gurugram,Wrap It Up,Fast Food,305,86,49,Cash on Delivery,Delivered,12,41,45,3
+FD100383,2026-05-31,13:28,CUST1273,Delhi,Dosa Corner,South Indian,400,99,49,UPI,Delivered,19,36,50,4
+FD100844,2026-08-30,15:41,CUST1216,Hyderabad,Tandoori Nights,Mughlai,45000,0,49,UPI,Delivered,27,52,55,4
+FD100459,2026-07-26,20:29,CUST1197,Hyderabad,Dosa Corner,South Indian,205,0,25,Cash on Delivery,Refunded,21,31,45,2
+FD100834,2026-09-12,13:17,CUST1276,Bangalore,Biryani House,Biryani,655,78,0,UPI,Delivered,23,55,60,5
+FD101426,2026-05-15,20:19,CUST1397,Delhi,Kathi Roll Co.,Street Food,165,49,35,Digital Wallet,Refunded,19,35,45,1
+FD100612,2026-04-25,20:08,CUST1579,Hyderabad,Pizza Junction,Pizza,910,0,0,Cash on Delivery,Delivered,16,37,50,3
+FD100711,2026-04-14,14:47,CUST1254,Mumbai,PUNJABI TADKA,North Indian,720,0,0,Cash on Delivery,Cancelled,,,55,
+FD101250,2026-07-26,20:46,CUST1358,Hyderabad,Pizza Junction,Pizza,580,0,25,Debit Card,Delivered,22,49,50,
+FD100191,2026-08-16,12:30,CUST1400,  Bengaluru ,Mithai Mahal,Desserts,395,0,35,UPI,Delivered,6,24,45,4
+FD100822,2026-09-13,14:30,CUST1187,delhi,Kathi Roll Co.,Street Food,175,0,49,Digital Wallet,Delivered,13,36,45,3
+FD100841,2026-04-24,17:31,CUST1365,Bengaluru,Kathi Roll Co.,Street Food,160,0,35,Credit Card,Delivered,14,36,50,3
+FD100596,2026-04-10,18:41,CUST1055,Noida,Biryani House,Biryani,355,92,35,Digital Wallet,Delivered,28,57,55,4
+FD100797,2026-04-12,23:16,CUST1352,Delhi,Fresh Salad Co,Healthy,125,,0,UPI,Delivered,13,31,45,
+FD101101,2026-06-27,14:26,CUST1067,bengaluru,SPICE ROUTE,North Indian,235,33,25,UPI,Cancelled,29,,55,
+FD100169,2026-04-28,20:40,CUST1539,Gurugram,Royal Kebab,Mughlai,775,0,0,Digital Wallet,Delivered,32,55,60,
+FD100256,2026-09-07,17:54,CUST1560,Pune,Tandoori Nights,Mughlai,710,120,0,Cash on Delivery,Delivered,27,36,55,3
+FD100092,2026-09-08,22:45,CUST1192,mumbai,Punjabi Tadka,North Indian,270,0,25,Cash on Delivery,Delivered,29,57,55,3
+FD101313,2026-05-12,14:30,CUST1343,Delhi,Dragon Wok,Chinese,295,44,49,Cash on Delivery,Refunded,23,54,55,2
+FD101443,2026-06-29,14:45,CUST1334,Bengaluru,Fresh Salad Co,Healthy,580,92,49,Debit Card,Delivered,16,56,50,2
+FD101029,2026-05-30,15:10,CUST1017,Mumbai,Hyderabadi Handi,Biryani,385,0,25,Cash on Delivery,Delivered,31,56,65,3
+FD100932,2026-09-13,20:49,CUST1209,Delhi,Fresh Salad Co,Healthy,345,42,49,Upi,Delivered,18,52,45,4
+FD100714,2026-06-04,17:00,CUST1533,Bengaluru,South Spice,South Indian,195,0,25,Credit Card,Delivered,18,32,55,
+FD100574,2026-08-03,23:58,CUST1441,Chennai,Royal Kebab,Mughlai,590,150,25,UPI,Delivered,23,50,60,5
+FD101190,2026-06-20,19:37,CUST1641,Pune,Kathi Roll Co.,Street Food,365,0,35,Digital Wallet,Cancelled,13,,45,
+FD100251,2026-08-11,20:47,CUST1304,Bengaluru,Pizza Junction,Pizza,320,42,49,UPI,Delivered,24,50,55,2
+FD100371,2026-04-04,19:17,CUST1529,Mumbai,Hyderabadi Handi,Biryani,925,131,0,UPI,Delivered,23,45,65,4
+FD101408,2026-07-31,22:07,CUST1552,Delhi,Healthy Bowl,Healthy,520,0,0,UPI,Delivered,22,87,50,4
+FD100170,2026-09-05,13:55,CUST1456,Delhi,Kathi Roll Co.,STREET FOOD,285,0,25,Cash on Delivery,Delivered,16,42,45,
+FD100074,2026-04-20,10:49,CUST1404,Hyderabad,Dilli Darbar,North Indian,525,0,49,Credit Card,Delivered,25,,55,4
+FD101268,2026-08-08,22:52,CUST1517,Noida,Dilli Darbar,North Indian,455,0,0,UPI,Delivered,21,38,55,3
+FD100041,2026-08-03,12:11,CUST1457,Hyderabad,Rajasthani Rasoi,REGIONAL,480,95,0,Debit Card,Delivered,25,52,55,
+FD100759,2026-07-03,15:11,CUST1125,Hyderabad,Sweet Tooth,Desserts,190,43,25,Digital Wallet,Cancelled,,,45,
+FD100847,2026-08-22,12:56,CUST1513,Hyderabad,Pizza Junction,Pizza,665,0,0,UPI,Cancelled,,,50,
+FD100394,2026-08-27,13:58,CUST1499,Gurugram,Tandoori Nights,Mughlai,695,150,0,UPI,Delivered,26,71,60,
+FD100763,2026-09-01,22:27,CUST1122,delhi,MOMO MAGIC,Street Food,185,53,35,Credit Card,Delivered,15,35,45,4
+FD100627,2026-06-23,13:24,CUST1255,Delhi,Dosa Corner,South Indian,265,0,49,,Delivered,18,32,50,5
+FD101038,2026-07-30,19:50,CUST1498,Mumbai,Spice Route,North Indian,580,85,0,UPI,Delivered,27,56,55,3
+FD100424,2026-07-30,20:02,CUST1275,Kolkata,Kathi Roll Co.,Street Food,250,73,35,Cash on Delivery,Delivered,14,32,45,4
+FD100348,2026-05-29,19:03,CUST1519,Pune,Mithai Mahal,Desserts,480,56,35,UPI,Delivered,11,34,40,3
+FD100500,2026-07-28,12:35,CUST1650,Pune,Punjabi Tadka,North Indian,485,49,49,Digital Wallet,Delivered,28,45,55,3
+FD100422,2026-08-16,13:40,CUST1192,Pune,Burger Barn,Fast Food,215,0,35,Credit Card,Delivered,16,37,45,
+FD100726,2026-09-06,14:24,CUST1066,Hyderabad,Biryani House,Biryani,520,0,49,Credit Card,Cancelled,29,,60,
+FD100593,2026-08-22,15:00,CUST1305,Mumbai,Rajasthani Rasoi,Regional,385,0,0,UPI,Delivered,16,118,60,4
+FD101124,2026-08-30,21:25,CUST1503,Bengaluru,  Noodle Nation ,Chinese,385,0,25,Cash on Delivery,Delivered,26,56,55,
+FD100738,2026-05-04,20:01,CUST1204,,Tandoori Nights,Mughlai,1005,150,0,UPI,  Delivered ,29,51,60,4
+FD100824,2026-08-11,20:25,CUST1296,Bengaluru,Kathi Roll Co.,Street Food,275,43,35,Digital Wallet,Delivered,16,34,50,4
+FD100563,2026-05-10,23:52,CUST1663,Bengaluru,Kathi Roll Co.,Street Food,190,0,0,Cash on Delivery,Delivered,12,55,50,3
+FD101159,2026-04-20,21:26,CUST1459,Delhi,Pizza Junction,Pizza,445,51,35,Cash on Delivery,Delivered,24,44,55,3
+FD101066,2026-07-03,11:43,CUST1548,Noida,Tandoori Nights,Mughlai,805,0,0,Cash on Delivery,Refunded,19,50,55,1
+FD100636,2026-06-22,11:02,CUST1411,Bengaluru,Slice Station,Pizza,535,128,0,Digital Wallet,Delivered,25,59,55,
+FD100634,2026-06-03,14:39,CUST1304,Noida,Fresh Salad Co,Healthy,360,0,49,Credit Card,Delivered,17,34,45,3
+FD100116,2026-04-19,17:44,CUST1690,Bengaluru,Dilli Darbar,North Indian,380,0,25,Digital Wallet,Cancelled,23,,60,
+FD100297,2026-09-18,20:22,CUST1247,Bengaluru,Rajasthani Rasoi,Regional,450,0,35,Credit Card,Delivered,25,47,60,3
+FD101455,2026-07-08,22:14,CUST1493,delhi,Dilli Darbar,North Indian,505,0,49,UPI,Delivered,22,43,55,4
+FD100788,2026-04-04,13:28,CUST1082,Bengaluru,Punjabi Tadka,North Indian,500,0,25,Net Banking,Delivered,25,55,60,4
+FD100469,2026-08-06,19:33,CUST1639,Mumbai,Chai & Chaat,Street Food,210,0,49,UPI,delivered,11,37,45,4
+FD100891,2026-09-28,11:43,CUST1683,Pune,Slice Station,Pizza,570,0,25,UPI,Delivered,18,31,50,
+FD100451,2026-05-30,21:34,CUST1690,Hyderabad,Kathi Roll Co.,Street Food,295,0,35,UPI,Delivered,21,54,45,3
+FD101205,2026-09-20,16:47,CUST1442,  Kolkata ,Fresh  Salad  Co,Healthy,295,87,35,Net Banking,Delivered,10,28,45,4
+FD101155,2026-05-18,20:43,CUST1254,Delhi,Dilli Darbar,North Indian,485,0,0,Digital Wallet,Delivered,28,40,55,5
+FD100690,2026-09-16,12:35,CUST1528,Gurugram,Dragon Wok,Chinese,295,57,25,UPI,Cancelled,20,,55,
+FD100515,2026-05-07,12:32,CUST1075,Pune,Slice Station,Pizza,480,137,0,Cash on Delivery,Delivered,19,35,50,3
+FD100483,2026-06-06,17:50,CUST1662,Kolkata,Dragon Wok,Chinese,220,0,35,Credit Card,Delivered,21,42,55,3
+FD101295,2026-08-22,22:23,CUST1338,Bengaluru,Momo Magic,Street Food,165,41,0,UPI,Delivered,17,38,50,
+FD101416,2026-09-27,19:36,CUST1221,Pune,Hyderabadi Handi,Biryani,450,75,49,Cash on Delivery,Delivered,24,44,60,4
+FD100890,2026-09-28,10:30,CUST1182,Mumbai,Wrap It Up,fast food,315,0,35,UPI,Delivered,14,25,45,
+FD100388,2026-08-06,19:03,CUST1580,Hyderabad,Momo Magic,street food,245,69,49,UPI,Delivered,16,38,45,4
+FD100203,2026-04-06,13:04,CUST1664,Bengaluru,Biryani House,BIRYANI,190,43,35,UPI,Delivered,29,58,60,
+FD100503,2026-09-24,14:51,CUST1447,Delhi,Pizza Junction,Pizza,700,150,0,UPI,Refunded,21,32,55,1
+FD101201,2026-05-09,21:17,CUST1171,Chennai,Dragon Wok,Chinese,480,83,35,UPI,Delivered,20,46,55,
+FD101012,2026-08-05,11:58,CUST1431,Delhi,Fresh Salad Co,Healthy,355,0,35,UPI,Delivered,10,34,45,
+FD100110,2026-06-13,21:19,CUST1031,Chennai,South Spice,South Indian,290,0,35,UPI,Delivered,20,32,50,3
+FD100871,2026-08-23,20:28,CUST1283,Mumbai,Sweet Tooth,desserts,300,85,35,Debit Card,Delivered,15,54,45,
+FD100594,2026-06-13,14:04,CUST1410,Jaipur,Spice  Route,North Indian,305,70,35,UPI,Delivered,28,55,50,3
+FD100218,2026-08-30,15:48,CUST1144,Noida,Kathi Roll Co.,Street Food,185,0,35,UPI,Delivered,15,41,45,
+FD100159,2026-07-14,13:26,CUST1301,Gurugram,Rajasthani Rasoi,Regional,515,0,25,,Delivered,30,47,55,3
+FD100657,2026-04-16,20:43,CUST1495,Pune,Tandoori Nights,Mughlai,610,0,0,Net  Banking,Delivered,26,58,55,
+FD101180,2026-08-16,18:31,CUST1525,Mumbai,Fresh Salad Co,Healthy,585,0,0,UPI,Delivered,12,27,45,3
+FD101209,2026-05-13,16:33,CUST1032,Gurugram,Dilli Darbar,North  Indian,450,66,49,UPI,Cancelled,,,60,
+FD100215,2026-04-05,21:31,CUST1049,Mumbai,Chai & Chaat,Street Food,110,25,35,UPI,Delivered,13,39,45,
+FD101048,2026-07-30,17:44,CUST1577,Noida,Tandoori Nights,Mughlai,1385,150,0,Net Banking,Delivered,25,44,55,3
+FD101463,2026-09-27,12:59,CUST1593,Pune,South Spice,South Indian,285,0,35,UPI,Delivered,18,52,50,3
+FD101378,2026-04-15,17:18,CUST1399,Jaipur,Fresh Salad Co,Healthy,280,71,25,Debit Card,Cancelled,12,,40,
+FD100950,2026-09-18,19:00,CUST1383,Bengaluru,Sweet Tooth,Desserts,365,0,49,UPI,Delivered,17,34,50,4
+FD100331,2026-07-05,20:43,CUST1296,Bengaluru,Royal Kebab,mughlai,585,0,25,UPI,Cancelled,,,65,
+FD100688,2026-08-10,23:01,CUST1252,Bengaluru,Slice Station,Pizza,640,0,0,UPI,Delivered,19,41,55,3
+FD100957,2026-09-29,20:02,CUST1611,Chennai,Burger Barn,Fast Food,310,34,35,Debit Card,Delivered,21,50,45,3
+FD101122,2026-06-07,18:30,CUST1127,Delhi,Bengal Bites,Regional,345,103,35,UPI,Delivered,18,49,55,
+FD100429,2026-08-16,18:41,CUST1463,mumbai,Kathi Roll Co.,Street Food,190,0,25,UPI,Delivered,14,54,50,4
+FD101393,2026-07-19,11:13,CUST1395,Pune,Punjabi Tadka,NORTH INDIAN,565,0,35,,Delivered,21,43,55,
+FD100878,2026-05-26,14:31,CUST1223,Bengaluru,Rajasthani Rasoi,Regional,425,59,25,UPI,Canceled,23,,60,
+FD100578,2026-08-24,17:16,CUST1475,Mumbai,Dilli Darbar,North Indian,935,149,0,Digital Wallet,Refunded,24,47,60,3
+FD101089,2026-08-01,12:36,CUST1119,Pune,Pizza Junction,Pizza,620,0,0,UPI,Cancelled,,,50,
+FD101200,2026-08-05,23:11,CUST1442,Chennai,Dosa Corner,South Indian,365,0,0,UPI,Delivered,19,52,45,3
+FD100704,2026-04-16,18:03,CUST1230,Pune,Tandoori Nights,Mughlai,550,100,49,UPI,Delivered,24,45,55,
+FD100959,2026-08-21,19:52,CUST1346,Gurugram,Spice Route,North Indian,260,58,49,UPI,Delivered,19,36,55,3
+FD100448,2026-07-06,17:51,CUST1551,Kolkata,South Spice,South  Indian,200,0,35,Cash on Delivery,Delivered,22,46,50,3
+FD100747,2026-05-23,14:33,CUST1080,Kolkata,Spice Route,North Indian,475,117,49,Credit Card,Delivered,20,39,55,3
+FD101081,2026-05-02,19:58,CUST1523,,Wrap It Up,Fast Food,370,0,35,UPI,Delivered,7,24,45,3
+FD101153,2026-07-04,20:20,CUST1003,Bengaluru,Noodle Nation,Chinese,245,32,49,Credit Card,Delivered,20,46,55,2
+FD100517,2026-09-29,11:02,CUST1169,Bengaluru,Biryani House,Biryani,385,109,35,Digital Wallet,Delivered,26,46,60,
+FD100273,2026-09-27,23:56,CUST1592,Kolkata,Noodle Nation,Chinese,490,129,25,UPI,Delivered,21,37,50,3
+FD100140,2026-04-09,20:13,CUST1631,Pune,Sweet Tooth,Desserts,310,0,25,Credit Card,Delivered,18,32,45,3
+FD100731,2026-08-11,22:34,CUST1195,Kolkata,Hyderabadi Handi,Biryani,720,0,0,UPI,Delivered,34,55,60,4
+FD101340,2026-04-10,21:24,CUST1601,Hyderabad,Momo Magic,Street Food,245,39,0,UPI,Delivered,20,35,45,4
+FD101436,2026-06-19,20:10,CUST1169,Delhi,South Spice,South Indian,200,43,25,UPI,Delivered,20,37,50,2
+FD100432,2026-05-11,11:30,CUST1383,Pune,Dilli  Darbar,North Indian,420,0,25,Cash on Delivery,Delivered,26,31,55,4
+FD100839,2026-08-28,21:39,CUST1039,Gurugram,Wrap It Up,Fast  Food,130,0,25,UPI,Delivered,18,120,45,2
+FD101143,2026-09-03,17:17,CUST1679,Bengaluru,Rajasthani Rasoi,Regional,655,98,0,Credit Card,Delivered,24,65,60,
+FD101088,2026-06-27,21:48,CUST1347,Pune,Dilli Darbar,North Indian,295,0,35,Cash on Delivery,Delivered,25,47,55,
+FD100980,2026-05-04,18:02,CUST1336,Bengaluru,Pizza Junction,Pizza,755,0,0,Credit Card,Delivered,19,36,55,
+FD100801,2026-09-05,14:07,CUST1575,Mumbai,Wrap It Up,Fast Food,210,0,49,UPI,Refunded,16,55,45,1
+FD101369,2026-04-27,14:16,CUST1620,Chennai,Mithai Mahal,Desserts,230,42,35,UPI,Delivered,22,38,40,
+FD100764,2026-06-07,21:40,CUST1681,Noida,Biryani House,Biryani,270,0,25,UPI,Delivered,31,58,55,3
+FD101163,2026-06-22,16:39,CUST1009,Mumbai,Slice Station,Pizza,535,131,0,UPI,Delivered,22,32,55,3
+FD100931,2026-09-21,22:25,CUST1169,Bengaluru,punjabi tadka,North Indian,340,0,49,Cash on Delivery,Delivered,23,41,60,
+FD101303,2026-06-17,19:34,CUST1534,Pune,Dragon Wok,Chinese,275,80,0,UPI,Cancelled,21,,55,
+FD101073,2026-05-18,11:54,CUST1238,Bengaluru,Dilli Darbar,north indian,585,119,49,Cash on Delivery,Delivered,25,41,60,4
+FD100129,2026-05-02,21:00,CUST1682,Bengaluru,Chai & Chaat,Street Food,225,43,35,UPI,Delivered,12,57,45,4
+FD100009,2026-06-08,15:09,CUST1011,Pune,Royal Kebab,Mughlai,575,93,25,UPI,Delivered,28,49,60,
+FD100312,2026-07-31,20:16,CUST1651,Mumbai,Rajasthani Rasoi,Regional,710,0,0,Digital Wallet,Delivered,29,58,60,4
+FD101218,2026-06-07,13:18,CUST1523,Mumbai,Punjabi Tadka,North Indian,505,0,25,Credit Card,Delivered,26,49,55,
+FD100527,2026-07-05,20:27,CUST1269,Mumbai,Punjabi Tadka,North Indian,455,0,25,UPI,Delivered,21,47,55,4
+FD101072,2026-06-24,16:51,CUST1690,Mumbai,Momo Magic,Street Food,120,0,0,Debit Card,Delivered,14,36,50,4
+FD100672,2026-07-16,13:01,CUST1204,Pune,Chai & Chaat,Street Food,210,0,25,Credit Card,Delivered,17,44,40,4
+FD100207,2026-05-02,22:39,CUST1414,Bengaluru,Kathi Roll Co.,Street Food,380,0,0,Credit Card,Delivered,16,50,50,
+FD101432,2026-04-21,19:03,CUST1552,Bengaluru,Biryani House,Biryani,785,0,0,Cash on Delivery,Delivered,27,53,60,5
+FD101406,2026-07-01,16:12,CUST1361,Jaipur,Tandoori Nights,Mughlai,995,0,0,Cash on Delivery,Delivered,21,32,55,3
+FD100915,2026-09-14,14:29,CUST1410,Chennai,Spice Route,North Indian,305,0,35,Credit Card,Delivered,26,36,50,3
+FD100204,2026-07-20,21:26,CUST1375,Mumbai,Dosa Corner,South Indian,280,0,35,UPI,Delivered,22,53,50,4
+FD100055,2026-07-21,14:55,CUST1345,Delhi,Sweet Tooth,Desserts,170,0,25,UPI,Delivered,19,59,45,
+FD101113,2026-07-04,19:31,CUST1658,Delhi,Healthy Bowl,Healthy,355,37,35,Net Banking,Delivered,18,35,50,4
+FD100489,2026-04-13,21:12,CUST1671,Chennai,Slice Station,Pizza,245,0,0,UPI,Delivered,24,39,50,3
+FD100541,2026-08-06,12:30,CUST1515,Gurugram,South Spice,South Indian,190,0,25,UPI,Delivered,11,28,50,
+FD101383,2026-09-25,13:52,CUST1013,Mumbai,Spice Route,North Indian,330,0,0,Debit Card,Delivered,28,76,55,2
+FD100190,2026-08-31,14:12,CUST1487,Hyderabad,Kathi Roll Co.,Street Food,175,0,25,Net Banking,Delivered,16,38,45,4
+FD100109,2026-07-25,20:34,CUST1658,Chennai,Fresh Salad Co,  Healthy ,420,0,35,UPI,Delivered,15,52,45,2
+FD100538,2026-05-23,18:31,CUST1087,Chennai,Noodle Nation,Chinese,335,0,25,UPI,Delivered,17,32,50,3
+FD100522,2026-07-01,18:08,CUST1615,Pune,Dragon Wok,Chinese,510,115,35,UPI,Delivered,25,37,55,4
+FD100775,2026-08-18,20:31,CUST1318,Mumbai,Pizza Junction,Pizza,760,0,0,UPI,Delivered,24,42,55,
+FD100551,2026-09-08,23:43,CUST1602,Delhi,Mithai Mahal,Desserts,300,0,25,Credit Card,Delivered,7,33,45,
+FD100023,2026-06-20,12:24,CUST1049,Hyderabad,Dosa Corner,South Indian,165,34,25,UPI,Delivered,19,34,45,
+FD100377,2026-06-04,14:18,CUST1511,Pune,Biryani House,Biryani,270,0,49,Upi,Delivered,32,64,60,4
+FD100938,2026-06-29,20:59,CUST1546,  Hyderabad ,Tandoori Nights,Mughlai,540,0,35,UPI,Delivered,34,46,55,3
+FD100595,2026-04-28,20:09,CUST1060,Bengaluru,Mithai Mahal,Desserts,635,0,0,UPI,Delivered,11,35,45,
+FD101338,2026-06-18,17:35,CUST1238,Mumbai,Fresh Salad Co,Healthy,425,119,25,UPI,Delivered,5,26,45,4
+FD100206,2026-04-25,20:24,CUST1296,  Pune ,Bengal Bites,Regional,195,0,25,Credit Card,Delivered,20,49,50,
+FD100094,2026-08-17,19:17,CUST1012,Chennai,Burger Barn,Fast Food,220,0,49,UPI,Cancelled,17,,45,
+FD100225,2026-06-18,20:39,CUST1221,Hyderabad,Tandoori Nights,Mughlai,515,0,25,UPI,Delivered,33,49,55,4
+FD101182,2026-04-12,18:17,CUST1137,Gurugram,Dosa Corner,South Indian,225,47,0,Cash on Delivery,Delivered,12,31,50,5
+FD101069,2026-06-01,20:20,CUST1175,Delhi,Momo Magic,Street  Food,90,0,49,Cash on Delivery,Delivered,21,55,45,3
+FD100924,2026-09-07,18:31,CUST1582,Pune,Tandoori Nights,Mughlai,575,0,49,UPI,Delivered,23,40,55,3
+FD101126,2026-09-14,22:06,CUST1451,Delhi,Sweet Tooth,Desserts,235,0,49,UPI,Delivered,17,34,45,4
+FD100441,2026-07-25,20:01,CUST1205,Delhi,Rajasthani Rasoi,Regional,405,0,35,Credit Card,Delivered,22,37,55,
+FD100589,2026-09-26,20:16,CUST1271,Gurugram,South Spice,South Indian,150,0,25,Credit Card,delivered,24,52,50,4
+FD100867,2026-06-11,21:43,CUST1203,Chennai,Punjabi Tadka,North Indian,460,0,35,Upi,Delivered,28,56,55,5
+FD100808,2026-07-20,20:38,CUST1020,Bangalore,Biryani House,Biryani,495,0,25,UPI,Delivered,34,53,60,
+FD101111,2026-09-27,11:48,CUST1289,Bengaluru,Momo Magic,Street Food,180,19,49,UPI,Delivered,17,59,50,
+FD100093,2026-08-23,14:15,CUST1021,Hyderabad,Rajasthani Rasoi,Regional,685,0,0,UPI,Delivered,26,39,55,
+FD100977,2026-04-15,17:38,CUST1414,Delhi,Mithai Mahal,Desserts,430,0,25,UPI,Canceled,,,45,
+FD101000,2026-07-16,22:17,CUST1020,Bengaluru,Royal Kebab,Mughlai,545,0,0,Digital Wallet,Delivered,25,48,65,
+FD100271,2026-09-06,12:09,CUST1646,Bengaluru,Royal Kebab,Mughlai,430,0,35,Credit Card,Refunded,30,54,65,1
+FD101249,2026-06-22,13:44,CUST1063,Gurugram,Mithai Mahal,Desserts,455,53,35,UPI,Delivered,11,32,45,
+FD101068,2026-08-05,20:45,CUST1077,Bengaluru,Royal Kebab,Mughlai,725,0,0,UPI,DELIVERED,32,57,65,4
+FD100076,2026-09-25,18:35,CUST1511,Jaipur,Sweet Tooth,Desserts,190,0,25,Credit  Card,Delivered,10,45,40,3
+FD100960,2026-07-05,21:21,CUST1413,Kolkata,  Fresh Salad Co ,Healthy,805,0,0,UPI,Delivered,,37,45,3
+FD100209,2026-09-26,14:08,CUST1037,Delhi,Pizza Junction,Pizza,690,150,0,Net Banking,Delivered,27,102,55,4
+FD100442,2026-08-14,12:03,CUST1438,Delhi,Burger Barn,  Fast Food ,340,59,25,Digital Wallet,Cancelled,,,45,
+FD100561,2026-09-18,14:07,CUST1679,Delhi,Punjabi Tadka,North Indian,25000,0,25,Credit Card,  Delivered ,27,42,55,
+FD100783,2026-08-13,19:17,CUST1314,Pune,Pizza  Junction,Pizza,565,0,49,Credit Card,Delivered,16,51,50,4
+FD101302,2026-09-12,19:36,CUST1280,Mumbai,Momo Magic,Street Food,365,0,49,Credit Card,Delivered,,47,50,
+FD100894,2026-05-02,11:39,CUST1540,Bengaluru,Rajasthani Rasoi,Regional,225,28,25,UPI,Delivered,20,50,60,3
+FD100247,2026-04-13,13:27,CUST1502,Kolkata,Wrap It Up,Fast Food,250,0,25,UPI,Delivered,17,68,45,3
+FD101052,2026-06-07,15:29,CUST1329,Chennai,Chai & Chaat,Street Food,130,0,35,UPI,delivered,18,38,40,3
+FD101465,2026-09-15,13:17,CUST1216,Bangalore,Royal Kebab,Mughlai,705,150,0,UPI,Delivered,29,55,65,4
+FD100470,2026-06-07,12:09,CUST1400,Delhi,Mithai  Mahal,Desserts,475,0,0,Cash on Delivery,Delivered,6,12,45,
+FD100052,2026-05-31,16:36,CUST1388,Pune,Rajasthani Rasoi,  Regional ,860,150,0,  Debit Card ,Delivered,33,45,55,4
+FD101372,2026-05-05,12:51,CUST1158,Kolkata,Sweet Tooth,Desserts,275,0,35,Cash on Delivery,Delivered,19,63,45,4
+FD101136,2026-08-26,13:00,CUST1355,Delhi,Hyderabadi Handi,Biryani,660,0,0,Cash on Delivery,Delivered,32,56,60,5
+FD100131,2026-04-25,16:38,CUST1180,Delhi,Bengal Bites,Regional,510,0,49,UPI,Delivered,18,40,55,5
+FD101252,2026-06-07,20:17,CUST1160,Hyderabad,Dosa Corner,South Indian,315,0,49,UPI,Delivered,17,63,45,
+FD100025,2026-08-11,12:11,CUST1469,Bengaluru,Biryani House,Biryani,1060,144,0,UPI,Delivered,22,59,60,4
+FD100584,2026-04-26,13:48,CUST1690,Bengaluru,Dosa Corner,South Indian,360,0,49,Credit Card,Delivered,20,45,50,4
+FD100392,2026-05-23,14:18,CUST1219,Chennai,Dilli Darbar,North Indian,385,0,49,Cash on Delivery,Delivered,28,56,55,4
+FD100710,2026-06-20,13:05,CUST1636,Noida,Pizza  Junction,Pizza,455,135,35,UPI,Delivered,25,66,50,3
+FD100963,2026-06-12,19:08,CUST1042,,Kathi Roll Co.,Street Food,175,38,0,Digital Wallet,Delivered,12,40,45,2
+FD101366,2026-04-11,17:21,CUST1003,Jaipur,Dragon Wok,Chinese,430,0,25,Upi,Delivered,22,46,50,3
+FD100782,2026-05-03,11:29,CUST1673,Hyderabad,Biryani House,Biryani,230,0,49,UPI,Delivered,30,520,60,4
+FD100026,2026-05-02,13:39,CUST1067,Mumbai,Pizza Junction,Pizza,5066,0,25,UPI,Delivered,25,50,55,4
+FD100156,2026-08-22,21:55,CUST1470,Delhi,South Spice,South Indian,335,67,49,Digital Wallet,Delivered,21,59,50,2
+FD101427,2026-08-30,23:55,CUST1341,Bengaluru,Chai & Chaat,Street Food,140,0,49,Net Banking,Delivered,5,39,45,5
+FD100877,2026-07-05,17:26,CUST1375,Kolkata,Punjabi Tadka,North Indian,685,0,0,UPI,Delivered,18,41,55,
+FD100543,2026-08-24,22:00,CUST1036,Delhi,Mithai Mahal,  Desserts ,480,0,25,Cash on Delivery,Delivered,18,53,45,2
+FD101012,2026-08-05,11:58,CUST1431,Delhi,Fresh Salad Co,Healthy,355,0,35,UPI,Delivered,10,34,45,
+FD101241,2026-07-25,13:23,CUST1430,Bengaluru,Hyderabadi Handi,Biryani,355,59,25,UPI,Delivered,25,45,65,
+FD100881,2026-09-24,15:02,CUST1476,Noida,Sweet Tooth,Desserts,255,0,49,COD,Delivered,14,42,45,4
+FD101118,2026-08-29,21:06,CUST1068,Noida,Kathi Roll Co.,Street Food,235,0,0,UPI,Delivered,20,40,45,3
+FD101315,2026-09-12,13:14,CUST1308,Jaipur,Mithai Mahal,Desserts,445,0,0,UPI,Delivered,19,57,40,
+FD100446,2026-07-12,11:43,CUST1017,Delhi,  Spice Route ,North Indian,260,0,25,UPI,Delivered,20,38,55,3
+FD101353,2026-08-06,13:38,CUST1122,Noida,Tandoori Nights,Mughlai,945,0,0,Cash on Delivery,Delivered,29,56,55,3
+FD101344,2026-05-02,13:03,CUST1271,Kolkata,Rajasthani Rasoi,Regional,350,93,25,Digital Wallet,Delivered,32,66,55,4
+FD100951,2026-06-07,18:35,CUST1481,Bengaluru,Fresh Salad Co,Healthy,415,0,25,UPI,Delivered,19,36,50,
+FD100180,2026-05-03,12:46,CUST1190,Delhi,Tandoori Nights,Mughlai,550,0,25,Cash on Delivery,Delivered,25,48,60,3
+FD100896,2026-07-20,12:08,CUST1489,Bengaluru,Healthy Bowl,Healthy,255,0,49,Credit Card,Cancelled,17,,50,
+FD101346,2026-06-12,11:49,CUST1213,Jaipur,Slice Station,Pizza,970,0,0,Digital Wallet,Delivered,24,32,50,4
+FD101328,2026-09-05,20:40,CUST1618,Chennai,Rajasthani Rasoi,Regional,420,0,49,UPI,Delivered,25,52,55,4
+FD100011,2026-07-05,21:59,CUST1384,Pune,Slice Station,Pizza,380,63,49,UPI,Delivered,25,87,50,1
+FD100355,2026-06-20,16:35,CUST1570,Gurugram,Dilli Darbar,North Indian,790,96,0,Debit Card,Cancelled,25,,60,
+FD100068,2026-08-14,19:12,CUST1600,Mumbai,Fresh Salad Co,Healthy,300,0,49,UPI,Delivered,16,36,45,3
+FD100146,2026-09-23,20:37,CUST1065,Mumbai,Tandoori Nights,Mughlai,415,0,0,UPI,Delivered,35,54,60,4
+FD101082,2026-08-26,19:43,CUST1689,Jaipur,Rajasthani  Rasoi,Regional,195,0,49,UPI,Delivered,23,38,55,3
+FD100416,2026-08-02,21:40,CUST1695,Jaipur,South Spice,South Indian,365,0,35,UPI,Delivered,26,50,45,3
+FD100903,2026-05-06,13:37,CUST1227,Mumbai,Rajasthani Rasoi,Regional,380,0,49,Cash on Delivery,Delivered,31,67,60,
+FD100507,2026-08-12,21:36,CUST1042,Kolkata,Hyderabadi Handi,Biryani,520,0,35,Cash on Delivery,Delivered,35,48,60,
+FD100301,2026-09-07,22:00,CUST1569,Hyderabad,Pizza Junction,Pizza,555,98,25,UPI,Delivered,32,49,50,5
+FD100524,2026-04-19,11:48,CUST1313,Pune,Dosa Corner,South Indian,365,108,25,Cash on Delivery,Delivered,9,39,45,4
+FD101454,2026-09-30,21:02,CUST1334,Bengaluru,Momo Magic,Street Food,190,54,0,Debit Card,Refunded,20,42,50,2
+FD101125,2026-07-09,21:40,CUST1247,Jaipur,Spice Route,North Indian,355,57,25,UPI,Cancelled,,,50,
+FD100438,2026-05-03,19:29,CUST1674,Delhi,Wrap It Up,Fast Food,240,61,49,Digital Wallet,Delivered,14,52,45,3
+FD101160,2026-05-09,20:13,CUST1166,Hyderabad,Biryani House,Biryani,575,0,49,Cash on Delivery,DELIVERED,31,63,60,4
+FD100982,2026-06-21,11:59,CUST1282,delhi,Biryani House,Biryani,450,119,0,Cash on Delivery,Delivered,30,55,60,4
+FD100857,2026-06-24,11:14,CUST1620,Mumbai,Punjabi Tadka,North Indian,320,92,49,UPI,Cancelled,,,55,
+FD100139,2026-05-21,19:22,CUST1558,Pune,Dilli Darbar,North Indian,450,0,25,UPI,Delivered,26,55,55,5
+FD101224,2026-05-16,23:23,CUST1298,Bengaluru,Momo Magic,Street Food,195,0,25,Cash on Delivery,Delivered,8,57,50,4
+FD100196,2026-06-22,16:26,CUST1696,Jaipur,Slice Station,Pizza,505,77,35,UPI,Delivered,21,52,50,
+FD101437,2026-08-26,19:59,CUST1287,Delhi,Royal Kebab,Mughlai,630,0,0,Digital Wallet,Delivered,26,78,60,3
+FD100450,2026-05-01,13:08,CUST1482,Noida,Slice Station,Pizza,405,0,0,UPI,Delivered,28,54,50,
+FD100805,2026-09-11,10:35,CUST1209,Delhi,Tandoori Nights,Mughlai,1205,0,0,Debit Card,Delivered,24,72,60,3
+FD101294,2026-04-07,19:39,CUST1372,Kolkata,Biryani House,Biryani,295,0,49,Net Banking,Delivered,22,36,60,4
+FD100721,2026-07-12,22:33,CUST1699,Delhi,Dosa Corner,South Indian,395,0,35,Digital Wallet,Delivered,,35,50,5
+FD100996,2026-07-02,19:47,CUST1505,Delhi,Pizza Junction,Pizza,900,150,0,Debit Card,Delivered,26,37,55,
+FD100175,2026-05-14,11:29,CUST1072,Delhi,Spice Route,North Indian,415,0,35,Debit Card,Delivered,21,51,55,3
+FD100223,2026-07-29,14:00,CUST1177,Mumbai,Hyderabadi Handi,Biryani,715,0,0,Digital Wallet,Cancelled,31,,65,
+FD100255,2026-09-12,18:10,CUST1254,Gurugram,Wrap It Up,Fast Food,245,0,25,UPI,Delivered,16,34,45,
+FD101368,2026-09-05,18:23,CUST1391,Delhi,Tandoori Nights,Mughlai,270,31,49,UPI,Delivered,28,56,60,4
+FD100386,2026-09-30,19:04,CUST1222,Delhi,Rajasthani Rasoi,Regional,275,0,35,Digital Wallet,Delivered,21,34,55,3
+FD101414,2026-07-13,11:21,CUST1045,Pune,Slice Station,Pizza,425,51,35,Cash on Delivery,Delivered,15,41,50,3
+FD101433,2026-05-20,20:03,CUST1336,Kolkata,Punjabi Tadka,North Indian,875,150,0,Credit Card,Delivered,29,76,55,4
+FD101347,2026-04-22,21:04,CUST1201,Bengaluru,Tandoori Nights,Mughlai,830,0,0,UPI,Cancelled,,,60,
+FD100035,2026-05-02,12:49,CUST1248,Kolkata,Hyderabadi Handi,Biryani,380,0,49,Cash on Delivery,Delivered,27,50,60,
+FD100800,2026-08-08,14:35,CUST1434,Mumbai,Kathi Roll Co.,Street Food,205,0,35,Credit Card,Refunded,17,46,50,1
+FD100266,2026-04-24,22:05,CUST1159,Gurugram,Kathi Roll Co.,Street Food,250,0,35,UPI,Delivered,20,40,45,4
+FD100558,2026-07-16,10:55,CUST1172,Delhi,Tandoori Nights,Mughlai,420,0,35,Debit Card,Delivered,26,40,60,4
+FD100090,2026-07-25,13:04,CUST1462,Bengaluru,Dilli Darbar,North Indian,585,150,49,UPI,Delivered,30,80,60,1
+FD101297,2026-07-10,21:31,CUST1011,Delhi,Slice  Station,Pizza,395,84,25,Credit Card,Delivered,23,41,50,
+FD101149,2026-05-26,19:48,CUST1570,Pune,Burger Barn,Fast Food,125,0,0,,Delivered,14,28,45,
+FD100713,2026-05-16,20:19,CUST1612,Bengaluru,Spice Route,North Indian,425,119,35,UPI,  Delivered ,22,49,55,2
+FD100001,2026-08-27,17:06,CUST1296,Bengaluru,Bengal Bites,Regional,530,69,25,UPI,Delivered,18,,55,4
+FD101053,2026-07-19,23:17,CUST1051,Pune,Dosa Corner,South Indian,500,0,49,UPI,Delivered,19,54,45,4
+FD100614,2026-08-16,23:57,CUST1178,Delhi,Wrap It Up,Fast Food,155,22,25,Cash on Delivery,Cancelled,13,,45,
+FD100006,2026-08-11,20:19,CUST1359,Jaipur,Dragon Wok,Chinese,265,68,35,UPI,Delivered,27,49,50,3
+FD100343,2026-08-26,10:30,CUST1603,Gurugram,Punjabi Tadka,North Indian,315,66,25,UPI,DELIVERED,21,52,55,4
+FD100882,2026-08-06,12:52,CUST1640,Bengaluru,Pizza Junction,Pizza,915,0,0,UPI,Delivered,21,51,55,3
+FD100102,2026-07-10,20:16,CUST1152,Bengaluru,Burger Barn,Fast Food,350,0,35,UPI,Delivered,14,64,50,2
+FD100895,2026-06-04,20:59,CUST1526,Delhi,Royal Kebab,Mughlai,1080,0,0,UPI,Delivered,30,54,60,3
+FD100040,2026-08-25,20:36,CUST1278,Mumbai,Royal Kebab,Mughlai,825,0,0,Cash on Delivery,Delivered,30,66,60,
+FD100529,2026-05-10,10:17,CUST1147,Gurugram,Dosa Corner,South Indian,170,0,35,Digital Wallet,Delivered,9,35,50,
+FD100666,2026-07-18,11:45,CUST1492,Mumbai,Hyderabadi Handi,Biryani,535,97,35,Digital Wallet,Cancelled,25,,65,
+FD100453,2026-06-28,13:17,CUST1101,Jaipur,Bengal Bites,Regional,510,113,25,UPI,Delivered,21,49,50,4
+FD100661,2026-08-03,19:14,CUST1415,Bengaluru,Dosa  Corner,South Indian,185,37,35,UPI,Delivered,13,27,50,
+FD100125,2026-06-30,23:23,CUST1084,Chennai,Spice Route,North Indian,760,0,0,  Credit Card ,Delivered,20,42,50,4
+FD100178,2026-09-26,19:38,CUST1288,Hyderabad,Royal Kebab,Mughlai,705,150,0,Credit Card,Delivered,25,34,60,4
+FD100137,2026-04-25,18:22,CUST1505,Bengaluru,Royal Kebab,Mughlai,480,81,0,Credit Card,Cancelled,,,65,
+FD100337,2026-09-20,18:32,CUST1381,Bengaluru,Spice Route,North Indian,495,0,49,UPI,Delivered,25,46,55,3
+FD100119,2026-09-21,20:06,CUST1075,  Hyderabad ,Momo Magic,Street Food,165,0,0,Upi,Delivered,12,38,45,
+FD101080,2026-09-06,21:38,CUST1567,Chennai,Hyderabadi Handi,Biryani,425,109,49,Debit Card,Delivered,37,60,60,4
+FD101395,2026-09-15,12:54,CUST1040,Pune,Royal Kebab,Mughlai,540,149,35,Digital Wallet,Cancelled,27,,60,
+FD100506,2026-06-06,18:21,CUST1404,Gurugram,Dragon Wok,Chinese,220,0,35,UPI,Delivered,20,61,55,
+FD101255,2026-09-10,18:03,CUST1646,Noida,Rajasthani Rasoi,Regional,430,0,25,UPI,Delivered,18,33,55,3
+FD100618,2026-08-30,18:38,CUST1110,Bengaluru,Wrap It Up,Fast Food,235,0,0,UPI,Delivered,12,43,50,
+FD101240,2026-09-23,14:43,CUST1005,Bengaluru,Mithai Mahal,Desserts,380,0,0,Cash  on  Delivery,Cancelled,,,45,
+FD101261,2026-09-19,21:15,CUST1482,Noida,Slice Station,Pizza,700,0,0,UPI,DELIVERED,22,45,50,
+FD100193,2026-04-30,18:13,CUST1067,Chennai,Tandoori Nights,Mughlai,555,0,0,Debit Card,Delivered,21,51,55,
+FD101394,2026-07-18,22:12,CUST1211,Gurugram,Biryani House,Biryani,550,0,25,Credit Card,Canceled,,,60,
+FD101403,2026-04-21,23:15,CUST1132,Hyderabad,Royal Kebab,Mughlai,620,0,0,Debit Card,Delivered,24,41,60,4
+FD101464,2026-07-05,10:25,CUST1383,Bengaluru,Chai & Chaat,Street Food,230,0,25,UPI,Delivered,10,54,45,5
+FD101219,2026-06-15,13:53,CUST1178,Bengaluru,Sweet Tooth,Desserts,360,42,49,UPI,Delivered,10,36,50,5
+FD100136,2026-08-25,16:03,CUST1447,Delhi,Dosa Corner,South Indian,220,0,25,UPI,Delivered,14,24,50,4
+FD100245,2026-04-26,18:55,CUST1229,Mumbai,Spice Route,North Indian,425,112,25,Credit Card,Delivered,20,31,55,3
+FD100461,2026-04-09,22:12,CUST1618,Kolkata,Dosa Corner,South Indian,450,0,0,net banking,Delivered,23,45,50,4
+FD100042,2026-07-20,18:03,CUST1073,Delhi,Bengal Bites,Regional,670,150,0,UPI,Delivered,24,60,55,4
+FD100724,2026-06-28,22:50,CUST1128,Pune,Burger Barn,Fast Food,220,0,49,UPI,Delivered,19,44,45,3
+FD100893,2026-04-17,23:47,CUST1658,Bengaluru,Punjabi Tadka,North Indian,370,0,49,UPI,Delivered,23,41,60,3
+FD100637,2026-05-30,13:02,CUST1084,Bengaluru,Spice Route,North Indian,910,0,0,UPI,Delivered,27,60,55,3
+FD100359,2026-08-27,18:04,CUST1281,Hyderabad,Rajasthani Rasoi,Regional,555,0,35,UPI,Delivered,21,32,55,4
+FD100922,2026-05-24,12:09,CUST1134,Bengaluru,Slice Station,  Pizza ,99999,150,0,Cash on Delivery,Delivered,20,37,55,3
+FD100298,2026-07-07,14:42,CUST1036,Gurugram,Noodle Nation,Chinese,280,41,35,Digital  Wallet,Delivered,21,49,50,2
+FD101016,2026-04-29,19:26,CUST1070,  Mumbai ,Tandoori Nights,Mughlai,735,0,0,Credit Card,Delivered,28,85,60,
+FD101287,2026-06-21,12:14,CUST1432,Mumbai,Mithai Mahal,Desserts,605,0,0,UPI,Delivered,11,58,45,
+FD100518,2026-07-20,14:45,CUST1524,Chennai,Royal Kebab,MUGHLAI,705,99,0,Credit Card,Delivered,31,93,60,2
+FD100559,2026-04-24,17:47,CUST1138,Pune,Sweet Tooth,Desserts,355,0,49,UPI,Cancelled,10,,45,
+FD101092,2026-04-17,17:16,CUST1602,Hyderabad,Wrap It Up,Fast Food,215,0,35,Cash on Delivery,Delivered,14,45,45,4
+FD100619,2026-04-12,13:41,CUST1225,  Chennai ,Rajasthani Rasoi,Regional,965,0,0,Cash on Delivery,Delivered,18,49,55,3
+FD100466,2026-07-22,19:33,CUST1329,Delhi,Tandoori Nights,Mughlai,715,0,0,UPI,Refunded,20,33,60,1
+FD100411,2026-04-10,19:48,CUST1532,Delhi,SPICE ROUTE,  North Indian ,495,121,49,Credit Card,Delivered,23,41,55,3
+FD100911,2026-08-26,21:03,CUST1568,Chennai,Pizza Junction,Pizza,420,0,25,UPI,Delivered,30,51,50,4
+FD101247,2026-09-26,12:06,CUST1097,Delhi,noodle nation,Chinese,685,0,0,Cash on Delivery,Delivered,15,37,50,2
+FD101054,2026-07-09,13:35,CUST1182,Delhi,Slice Station,Pizza,655,147,0,Credit Card,Delivered,21,41,50,3
+FD100039,2026-07-22,19:43,CUST1222,Hyderabad,Hyderabadi Handi,Biryani,505,52,25,Digital Wallet,Delivered,32,42,60,2
+FD100679,2026-05-05,18:52,CUST1188,Pune,Punjabi Tadka,North Indian,415,0,35,Digital Wallet,Delivered,21,41,55,4
+FD100080,2026-09-26,21:44,CUST1141,Hyderabad,Tandoori Nights,Mughlai,525,96,49,Debit Card,Cancelled,,,55,
+FD101306,2026-05-06,20:21,CUST1570,Delhi,Royal Kebab,  Mughlai ,790,0,0,Cash on Delivery,Delivered,26,41,60,4
+FD100687,2026-09-30,21:12,CUST1341,Pune,Rajasthani Rasoi,Regional,325,0,35,Net Banking,Delivered,23,42,55,3
+FD100492,2026-05-09,22:05,CUST1503,Mumbai,Tandoori Nights,Mughlai,815,150,0,Debit Card,Delivered,30,66,60,3
+FD100528,2026-05-04,12:11,CUST1110,Gurugram,  Spice Route ,North Indian,425,104,25,credit card,Delivered,22,31,55,3
+FD101304,2026-07-22,15:41,CUST1309,Kolkata,Dosa Corner,South Indian,230,0,35,Debit Card,Delivered,16,32,50,
+FD100760,2026-07-29,19:06,CUST1459,delhi,Hyderabadi Handi,Biryani,295,0,49,UPI,Delivered,27,46,60,
+FD101278,2026-07-22,21:30,CUST1412,Chennai,Slice Station,Pizza,465,65,0,Debit Card,Delivered,24,46,50,3
+FD100928,2026-05-24,13:52,CUST1409,Bengaluru,Chai & Chaat,Street Food,215,0,25,Digital Wallet,Delivered,18,42,45,3
+FD100948,2026-04-07,12:19,CUST1616,NOIDA,Dilli Darbar,North Indian,430,0,25,Cash on Delivery,Delivered,27,45,55,
+FD101014,2026-06-24,22:26,CUST1695,Chennai,Kathi Roll Co.,Street Food,235,0,49,UPI,Delivered,21,67,45,2
+FD100694,2026-04-24,19:56,CUST1274,Delhi,Sweet Tooth,Desserts,355,0,25,Cash on Delivery,Delivered,9,28,45,4
+FD100892,2026-09-23,20:06,CUST1234,Delhi,South Spice,South Indian,300,84,35,Credit Card,Cancelled,,,50,
+FD100421,2026-05-29,12:28,CUST1053,Bengaluru,Pizza Junction,Pizza,690,150,0,Debit Card,Delivered,20,38,55,5
+FD101105,2026-08-06,22:54,CUST1571,Mumbai,Bengal Bites,Regional,400,0,0,Debit Card,Delivered,30,60,55,
+FD101135,2026-06-29,14:58,CUST1003,Mumbai,South Spice,South Indian,270,0,25,Digital Wallet,Delivered,27,51,50,2
+FD101337,2026-08-09,13:31,CUST1631,Pune,Sweet Tooth,Desserts,390,101,0,Digital Wallet,Delivered,11,35,45,5
+FD101442,2026-08-09,18:11,CUST1699,Delhi,Biryani House,Biryani,420,0,25,Digital Wallet,Delivered,28,51,60,
+FD100591,2026-06-01,20:11,CUST1501,Mumbai,Kathi Roll Co.,Street Food,220,30,49,Digital Wallet,Delivered,17,47,50,3
+FD101291,2026-04-10,13:15,CUST1644,Gurugram,Biryani House,Biryani,460,101,35,Credit Card,Delivered,23,48,60,
+FD100458,2026-05-18,10:33,CUST1632,Jaipur,Fresh Salad Co,Healthy,245,0,49,Net Banking,Delivered,6,18,40,
+FD100767,2026-05-17,20:08,CUST1072,Pune,Chai & Chaat,Street Food,165,24,35,UPI,Delivered,16,38,40,
+FD100112,2026-04-06,13:14,CUST1226,Mumbai,Bengal Bites,Regional,490,80,25,Debit Card,Delivered,20,57,55,4
+FD100862,2026-06-18,21:44,CUST1499,Chennai,Biryani House,Biryani,280,0,49,Cash on Delivery,Delivered,36,53,60,5
+FD100906,2026-08-20,19:37,CUST1362,Jaipur,Kathi Roll Co.,Street Food,95,19,25,UPI,Delivered,17,45,45,3
+FD101270,2026-06-07,14:57,CUST1304,Bengaluru,Bengal Bites,Regional,250,0,49,Cash on Delivery,Delivered,19,35,55,
+FD100872,2026-09-12,20:38,CUST1399,Bengaluru,Royal Kebab,Mughlai,895,0,0,Credit Card,Refunded,35,50,65,1
+FD101293,2026-07-22,20:21,CUST1102,Kolkata,Noodle Nation,Chinese,455,0,25,Credit Card,Delivered,22,51,50,
+FD101221,2026-06-14,21:16,CUST1032,Kolkata,Spice Route,North Indian,315,0,25,UPI,Delivered,24,53,55,2
+FD100103,2026-06-09,13:52,CUST1189,Kolkata,Momo Magic,Street Food,205,35,35,Debit Card,Delivered,19,33,45,3
+FD100455,2026-08-03,10:36,CUST1089,Bengaluru,Noodle Nation,Chinese,140,0,49,UPI,Delivered,15,58,55,3
+FD101228,2026-04-25,21:15,CUST1643,Hyderabad,Sweet Tooth,Desserts,360,0,49,Cash on Delivery,Delivered,11,31,45,4
+FD101036,2026-08-15,19:42,CUST1632,Noida,Hyderabadi Handi,Biryani,555,124,49,Digital Wallet,Cancelled,,,60,
+FD100664,2026-09-24,13:57,CUST1414,Pune,Biryani House,Biryani,635,0,0,Cash on Delivery,Delivered,26,44,60,
+FD101468,2026-09-03,23:02,CUST1331,Bengaluru,Slice Station,Pizza,275,73,25,Net Banking,Refunded,16,45,55,1
+FD100855,2026-07-30,12:23,CUST1676,Bengaluru,Rajasthani Rasoi,Regional,645,0,0,Debit Card,  Delivered ,18,39,60,
+FD100935,2026-07-09,19:10,CUST1476,Bengaluru,Punjabi Tadka,North Indian,240,0,35,UPI,Delivered,21,43,60,
+FD101141,2026-05-03,18:37,CUST1023,Gurugram,Royal Kebab,Mughlai,340,0,35,UPI,Refunded,29,74,60,2
+FD100757,2026-05-25,18:22,CUST1539,Chennai,Punjabi Tadka,North Indian,550,107,49,Cash on Delivery,Delivered,18,29,55,5
+FD101156,2026-05-16,21:32,CUST1622,Mumbai,Pizza Junction,Pizza,695,0,0,UPI,Delivered,27,51,55,
+FD100989,2026-07-06,12:01,CUST1506,Pune,Rajasthani Rasoi,Regional,755,0,0,Cash on Delivery,Delivered,23,42,55,
+FD101428,2026-08-01,10:34,CUST1560,Mumbai,Royal Kebab,Mughlai,1200,0,0,Debit Card,Delivered,32,58,60,3
+FD101176,2026-08-20,18:33,CUST1210,Bengaluru,Fresh Salad Co,Healthy,440,113,49,UPI,Cancelled,,,50,
+FD100115,2026-08-28,17:21,CUST1419,Bengaluru,Pizza Junction,Pizza,815,0,0,Cash on Delivery,Delivered,14,42,55,3
+FD100069,2026-07-01,21:51,CUST1381,Kolkata,Biryani House,biryani,510,0,35,UPI,Delivered,26,44,60,4
+FD100905,2026-07-26,12:26,CUST1358,Noida,Dosa Corner,South Indian,180,0,49,UPI,Delivered,14,31,45,4
+FD100547,2026-06-11,14:14,CUST1566,Kolkata,Punjabi Tadka,North Indian,545,0,49,UPI,Cancelled,29,,55,
+FD100718,2026-04-26,17:42,CUST1318,Gurugram,Pizza Junction,Pizza,360,0,25,UPI,Delivered,21,50,55,5
+FD101407,2026-09-20,15:20,CUST1542,HYDERABAD,Dilli Darbar,North Indian,590,95,35,Cash on Delivery,Delivered,24,43,55,4
+FD100727,2026-05-26,15:05,CUST1293,Pune,Dosa Corner,South Indian,220,32,0,UPI,Delivered,14,21,45,4
+FD100889,2026-09-15,12:52,CUST1305,Delhi,  Kathi Roll Co. ,Street Food,195,0,49,Cash on Delivery,Cancelled,14,,45,
+FD100650,2026-08-15,21:05,CUST1559,Noida,Biryani House,Biryani,500,53,25,Credit Card,Delivered,27,51,55,4
+FD100272,2026-09-16,12:10,CUST1501,Hyderabad,Noodle Nation,Chinese,205,44,25,Digital Wallet,Delivered,16,35,50,3
+FD100952,2026-07-30,19:35,CUST1300,Gurugram,Punjabi Tadka,North Indian,350,,25,Cash on Delivery,Delivered,22,55,55,5
+FD100787,2026-04-02,16:56,CUST1127,Kolkata,Dragon Wok,Chinese,460,65,25,Cash on Delivery,Delivered,19,38,55,
+FD100253,2026-06-07,20:23,CUST1533,Pune,royal kebab,Mughlai,690,150,0,Cash on Delivery,Delivered,,46,60,5
+FD100978,2026-07-03,21:00,CUST1380,Gurugram,Royal Kebab,Mughlai,580,117,49,UPI,Delivered,33,70,60,
+FD100785,2026-07-12,21:33,CUST1526,Bangalore,Royal Kebab,Mughlai,355,40,0,UPI,Delivered,30,66,65,4
+FD101195,2026-08-10,13:36,CUST1464,Hyderabad,Spice Route,North Indian,415,0,0,Digital  Wallet,Delivered,25,58,50,2
+FD100135,2026-08-19,13:22,CUST1200,Bengaluru,Biryani House,Biryani,310,33,49,UPI,Delivered,34,70,60,3
+FD101174,2026-08-07,12:51,CUST1409,Pune,Hyderabadi Handi,Biryani,420,117,25,UPI,Refunded,22,56,60,2
+FD101131,2026-07-17,19:58,CUST1285,Bengaluru,Spice Route,North Indian,495,77,49,Cash on Delivery,Delivered,20,58,55,3
+FD101035,2026-07-18,21:20,CUST1518,Delhi,Mithai Mahal,Desserts,555,0,49,Digital Wallet,Cancelled,,,45,
+FD101129,2026-04-22,13:22,CUST1146,Hyderabad,Dragon Wok,Chinese,165,38,49,UPI,Delivered,27,47,55,4
+FD100659,2026-04-05,20:32,CUST1441,Mumbai,Rajasthani Rasoi,Regional,395,77,35,Credit Card,Delivered,30,58,60,
+FD100128,2026-09-14,18:51,CUST1027,Delhi,South Spice,South Indian,265,0,25,Upi,Delivered,16,36,50,4
+FD101227,2026-04-23,18:25,CUST1117,Chennai,Royal Kebab,Mughlai,440,0,25,,Delivered,30,47,60,4
+FD101365,2026-09-16,20:16,CUST1502,Jaipur,TANDOORI NIGHTS,Mughlai,445,0,35,UPI,Delivered,27,52,55,2
+FD101120,2026-09-03,20:22,CUST1294,Mumbai,Kathi Roll Co.,Street Food,295,35,49,UPI,Delivered,13,55,50,3
+FD100238,2026-09-04,11:39,CUST1173,Noida,Biryani House,Biryani,375,66,49,  Debit Card ,Delivered,26,66,55,4
+FD101356,2026-06-28,15:01,CUST1458,Jaipur,Dilli Darbar,North Indian,600,0,0,UPI,Delivered,27,70,55,
+FD101242,2026-08-31,17:54,CUST1030,  Bengaluru ,Dosa Corner,South Indian,335,45,35,UPI,Delivered,13,38,50,
+FD100460,2026-06-07,23:41,CUST1172,Bengaluru,Biryani House,biryani,745,95,0,Credit Card,Delivered,26,42,60,5
+FD101133,2026-04-12,19:29,CUST1692,Chennai,Noodle Nation,Chinese,280,0,25,Cash on Delivery,Delivered,21,47,50,
+FD100056,2026-08-28,13:49,CUST1625,Jaipur,Fresh Salad Co,Healthy,490,0,0,UPI,Delivered,17,50,40,2
+FD100770,2026-04-18,12:46,CUST1126,Pune,Pizza Junction,Pizza,1155,150,0,Credit Card,Delivered,19,28,50,3
+FD100075,2026-04-27,18:38,CUST1680,Gurugram,Biryani House,Biryani,525,150,25,Cash on Delivery,Delivered,23,46,60,4
+FD101361,2026-09-24,20:26,CUST1157,Noida,Noodle Nation,Chinese,115,0,25,Cash on Delivery,Delivered,24,45,50,4
+FD100106,2026-07-26,13:56,CUST1171,Bengaluru,dragon wok,Chinese,295,0,0,UPI,Delivered,31,48,55,4
+FD100164,2026-04-22,21:58,CUST1253,Delhi,Biryani House,Biryani,445,0,35,Credit Card,Delivered,27,38,60,
+FD101102,2026-07-20,22:55,CUST1373,Kolkata,Fresh Salad Co,Healthy,395,40,0,UPI,Delivered,14,30,45,
+FD101070,2026-05-26,18:23,CUST1377,Mumbai,Spice Route,North Indian,295,0,25,UPI,Delivered,22,51,55,4
+FD100945,2026-07-20,17:59,CUST1699,Gurugram,Pizza Junction,Pizza,935,150,0,UPI,Delivered,20,37,55,3
+FD101065,2026-07-07,17:13,CUST1655,Bengaluru,Hyderabadi Handi,Biryani,275,0,35,Upi,Delivered,32,69,65,4
+FD100640,2026-04-20,22:05,CUST1141,Mumbai,Royal Kebab,Mughlai,740,138,0,Credit Card,Delivered,28,47,60,4
+FD101272,2026-06-19,22:26,CUST1402,Gurugram,Punjabi  Tadka,North Indian,340,0,0,Credit Card,Delivered,28,58,55,4
+FD101175,2026-06-01,19:38,CUST1379,Delhi,Bengal Bites,Regional,335,0,35,UPI,Cancelled,,,55,
+FD100519,2026-09-06,12:17,CUST1258,Kolkata,Dragon Wok,Chinese,360,0,25,Digital Wallet,Delivered,19,30,55,
+FD101253,2026-05-13,13:26,CUST1035,Mumbai,Pizza Junction,Pizza,450,0,49,Credit Card,Cancelled,24,,55,
+FD100592,2026-08-20,13:02,CUST1517,Mumbai,Dragon Wok,Chinese,240,36,35,Digital Wallet,Delivered,26,59,55,3
+FD100998,2026-08-22,16:00,CUST1542,Mumbai,Dragon Wok,Chinese,330,0,35,Debit Card,delivered,23,40,55,
+FD100771,2026-04-07,19:19,CUST1401,Pune,Tandoori Nights,Mughlai,465,0,25,Cash on Delivery,Delivered,25,43,55,
+FD100413,2026-04-28,17:17,CUST1127,Mumbai,Burger Barn,Fast Food,325,0,0,Cash on Delivery,Delivered,17,38,50,4
+FD101420,2026-04-15,20:20,CUST1009,Bengaluru,kathi roll co.,Street Food,175,47,49,Cash on Delivery,Delivered,17,50,50,
+FD100556,2026-06-11,14:33,CUST1382,Hyderabad,Mithai Mahal,Desserts,350,83,0,Credit Card,Delivered,12,41,40,
+FD100544,2026-04-14,10:07,CUST1567,Mumbai,Noodle Nation,Chinese,270,58,35,UPI,Delivered,15,37,55,4
+FD101310,2026-09-25,19:19,CUST1289,Hyderabad,  Chai & Chaat ,Street Food,100,23,49,Debit Card,Delivered,10,29,40,3
+FD100537,2026-04-19,10:07,CUST1468,Mumbai,Punjabi Tadka,North Indian,400,0,0,Digital Wallet,Delivered,18,44,55,4
+FD101032,2026-08-10,12:33,CUST1417,Bengaluru,Pizza Junction,Pizza,415,0,0,UPI,Delivered,13,48,55,4
+FD100900,2026-07-18,10:03,CUST1351,Jaipur,Biryani House,Biryani,495,141,35,Cash on Delivery,Cancelled,,,55,
+FD101260,2026-08-03,12:05,CUST1105,Kolkata,Rajasthani Rasoi,Regional,530,0,35,UPI,Delivered,19,33,55,4
+FD101431,2026-06-13,11:52,CUST1286,Delhi,Dilli Darbar,North Indian,850,106,0,UPI,Delivered,27,47,55,3
+FD100625,2026-08-10,12:10,CUST1217,Bengaluru,Spice Route,North Indian,400,0,0,Credit Card,Delivered,21,67,55,4
+FD100407,2026-09-19,19:03,CUST1505,Chennai,Royal Kebab,Mughlai,465,0,49,Cash on Delivery,Delivered,26,48,60,
+FD101299,2026-04-02,20:00,CUST1415,Kolkata,Biryani House,Biryani,495,0,35,  UPI ,Delivered,,73,60,3
+FD100645,2026-06-03,20:01,CUST1181,Chennai,Tandoori Nights,Mughlai,570,61,35,UPI,Delivered,30,61,55,3
+FD100864,2026-04-30,18:55,CUST1194,Noida,  Burger Barn ,Fast Food,265,33,0,UPI,Delivered,17,35,45,2
+FD101213,2026-05-16,21:10,CUST1674,Mumbai,Pizza Junction,Pizza,730,0,0,Cash on Delivery,Delivered,,48,55,4
+FD100447,2026-06-23,13:08,CUST1361,Delhi,Chai & Chaat,Street Food,285,0,35,Digital Wallet,Refunded,15,55,45,1
+FD100665,2026-08-23,16:22,CUST1567,Bengaluru,Fresh Salad Co,Healthy,385,0,35,Credit Card,Delivered,13,35,50,3
+FD101039,2026-05-25,20:54,CUST1462,Gurugram,Rajasthani Rasoi,Regional,290,0,0,Digital Wallet,Delivered,24,47,55,4
+FD101015,2026-06-30,18:30,CUST1578,Gurugram,Biryani House,Biryani,370,0,35,Digital Wallet,Cancelled,23,,60,
+FD100772,2026-06-13,12:23,CUST1333,Gurugram,Hyderabadi Handi,Biryani,660,0,0,UPI,Delivered,27,66,60,3
+FD100480,2026-07-11,15:38,CUST1411,Pune,Kathi Roll Co.,Street Food,175,0,25,CREDIT CARD,Delivered,13,57,45,3
+FD101096,2026-09-13,16:42,CUST1193,Mumbai,Burger  Barn,Fast Food,265,0,25,UPI,Delivered,12,30,50,4
+FD100580,2026-08-17,21:29,CUST1584,Chennai,Wrap It Up,Fast Food,250,38,35,Debit Card,Delivered,18,53,45,2
+FD101319,2026-07-07,20:08,CUST1464,Mumbai,Biryani House,Biryani,385,0,25,UPI,Refunded,31,62,60,1
+FD100262,2026-06-26,19:27,CUST1434,Delhi,Sweet Tooth,Desserts,300,0,49,Net Banking,Delivered,18,33,45,5
+FD100295,2026-06-03,21:40,CUST1669,Bengaluru,Momo Magic,Street Food,210,0,49,Debit Card,Delivered,16,60,50,4
+FD100722,2026-07-09,12:36,CUST1164,Gurugram,Kathi Roll Co.,Street Food,270,61,49,UPI,Cancelled,,,45,
+FD100904,2026-09-08,13:13,CUST1252,Hyderabad,Slice Station,Pizza,590,94,0,UPI,Delivered,21,34,50,
+FD101189,2026-07-22,12:30,CUST1593,Gurugram,Wrap It Up,FAST FOOD,285,31,49,Debit Card,Delivered,12,32,45,
+FD101030,2026-05-02,19:55,CUST1054,Gurugram,Royal Kebab,Mughlai,435,0,35,Credit  Card,Delivered,29,57,60,4
+FD100958,2026-09-02,20:02,CUST1039,Jaipur,Pizza Junction,Pizza,325,44,0,UPI,Delivered,22,38,50,
+FD100902,2026-05-25,23:17,CUST1453,Mumbai,South Spice,South Indian,240,0,49,,Cancelled,,,50,
+FD100160,2026-06-06,12:26,CUST1390,Pune,biryani house,Biryani,595,0,0,UPI,Delivered,24,42,60,
+FD101367,2026-09-20,16:14,CUST1258,Chennai,Biryani House,Biryani,585,106,25,Net Banking,Delivered,30,45,60,
+FD100651,2026-07-27,14:07,CUST1699,Bengaluru,Slice Station,Pizza,255,0,25,Cash on Delivery,Delivered,23,47,55,2
+FD100610,2026-06-17,22:57,CUST1520,Mumbai,Kathi Roll Co.,Street Food,235,0,0,Cash on Delivery,Delivered,13,44,50,4
+FD101243,2026-05-08,13:53,CUST1359,Gurugram,Chai & Chaat,Street Food,165,0,25,Credit Card,Delivered,9,36,45,4
+FD100334,2026-08-30,18:25,CUST1286,Hyderabad,Sweet Tooth,Desserts,300,58,25,UPI,Delivered,13,38,45,5
+FD101168,2026-06-21,16:59,CUST1643,Noida,Burger Barn,Fast Food,530,0,35,Cash on Delivery,Refunded,12,27,45,2
+FD100280,2026-07-13,21:45,CUST1674,,Burger Barn,Fast Food,265,0,25,Digital Wallet,Delivered,18,40,45,3
+FD101019,2026-08-07,12:28,CUST1112,Noida,Biryani House,Biryani,445,0,0,UPI,Delivered,24,31,55,4
+FD100699,2026-04-09,20:47,CUST1601,Noida,Dragon Wok,Chinese,415,0,25,Credit Card,Delivered,27,49,50,3
+FD101461,2026-08-04,18:14,CUST1307,Kolkata,Fresh Salad Co,Healthy,330,96,49,UPI,Delivered,12,34,45,4
+FD100869,2026-05-23,18:04,CUST1213,Noida,Punjabi Tadka,North Indian,325,59,35,Credit Card,Delivered,23,,55,4
+FD100630,2026-05-22,13:19,CUST1555,Hyderabad,Royal Kebab,Mughlai,330,0,0,UPI,Delivered,36,,60,3
+FD100534,2026-07-09,15:26,CUST1361,Chennai,Spice Route,North Indian,410,0,35,UPI,Delivered,22,42,50,4
+FD101273,2026-04-22,17:40,CUST1657,Mumbai,Pizza Junction,Pizza,660,0,0,Net Banking,Delivered,17,35,55,2
+FD100737,2026-08-16,14:41,CUST1165,  Hyderabad ,Dragon Wok,Chinese,530,0,35,Digital Wallet,Delivered,22,55,55,3
+FD100015,2026-05-20,13:11,CUST1572,Bengaluru,Biryani House,Biryani,,0,0,UPI,Refunded,29,52,60,2
+FD100683,2026-08-29,16:20,CUST1238,Delhi,Pizza Junction,Pizza,635,84,0,UPI,Delivered,20,41,55,4
+FD100988,2026-07-28,13:54,CUST1160,Bengaluru,Momo Magic,Street Food,170,0,49,Credit Card,Delivered,20,59,50,
+FD100393,2026-05-02,12:46,CUST1210,Gurugram,Tandoori Nights,Mughlai,535,0,35,UPI,Delivered,25,53,60,3
+FD100423,2026-09-27,20:20,CUST1112,Mumbai,Hyderabadi Handi,Biryani,725,0,0,Upi,Delivered,31,68,65,3
+FD101281,2026-09-04,20:26,CUST1636,Bengaluru,Tandoori Nights,Mughlai,520,0,35,Cash on Delivery,Delivered,30,57,60,3
+FD100463,2026-07-06,19:45,CUST1675,Hyderabad,Punjabi Tadka,North Indian,690,0,0,UPI,Delivered,27,36,55,3
+FD101275,2026-08-18,21:15,CUST1616,Delhi,Dragon Wok,Chinese,315,0,35,Cash on Delivery,Delivered,24,47,55,3
+FD101236,2026-09-30,21:47,CUST1279,Delhi,Chai & Chaat,Street Food,190,43,0,UPI,Refunded,16,53,45,1
+FD101234,2026-09-03,12:45,CUST1106,Hyderabad,Noodle Nation,Chinese,175,41,35,Debit Card,Delivered,20,37,50,3
+FD100802,2026-04-05,11:18,CUST1360,Delhi,Dragon Wok,Chinese,500,128,25,COD,Delivered,24,52,55,4
+FD101323,2026-06-27,13:20,CUST1062,Hyderabad,Spice Route,North Indian,435,0,49,Cash on Delivery,Refunded,22,76,50,1
+FD101041,2026-06-07,22:32,CUST1254,Hyderabad,Punjabi Tadka,North Indian,605,0,0,UPI,Refunded,28,47,55,2
+FD101194,2026-07-22,20:42,CUST1420,Pune,Dosa Corner,South Indian,315,93,25,cash on delivery,Cancelled,,,45,
+FD100909,2026-06-23,20:42,CUST1185,Gurgaon,Tandoori Nights,Mughlai,915,0,0,UPI,Delivered,33,55,60,4
+FD100620,2026-05-22,19:42,CUST1474,Mumbai,Hyderabadi Handi,Biryani,270,0,49,UPI,Delivered,29,42,65,
+FD101169,2026-09-12,16:09,CUST1672,Hyderabad,Chai & Chaat,Street Food,285,68,25,Upi,Delivered,6,48,40,3
+FD101226,2026-09-20,19:49,CUST1335,Chennai,Noodle Nation,Chinese,660,0,0,Cash on Delivery,Delivered,19,42,50,
+FD100237,2026-05-03,22:14,CUST1130,Hyderabad,Fresh Salad Co,Healthy,,,25,Digital Wallet,Delivered,13,45,45,
+FD100858,2026-07-29,21:58,CUST1120,Bengaluru,Dilli Darbar,North Indian,455,0,0,Net Banking,Delivered,34,61,60,4
+FD100874,2026-05-15,16:04,CUST1545,Hyderabad,Dilli Darbar,North Indian,305,0,25,Cash on Delivery,Cancelled,,,55,
+FD100467,2026-08-15,19:34,CUST1129,  Noida ,Chai & Chaat,Street Food,150,0,35,UPI,Delivered,9,26,40,4
+FD101064,2026-08-24,13:48,CUST1089,Gurugram,Bengal Bites,Regional,360,0,0,UPI,Delivered,22,47,55,
+FD100754,2026-05-07,19:20,CUST1610,Bengaluru,Rajasthani Rasoi,  Regional ,360,0,25,UPI,Delivered,20,36,60,5
+FD101139,2026-09-03,21:00,CUST1283,Noida,Rajasthani Rasoi,Regional,365,0,0,UPI,Cancelled,26,,55,
+FD100883,2026-07-10,21:48,CUST1273,Bengaluru,Bengal Bites,Regional,370,64,0,UPI,Delivered,22,55,55,
+FD100292,2026-06-09,21:56,CUST1183,Delhi,Bengal Bites,Regional,285,48,0,Credit Card,Refunded,28,53,55,1
+FD100234,2026-04-25,21:13,CUST1594,NOIDA,Royal Kebab,Mughlai,695,150,0,UPI,Delivered,32,54,60,4
+FD100742,2026-04-03,21:22,CUST1446,Pune,Fresh Salad Co,Healthy,385,0,25,Digital Wallet,Delivered,17,52,45,
+FD101171,2026-09-11,18:14,CUST1573,Chennai,Dosa Corner,South Indian,250,0,35,Digital Wallet,Delivered,16,50,45,3
+FD100410,2026-09-05,12:04,CUST1054,Jaipur,Mithai Mahal,Desserts,600,0,0,upi,Delivered,12,32,40,
+FD100851,2026-08-17,20:08,CUST1393,Hyderabad,Dragon Wok,Chinese,365,105,25,Credit Card,Delivered,27,64,55,3
+FD100987,2026-08-08,18:11,CUST1434,Gurugram,Noodle Nation,Chinese,280,0,25,Cash on Delivery,Delivered,24,36,50,
+FD101167,2026-07-02,21:58,CUST1421,Jaipur,Chai & Chaat,Street Food,295,0,35,Cash on Delivery,Delivered,13,46,40,3
+FD100320,2026-07-27,13:27,CUST1162,Bengaluru,Kathi Roll Co.,Street Food,110,17,49,Cash on Delivery,Delivered,16,33,50,3
+FD100743,2026-05-12,12:11,CUST1110,Kolkata,Sweet Tooth,Desserts,485,0,25,Digital Wallet,Delivered,14,39,45,4
+FD101398,2026-07-08,23:53,CUST1254,Chennai,Wrap It Up,Fast Food,480,0,25,UPI,Refunded,13,28,45,2
+FD101238,2026-06-23,14:24,CUST1167,Bengaluru,Healthy Bowl,Healthy,590,141,49,Credit Card,Delivered,20,63,50,3
+FD101451,2026-07-14,13:21,CUST1623,Jaipur,Pizza Junction,Pizza,460,0,25,Digital Wallet,DELIVERED,27,44,50,4
+FD101128,2026-09-12,22:09,CUST1576,Mumbai,burger barn,Fast Food,215,0,25,Cash on Delivery,Cancelled,,,50,
+FD100050,2026-05-21,13:09,CUST1431,Delhi,Chai & Chaat,Street Food,200,0,35,Debit Card,Delivered,12,24,45,
+FD100786,2026-09-29,20:33,CUST1291,Mumbai,Slice Station,Pizza,380,0,25,UPI,Delivered,23,57,55,
+FD100060,2026-05-08,15:32,CUST1192,Kolkata,Dosa Corner,South Indian,265,27,35,UPI,Delivered,13,26,50,4
+FD101208,2026-07-26,18:28,CUST1389,Delhi,Dilli Darbar,North Indian,315,0,25,Debit Card,Delivered,26,46,55,3
+FD100966,2026-08-30,18:40,CUST1526,Delhi,Rajasthani Rasoi,Regional,660,150,0,Debit Card,Delivered,22,46,55,4
+FD100462,2026-06-26,23:38,CUST1230,  Delhi ,Royal Kebab,Mughlai,600,97,0,Cash on Delivery,Delivered,24,48,60,4
+FD101309,2026-07-17,11:50,CUST1473,Delhi,Pizza Junction,Pizza,390,0,0,Cash on Delivery,Delivered,22,44,55,3
+FD100535,2026-07-26,18:14,CUST1571,Kolkata,Rajasthani Rasoi,Regional,595,150,49,Debit Card,Delivered,17,32,55,5
+FD100629,2026-08-09,13:08,CUST1081,Kolkata,Fresh Salad Co,Healthy,345,0,49,UPI,Delivered,22,69,45,2
+FD100929,2026-05-23,20:41,CUST1448,Bengaluru,Dragon Wok,Chinese,315,59,25,Cash on Delivery,Delivered,19,65,55,
+FD101245,2026-07-11,20:59,CUST1484,Delhi,Bengal Bites,Regional,250,0,49,Debit Card,Delivered,22,54,55,2
+FD101009,2026-07-12,22:28,CUST1457,Delhi,Rajasthani Rasoi,Regional,420,0,35,Credit Card,Delivered,25,54,55,
+FD101358,2026-04-09,17:48,CUST1483,Chennai,Dragon Wok,Chinese,410,0,35,UPI,Delivered,23,44,55,3
+FD100402,2026-08-30,13:36,CUST1114,,Slice Station,Pizza,305,65,49,Cash on Delivery,Delivered,24,56,55,
+FD100983,2026-09-19,12:38,CUST1665,Gurugram,Burger Barn,Fast Food,175,30,25,UPI,Delivered,10,27,50,3
+FD100372,2026-07-03,21:11,CUST1424,Gurgaon,Momo Magic,street food,430,64,25,Net Banking,Delivered,19,37,45,
+FD100400,2026-04-12,10:42,CUST1315,Gurugram,Dilli Darbar,North Indian,340,97,25,Debit Card,Cancelled,,,60,
+FD100973,2026-08-04,21:02,CUST1578,Mumbai,Bengal Bites,Regional,4122,0,25,UPI,Refunded,25,54,55,2
+FD101396,2026-09-26,12:54,CUST1433,Delhi,Bengal Bites,Regional,475,0,25,Debit Card,Delivered,19,46,55,
+FD101101,2026-06-27,14:26,CUST1067,Bengaluru,Spice Route,North Indian,235,33,25,UPI,Cancelled,29,,55,
+FD101204,2026-07-06,11:48,CUST1223,Noida,Bengal Bites,Regional,375,63,35,Credit Card,Delivered,18,54,50,
+FD100038,2026-07-05,12:05,CUST1274,Mumbai,SLICE STATION,Pizza,615,0,0,UPI,Delivered,20,54,55,3
+FD100590,2026-09-28,13:33,CUST1151,Mumbai,Wrap It Up,Fast Food,200,55,35,Cash on Delivery,Delivered,15,60,45,
+FD100674,2026-07-26,17:56,CUST1414,,Dragon Wok,Chinese,310,64,35,UPI,Delivered,22,,55,3
+FD101106,2026-09-29,22:36,CUST1687,Chennai,Dragon Wok,Chinese,1040,0,0,Digital Wallet,Delivered,26,47,55,3
+FD100107,2026-05-08,22:14,CUST1075,Mumbai,Tandoori Nights,Mughlai,295,39,25,DIGITAL WALLET,Delivered,29,48,60,5
+FD100323,2026-09-22,20:41,CUST1010,Gurugram,Dilli Darbar,North Indian,310,0,0,UPI,Delivered,24,49,60,4
+FD100352,2026-05-03,19:22,CUST1357,Delhi,Rajasthani Rasoi,Regional,425,112,35,UPI,Delivered,20,53,55,3
+FD100357,2026-07-20,13:27,CUST1275,Noida,Kathi Roll Co.,Street Food,205,0,49,Digital Wallet,Refunded,17,35,45,2
+FD100836,2026-07-14,18:51,CUST1421,MUMBAI,Mithai Mahal,Desserts,225,0,35,Credit Card,Delivered,9,28,45,
+FD100716,2026-06-26,12:26,CUST1661,Mumbai,Chai & Chaat,Street Food,140,33,35,Debit Card,Delivered,10,34,45,2
+FD100252,2026-06-21,19:55,CUST1373,Noida,Momo Magic,Street Food,190,35,0,UPI,Delivered,12,28,45,4
+FD101214,2026-06-27,13:45,CUST1216,Bangalore,Wrap It Up,Fast Food,205,61,0,UPI,Delivered,21,47,50,4
+FD101076,2026-05-08,23:34,CUST1558,Mumbai,Tandoori Nights,Mughlai,,46,0,Credit Card,Delivered,19,49,60,
+FD100848,2026-04-06,12:56,CUST1254,Bengaluru,Wrap It Up,Fast Food,345,97,25,UPI,Delivered,13,35,50,3
+FD100391,2026-04-07,14:27,CUST1588,HYDERABAD,Chai & Chaat,Street Food,220,65,35,UPI,Delivered,16,40,40,5
+FD100444,2026-09-21,19:04,CUST1007,Mumbai,Kathi Roll Co.,Street Food,175,42,49,Debit Card,Delivered,19,44,50,4
+FD100568,2026-07-01,13:48,CUST1666,Delhi,Dosa Corner,South Indian,315,0,35,Cash on Delivery,Delivered,18,47,50,4
+FD100216,2026-04-25,13:57,CUST1025,  Noida ,Chai & Chaat,Street Food,125,35,35,Cash on Delivery,Cancelled,,,40,
+FD100339,2026-04-27,17:41,CUST1335,Gurugram,Biryani House,Biryani,445,0,25,UPI,Refunded,29,56,60,3
+FD100795,2026-08-01,13:10,CUST1065,Pune,Chai & Chaat,Street Food,125,0,35,UPI,Delivered,7,21,40,4
+FD101460,2026-05-20,22:32,CUST1173,Hyderabad,Biryani House,Biryani,245,58,25,Credit Card,Delivered,30,52,60,3
+FD100910,2026-08-24,21:03,CUST1373,Delhi,Noodle Nation,Chinese,415,92,35,credit card,Refunded,15,78,50,2
+FD100057,2026-08-08,12:08,CUST1512,Pune,Dosa Corner,South Indian,225,46,25,Credit Card,Delivered,19,310,45,5
+FD100669,2026-05-22,16:51,CUST1512,Delhi,Spice Route,North Indian,500,,35,UPI,Refunded,17,31,55,1
+FD100633,2026-09-08,14:38,CUST1640,Mumbai,Kathi  Roll  Co.,Street Food,375,0,25,Digital Wallet,Delivered,19,79,50,3
+FD100682,2026-07-22,19:43,CUST1550,Delhi,Dilli Darbar,North Indian,400,0,35,Cash on Delivery,Refunded,20,37,55,2
+FD100804,2026-05-21,11:19,CUST1689,Bengaluru,Dragon Wok,Chinese,365,100,35,Cash on Delivery,Delivered,24,43,55,4
+FD100182,2026-05-20,22:36,CUST1090,Pune,Dosa Corner,  South Indian ,320,46,49,Credit Card,Refunded,14,31,45,2
+FD100054,2026-08-08,20:47,CUST1645,Hyderabad,Royal Kebab,Mughlai,415,0,49,UPI,Delivered,31,57,60,3
+FD101037,2026-09-23,19:04,CUST1649,Bengaluru,South Spice,South Indian,460,62,49,UPI,Delivered,19,36,55,4
+FD101400,2026-06-20,19:40,CUST1473,Pune,Dosa Corner,South Indian,145,0,25,Cash on Delivery,DELIVERED,14,45,45,4
+FD100347,2026-08-24,11:33,CUST1033,Mumbai,Biryani House,Biryani,645,81,0,Debit Card,Delivered,36,49,60,4
+FD100232,2026-08-22,11:16,CUST1426,Kolkata,Pizza Junction,Pizza,775,0,0,Digital Wallet,Cancelled,20,,55,
+FD100152,2026-04-11,17:38,CUST1328,mumbai,Wrap It Up,Fast Food,265,0,25,Credit Card,Delivered,14,50,45,
+FD100501,2026-04-27,18:40,CUST1245,Kolkata,Dilli Darbar,North Indian,715,0,0,Cash on Delivery,Delivered,20,,55,
+FD101279,2026-08-23,21:59,CUST1302,Jaipur,Sweet Tooth,Desserts,260,63,25,UPI,Delivered,13,30,40,3
+FD100828,2026-05-14,11:54,CUST1058,Pune,Healthy Bowl,Healthy,465,0,25,UPI,Delivered,18,42,50,3
+FD100231,2026-05-22,18:46,CUST1044,Jaipur,Bengal Bites,Regional,210,0,0,UPI,Delivered,21,43,50,
+FD100926,2026-06-11,22:05,CUST1339,Kolkata,Slice Station,Pizza,385,110,25,UPI,Cancelled,,,50,
+FD100525,2026-08-23,19:58,CUST1250,delhi,Hyderabadi Handi,Biryani,670,0,0,UPI,Refunded,33,49,60,1
+FD101138,2026-08-06,18:28,CUST1646,Mumbai,Sweet Tooth,Desserts,335,52,35,COD,Delivered,12,51,45,5
+FD100022,2026-08-31,13:30,CUST1125,Delhi,Chai & Chaat,street food,210,38,25,Net Banking,Delivered,11,31,45,
+FD100406,2026-08-30,11:05,CUST1521,Kolkata,Hyderabadi Handi,Biryani,945,150,0,Digital Wallet,Delivered,28,43,60,
+FD100258,2026-05-10,13:51,CUST1507,Noida,Noodle Nation,Chinese,390,0,35,UPI,Delivered,21,40,50,
+FD100930,2026-05-06,12:55,CUST1027,Noida,Momo Magic,Street Food,150,29,25,Cash on Delivery,Delivered,16,38,45,4
+FD100701,2026-04-24,19:26,CUST1200,Pune,Healthy Bowl,Healthy,485,0,25,UPI,Delivered,18,36,50,
+FD100389,2026-04-21,16:46,CUST1563,Delhi,Rajasthani Rasoi,Regional,385,0,25,UPI,Delivered,30,61,55,
+FD100695,2026-08-06,13:48,CUST1207,Bangalore,Bengal Bites,REGIONAL,230,0,0,Cash on Delivery,Delivered,22,44,55,
+FD100526,2026-06-28,15:40,CUST1691,Bengaluru,Noodle Nation,Chinese,500,0,25,UPI,Delivered,10,38,55,4
+FD101318,2026-09-01,21:27,CUST1676,  Jaipur ,Rajasthani Rasoi,Regional,355,0,25,Cash on Delivery,Delivered,23,36,55,3
+FD100186,2026-07-12,18:37,CUST1559,Mumbai,Tandoori Nights,Mughlai,525,150,25,Debit Card,Delivered,32,57,60,
+FD100943,2026-09-23,19:09,CUST1232,Bengaluru,Kathi Roll Co.,Street Food,250,66,49,UPI,Delivered,12,33,50,3
+FD100044,2026-06-04,20:14,CUST1490,Chennai,South Spice,South Indian,425,61,49,UPI,Delivered,19,45,50,
+FD100474,2026-08-02,21:45,CUST1313,Gurugram,Spice Route,north indian,610,0,0,Credit Card,Delivered,28,52,55,
+FD100853,2026-06-21,21:52,CUST1134,Hyderabad,Burger Barn,Fast Food,520,0,35,UPI,Delivered,21,45,45,4
+FD101110,2026-08-19,20:32,CUST1396,Mumbai,Dilli Darbar,NORTH INDIAN,660,0,0,UPI,Delivered,29,52,60,
+FD100341,2026-08-07,13:16,CUST1690,Chennai,Tandoori Nights,Mughlai,700,0,0,Cash on Delivery,Delivered,31,52,55,4
+FD100143,2026-09-04,16:07,CUST1629,Mumbai,Biryani House,  Biryani ,515,71,35,Debit Card,Delivered,27,42,60,5
+FD101324,2026-06-17,19:33,CUST1699,Kolkata,Momo Magic,Street Food,195,35,25,Upi,Delivered,12,22,45,3
+FD101146,2026-04-21,13:13,CUST1197,Chennai,Royal Kebab,Mughlai,245,52,25,UPI,Delivered,31,49,60,4
+FD101412,2026-09-27,20:34,CUST1429,,Slice Station,Pizza,365,87,25,UPI,Delivered,21,46,55,2
+FD101440,2026-06-07,21:29,CUST1189,Pune,Momo Magic,Street Food,245,71,25,UPI,Delivered,17,72,45,2
+FD100830,2026-09-17,12:27,CUST1099,Delhi,Pizza Junction,Pizza,490,86,25,Debit Card,Delivered,25,64,55,
+FD100602,2026-06-25,14:20,CUST1475,,Wrap It Up,Fast Food,195,40,35,cash on delivery,Delivered,19,34,40,2
+FD100961,2026-05-04,19:06,CUST1474,hyderabad,South Spice,South Indian,300,0,25,Credit Card,Delivered,18,35,50,3
+FD101117,2026-06-14,21:50,CUST1686,Delhi,Rajasthani Rasoi,Regional,200,0,25,Credit Card,Delivered,23,61,55,3
+FD100316,2026-09-20,12:19,CUST1193,Delhi,Dosa Corner,South Indian,140,0,49,UPI,Delivered,14,29,50,
+FD100330,2026-07-24,19:41,CUST1486,Kolkata,Royal Kebab,Mughlai,640,0,0,Debit Card,Delivered,31,57,60,4
+FD100513,2026-07-15,18:50,CUST1406,Chennai,Tandoori Nights,Mughlai,655,0,0,UPI,Refunded,29,71,55,1
+FD100499,2026-05-04,14:58,CUST1352,Noida,Hyderabadi Handi,Biryani,610,0,0,Net Banking,Delivered,36,72,60,3
+FD100346,2026-09-15,20:50,CUST1237,delhi,Hyderabadi Handi,Biryani,565,136,35,Cash  on  Delivery,Delivered,30,65,60,
+FD100833,2026-08-20,13:01,CUST1228,Mumbai,Slice Station,Pizza,630,150,0,UPI,Delivered,20,62,55,3
+FD100684,2026-08-28,21:02,CUST1420,Bengaluru,Pizza Junction,Pizza,510,0,35,UPI,Delivered,23,40,55,4
+FD101003,2026-09-22,19:05,CUST1195,Chennai,Rajasthani Rasoi,Regional,445,106,49,Net Banking,Delivered,28,42,55,3
+FD101453,2026-06-29,14:41,CUST1302,Delhi,Hyderabadi Handi,Biryani,425,0,49,Cash on Delivery,Delivered,30,50,60,4
+FD100773,2026-04-05,20:53,CUST1206,Hyderabad,fresh salad co,Healthy,300,34,25,Cash on Delivery,Delivered,24,51,45,3
+FD100067,2026-05-04,23:07,CUST1154,Bengaluru,Pizza Junction,Pizza,600,115,0,,Delivered,16,38,55,3
+FD100933,2026-08-27,12:43,CUST1271,Jaipur,noodle nation,Chinese,435,0,0,UPI,Delivered,20,31,50,3
+FD101430,2026-09-23,20:16,CUST1626,Pune,Dosa Corner,South Indian,255,0,35,UPI,Delivered,17,40,45,3
+FD101349,2026-06-23,17:15,CUST1188,Kolkata,Kathi Roll Co.,Street Food,210,34,0,Credit  Card,Delivered,16,27,45,4
+FD100644,2026-09-30,20:38,CUST1121,Noida,Chai & Chaat,Street Food,105,0,49,Digital Wallet,Cancelled,21,,40,
+FD101327,2026-08-30,14:12,CUST1438,Bengaluru,Dragon Wok,Chinese,470,114,35,UPI,Delivered,27,46,55,
+FD100809,2026-06-22,18:23,CUST1451,Kolkata,Spice Route,North Indian,355,79,25,UPI,Delivered,24,33,55,4
+FD100646,2026-06-24,21:37,CUST1052,Kolkata,Tandoori Nights,Mughlai,480,53,25,UPI,Delivered,28,51,60,3
+FD100418,2026-05-05,13:42,CUST1547,,Noodle Nation,Chinese,430,90,25,UPI,Delivered,26,57,50,3
+FD101276,2026-06-20,23:07,CUST1095,Chennai,Momo Magic,Street Food,120,0,25,UPI,Delivered,12,29,45,
+FD101090,2026-09-20,13:40,CUST1369,Delhi,Mithai Mahal,Desserts,450,0,49,UPI,Refunded,14,49,45,1
+FD100542,2026-08-09,20:09,CUST1481,Delhi,Spice Route,North Indian,560,81,49,Cash on Delivery,Delivered,22,36,55,
+FD101357,2026-06-28,15:06,CUST1658,Pune,MITHAI MAHAL,  Desserts ,260,0,49,UPI,Cancelled,10,,40,
+FD100314,2026-08-18,17:09,CUST1423,Delhi,Rajasthani Rasoi,Regional,475,65,49,Digital Wallet,Delivered,21,51,55,3
+FD100307,2026-08-20,19:45,CUST1285,Delhi,Kathi  Roll  Co.,Street Food,280,81,0,UPI,Delivered,15,29,45,
+FD100941,2026-09-23,20:44,CUST1526,Delhi,Fresh Salad Co,Healthy,510,0,49,Digital Wallet,Delivered,11,55,45,3
+FD100130,2026-07-20,12:36,CUST1206,Delhi,Biryani House,Biryani,450,0,35,Debit Card,Delivered,25,48,60,
+FD100396,2026-09-17,17:57,CUST1006,Mumbai,Fresh Salad Co,Healthy,255,0,49,  UPI ,Delivered,11,35,45,3
+FD101370,2026-04-14,12:14,CUST1636,Bengaluru,Kathi Roll Co.,Street Food,235,0,25,Credit Card,Delivered,14,26,50,
+FD100327,2026-07-31,22:15,CUST1227,Chennai,Tandoori Nights,Mughlai,760,139,0,UPI,Delivered,26,45,55,3
+FD100192,2026-08-21,13:16,CUST1030,Bengaluru,Chai & Chaat,Street Food,275,0,35,Debit Card,Delivered,13,44,45,
+FD100723,2026-06-10,12:12,CUST1455,Mumbai,Dosa Corner,South Indian,225,62,49,UPI,Delivered,13,31,50,5
+FD101123,2026-08-22,13:59,CUST1537,Pune,  Wrap It Up ,Fast Food,300,44,35,UPI,Delivered,12,58,45,2
+FD100994,2026-09-06,21:27,CUST1284,Mumbai,Fresh Salad Co,Healthy,490,0,35,UPI,Delivered,14,44,45,
+FD100921,2026-07-02,18:20,CUST1426,Hyderabad,Kathi Roll Co.,Street  Food,245,68,49,Digital Wallet,Delivered,12,29,45,4
+FD100496,2026-09-04,12:42,CUST1508,Gurugram,Mithai Mahal,Desserts,235,39,35,Debit Card,Delivered,12,37,45,3
+FD101033,2026-09-17,22:17,CUST1655,Chennai,Bengal Bites,Regional,315,72,25,Debit Card,Delivered,20,40,50,3
+FD100868,2026-09-24,11:06,CUST1556,Bengaluru,Fresh Salad Co,Healthy,385,0,49,UPI,Delivered,19,29,50,3
+FD100385,2026-04-25,19:02,CUST1210,Bengaluru,kathi roll co.,Street Food,190,27,35,Digital Wallet,Cancelled,,,50,
+FD101095,2026-05-29,17:36,CUST1309,Delhi,Fresh Salad Co,Healthy,300,79,49,Credit Card,Delivered,12,35,45,4
+FD100653,2026-09-18,12:27,CUST1588,Delhi,Rajasthani Rasoi,Regional,515,0,35,Debit Card,Delivered,24,52,55,2
+FD101229,2026-04-26,15:43,CUST1560,Jaipur,Biryani House,Biryani,625,124,0,UPI,Delivered,28,38,55,4
+FD100398,2026-04-09,20:08,CUST1682,Noida,Sweet Tooth,Desserts,335,0,35,Cash on Delivery,Delivered,12,31,45,4
+FD100947,2026-05-25,23:26,CUST1696,Noida,Royal Kebab,Mughlai,805,150,0,Debit Card,Delivered,30,47,60,
+FD101108,2026-07-14,20:10,CUST1687,Hyderabad,Spice Route,North Indian,,0,25,Cash on Delivery,Delivered,22,40,50,3
+FD101001,2026-08-08,21:43,CUST1271,noida,SWEET TOOTH,Desserts,460,46,49,UPI,Delivered,18,32,45,
+FD100725,2026-08-27,22:55,CUST1628,Bengaluru,Biryani House,Biryani,705,,0,UPI,Delivered,29,58,60,
+FD100533,2026-06-02,21:10,CUST1265,Mumbai,Healthy Bowl,Healthy,300,87,35,Credit Card,Delivered,22,52,50,3
+FD100763,2026-09-01,22:27,CUST1122,Delhi,Momo Magic,Street Food,185,53,35,Credit Card,Delivered,15,35,45,4
+FD100162,2026-08-08,16:44,CUST1042,Chennai,Punjabi Tadka,North Indian,445,0,49,Cash on Delivery,Delivered,17,33,55,4
+FD101410,2026-05-05,23:22,CUST1339,Mumbai,Dilli Darbar,North Indian,290,0,25,Digital Wallet,Delivered,20,31,60,
+FD100937,2026-07-17,21:54,CUST1528,Delhi,Slice Station,Pizza,600,0,0,UPI,Cancelled,24,,50,
+FD101040,2026-08-02,10:33,CUST1127,Delhi,Burger Barn,Fast Food,430,0,35,UPI,Delivered,13,29,45,2
+FD101074,2026-09-02,12:24,CUST1685,Gurugram,Dragon Wok,Chinese,480,0,0,UPI,Delivered,25,44,55,
+FD101259,2026-06-28,21:28,CUST1160,Bangalore,Biryani House,Biryani,550,0,35,UPI,Delivered,30,53,60,4
+FD100021,2026-09-05,21:56,CUST1582,Mumbai,South Spice,South Indian,310,37,49,Cash on Delivery,Delivered,22,41,50,3
+FD100570,2026-07-28,12:52,CUST1121,Jaipur,Sweet Tooth,Desserts,340,0,0,UPI,Delivered,11,33,40,
+FD100654,2026-07-10,23:21,CUST1054,Mumbai,Pizza Junction,Pizza,695,0,0,UPI,Delivered,18,38,55,5
+FD100697,2026-07-13,12:31,CUST1040,Gurugram,Burger Barn,Fast Food,460,0,49,Cash on Delivery,Delivered,13,36,50,4
+FD100482,2026-08-30,13:55,CUST1373,Mumbai,South Spice,South Indian,375,88,0,CASH ON DELIVERY,delivered,23,40,50,4
+FD100034,2026-07-23,18:36,CUST1536,Chennai,Chai & Chaat,Street Food,205,50,35,UPI,Cancelled,,,40,
+FD101050,2026-09-20,13:12,CUST1217,Mumbai,Sweet Tooth,desserts,400,117,25,UPI,Delivered,19,59,45,
+FD100048,2026-06-24,13:32,CUST1196,Kolkata,Fresh Salad Co,Healthy,265,0,49,,Delivered,17,44,45,3
+FD100030,2026-08-08,20:42,CUST1648,Noida,Tandoori Nights,Mughlai,445,116,49,UPI,Delivered,27,43,55,
+FD101006,2026-06-23,18:37,CUST1329,Bangalore,Hyderabadi Handi,Biryani,790,0,0,UPI,Delivered,32,55,65,4
+FD101098,2026-04-26,21:59,CUST1557,Noida,Pizza Junction,Pizza,365,83,49,,Delivered,28,60,50,
+FD101130,2026-05-04,22:50,CUST1162,Pune,Bengal Bites,Regional,200,0,35,NET BANKING,Delivered,28,68,50,2
+FD101266,2026-07-23,18:52,CUST1004,Bengaluru,Chai & Chaat,Street Food,135,0,25,,Delivered,11,27,45,4
+FD100511,2026-04-03,12:04,CUST1473,Kolkata,Dragon Wok,Chinese,455,0,25,UPI,Delivered,21,37,55,4
+FD100531,2026-04-11,17:20,CUST1314,Chennai,Burger Barn,Fast Food,300,74,49,Debit Card,Cancelled,,,45,
+FD100923,2026-08-16,13:21,CUST1553,Chennai,Pizza Junction,Pizza,700,0,0,Upi,Delivered,21,45,50,
+FD100502,2026-06-16,20:08,CUST1268,Mumbai,Dragon Wok,Chinese,400,0,49,Upi,Delivered,22,51,55,4
+FD100433,2026-09-27,14:37,CUST1423,Mumbai,Bengal Bites,Regional,220,0,49,Credit Card,Delivered,23,36,55,
+FD100254,2026-07-12,18:52,CUST1598,Bengaluru,Dilli Darbar,North Indian,590,131,35,UPI,Delivered,23,49,60,
+FD100300,2026-07-17,20:39,CUST1093,Noida,Dosa Corner,South Indian,175,0,0,Credit Card,Cancelled,19,,45,
+FD101467,2026-04-14,21:35,CUST1133,Mumbai,Slice Station,Pizza,465,105,35,Digital Wallet,Delivered,22,40,55,4
+FD101207,2026-05-17,20:00,CUST1069,Pune,Dosa Corner,South Indian,290,0,49,UPI,Delivered,16,41,45,4
+FD100780,2026-07-27,21:19,CUST1693,Jaipur,Dilli Darbar,North Indian,350,62,25,UPI,Delivered,26,53,55,3
+FD100367,2026-08-03,19:04,CUST1245,Noida,Dilli Darbar,North Indian,620,84,0,Cash on Delivery,Delivered,16,39,55,4
+FD101077,2026-04-02,10:23,CUST1269,Noida,Noodle Nation,Chinese,290,77,35,UPI,Cancelled,,,50,
+FD101079,2026-08-30,20:36,CUST1415,Hyderabad,Burger Barn,Fast Food,310,0,25,Net Banking,Delivered,25,45,45,
+FD100681,2026-05-31,14:05,CUST1520,Bengaluru,Chai  &  Chaat,Street Food,255,27,35,UPI,Delivered,14,43,45,3
+FD101469,2026-08-06,12:29,CUST1615,Noida,Fresh Salad Co,Healthy,340,0,49,UPI,Delivered,13,24,45,4
+FD100813,2026-08-23,18:00,CUST1024,Kolkata,Spice Route,North Indian,,129,0,UPI,Cancelled,,,55,
+FD100736,2026-07-04,20:16,CUST1492,Gurugram,Biryani House,Biryani,380,0,0,Credit Card,Delivered,32,54,60,4
+FD101049,2026-07-01,14:47,CUST1259,Delhi,Kathi Roll Co.,Street Food,165,0,35,Debit Card,Delivered,16,34,45,3
+FD100299,2026-06-09,13:35,CUST1540,Chennai,Spice Route,North Indian,450,0,49,UPI,Delivered,21,54,50,3
+FD100557,2026-07-11,23:42,CUST1039,Mumbai,Punjabi Tadka,North Indian,220,0,35,UPI,Delivered,22,48,55,4
+FD100576,2026-08-01,18:33,CUST1045,Gurugram,Fresh Salad Co,Healthy,515,90,49,Debit Card,Refunded,12,26,45,1
+FD100019,2026-08-14,19:15,CUST1606,Chennai,Wrap It Up,Fast Food,510,0,25,UPI,Delivered,13,37,45,3
+FD100573,2026-08-15,18:07,CUST1475,Hyderabad,Royal Kebab,Mughlai,5370,132,25,UPI,Cancelled,,,60,
+FD100226,2026-06-27,21:20,CUST1146,Delhi,Fresh Salad Co,Healthy,510,0,25,Upi,Delivered,13,39,45,3
+FD100600,2026-07-04,13:28,CUST1603,Noida,Pizza Junction,Pizza,855,150,0,Credit Card,Delivered,28,54,50,
+FD100420,2026-05-13,19:59,CUST1092,Noida,Pizza Junction,Pizza,550,0,49,Credit Card,Refunded,17,34,50,2
+FD101164,2026-09-29,19:28,CUST1303,Mumbai,Dilli Darbar,North Indian,680,150,0,UPI,Delivered,27,63,60,
+FD100219,2026-05-21,23:32,CUST1263,Noida,Spice Route,North Indian,255,0,25,Cash on Delivery,Delivered,21,33,50,2
+FD100308,2026-05-15,19:40,CUST1246,mumbai,Hyderabadi Handi,Biryani,375,0,49,UPI,Cancelled,28,,65,
+FD100157,2026-09-13,13:40,CUST1417,Kolkata,Healthy Bowl,Healthy,315,0,49,UPI,Delivered,22,36,50,4
+FD100172,2026-05-10,21:14,CUST1679,Mumbai,Dilli Darbar,North Indian,555,0,49,UPI,Delivered,30,80,60,4
+FD101184,2026-07-08,21:47,CUST1675,Kolkata,Punjabi Tadka,NORTH INDIAN,460,0,49,Cash on Delivery,Delivered,31,,55,4
+FD100706,2026-07-13,20:44,CUST1592,Delhi,Pizza Junction,Pizza,595,0,35,Net Banking,Delivered,23,43,55,4
+FD100287,2026-07-07,12:42,CUST1189,Chennai,Dosa Corner,South Indian,240,0,35,UPI,Delivered,19,29,45,
+FD101091,2026-09-27,10:27,CUST1064,Hyderabad,Punjabi Tadka,North Indian,410,83,35,Cash on Delivery,Delivered,23,50,55,4
+FD100454,2026-07-30,22:11,CUST1602,Delhi,Mithai Mahal,Desserts,400,52,25,Cash on Delivery,Cancelled,10,,45,
+FD101452,2026-07-12,16:22,CUST1459,Hyderabad,Hyderabadi Handi,Biryani,380,85,35,UPI,Delivered,23,50,60,4
+FD100072,2026-08-02,17:05,CUST1193,Kolkata,Royal Kebab,Mughlai,645,0,0,Credit Card,Refunded,25,44,60,2
+FD100083,2026-07-02,21:23,CUST1511,Noida,Fresh Salad Co,Healthy,305,0,25,Cash on Delivery,Delivered,16,51,45,
+FD101161,2026-05-09,17:08,CUST1058,Noida,Mithai Mahal,Desserts,445,0,49,Net  Banking,Delivered,9,24,40,4
+FD101438,2026-07-18,13:25,CUST1569,Noida,Chai & Chaat,street food,165,0,35,Digital Wallet,Delivered,14,34,40,3
+FD100016,2026-08-09,20:39,CUST1084,Hyderabad,Kathi Roll Co.,Street Food,130,0,49,UPI,Delivered,16,35,45,3
+FD100536,2026-07-10,19:06,CUST1457,Delhi,Wrap It Up,Fast Food,285,0,25,Digital Wallet,Delivered,9,23,45,3
+FD101151,2026-07-11,14:13,CUST1579,Delhi,Chai & Chaat,Street Food,160,41,0,UPI,Delivered,12,51,45,
+FD100919,2026-05-10,16:06,CUST1300,Mumbai,Fresh Salad Co,Healthy,445,0,35,COD,delivered,11,27,45,3
+FD100452,2026-06-04,22:17,CUST1365,Jaipur,Noodle Nation,Chinese,205,0,49,COD,Delivered,25,34,50,2
+FD101148,2026-08-21,20:35,CUST1463,Kolkata,Biryani House,Biryani,340,0,35,Net Banking,Delivered,31,48,60,4
+FD100405,2026-04-13,11:13,CUST1644,Hyderabad,Fresh Salad Co,Healthy,500,0,35,Cash on Delivery,Delivered,8,29,45,4
+FD101385,2026-09-10,18:30,CUST1072,Jaipur,Healthy Bowl,Healthy,635,0,0,Cash on Delivery,Delivered,15,30,45,4
+FD101343,2026-05-17,20:18,CUST1503,Chennai,Spice Route,North Indian,1070,0,0,Cash on Delivery,Delivered,21,35,50,3
+FD100740,2026-05-02,22:14,CUST1180,Hyderabad,Mithai Mahal,Desserts,410,91,25,Digital Wallet,Delivered,7,29,40,3
+FD100365,2026-04-27,13:02,CUST1559,Hyderabad,Biryani House,Biryani,605,90,0,UPI,Refunded,26,44,60,2
+FD100105,2026-04-24,21:46,CUST1365,Mumbai,Biryani House,Biryani,315,0,25,Digital Wallet,Delivered,27,42,60,
+FD101391,2026-04-29,19:32,CUST1637,mumbai,Pizza Junction,Pizza,530,0,35,Credit Card,Delivered,24,56,55,3
+FD101235,2026-07-15,16:37,CUST1402,Hyderabad,Kathi Roll Co.,Street Food,240,0,49,UPI,Delivered,14,37,45,4
+FD100662,2026-06-12,21:29,CUST1168,Chennai,Mithai Mahal,Desserts,240,47,35,Cash on Delivery,Delivered,10,27,40,3
+FD100242,2026-05-07,20:45,CUST1360,Delhi,Spice Route,North Indian,420,0,0,UPI,Cancelled,28,,55,
+FD100431,2026-04-21,13:02,CUST1274,Delhi,Dosa Corner,South Indian,235,0,49,Cash on Delivery,Delivered,15,30,50,3
+FD100815,2026-06-26,19:31,CUST1474,Kolkata,Dosa Corner,South Indian,450,56,25,UPI,Delivered,18,34,50,5
+FD100631,2026-09-08,15:57,CUST1507,,Slice Station,Pizza,520,0,35,UPI,Delivered,16,36,50,
+FD100097,2026-07-26,13:29,CUST1087,Delhi,hyderabadi handi,Biryani,485,0,35,Cash on Delivery,Delivered,29,44,60,
+FD100468,2026-08-05,16:05,CUST1056,Chennai,Spice Route,North Indian,215,46,0,Debit Card,Delivered,15,29,50,
+FD100085,2026-04-22,23:39,CUST1041,  Mumbai ,Dragon Wok,Chinese,375,0,35,Cash on Delivery,  Delivered ,18,53,55,3
+FD100702,2026-04-10,21:17,CUST1214,Chennai,Dilli Darbar,North Indian,435,0,25,UPI,Refunded,26,64,55,1
+FD100010,2026-06-17,17:34,CUST1192,Kolkata,Chai & Chaat,Street Food,290,54,25,UPI,Delivered,8,34,45,4
+FD100605,2026-07-20,12:29,CUST1610,Bengaluru,fresh salad co,Healthy,290,0,35,Digital Wallet,Refunded,15,33,50,2
+FD100879,2026-04-11,14:29,CUST1222,Noida,Biryani House,Biryani,280,0,0,UPI,Delivered,36,60,55,
+FD100774,2026-05-07,18:01,CUST1142,Hyderabad,Dosa Corner,South Indian,370,92,35,Debit Card,Delivered,19,34,45,4
+FD100277,2026-08-27,19:03,CUST1356,Delhi,Chai & Chaat,Street Food,280,0,0,Net Banking,Delivered,16,35,45,4
+FD100089,2026-06-05,16:19,CUST1377,Hyderabad,Wrap It Up,Fast Food,170,41,35,UPI,Delivered,12,24,45,
+FD100091,2026-05-09,19:45,CUST1529,Chennai,Pizza Junction,Pizza,875,119,0,UPI,Delivered,17,,50,3
+FD100766,2026-07-28,17:47,CUST1278,Gurgaon,Tandoori Nights,Mughlai,830,0,0,  UPI ,Delivered,29,42,60,
+FD100281,2026-09-09,19:17,CUST1246,Noida,Fresh Salad Co,Healthy,5460,0,25,DIGITAL WALLET,Delivered,11,20,45,2
+FD101008,2026-08-17,20:18,CUST1693,Hyderabad,Royal Kebab,Mughlai,600,0,0,Credit Card,Delivered,32,62,60,3
+FD100652,2026-06-21,22:26,CUST1330,Pune,Spice Route,North Indian,295,0,25,UPI,Delivered,27,55,50,2
+FD100993,2026-08-10,20:15,CUST1456,Mumbai,Chai & Chaat,Street Food,190,42,49,UPI,Refunded,17,56,45,1
+FD100366,2026-09-07,13:44,CUST1690,Delhi,Tandoori Nights,Mughlai,420,0,0,Digital Wallet,Delivered,31,53,60,3
+FD100024,2026-06-01,22:49,CUST1101,Chennai,Spice Route,North Indian,255,44,0,UPI,Delivered,19,37,50,4
+FD100677,2026-05-23,16:26,CUST1657,Gurugram,Kathi Roll Co.,Street Food,260,28,35,Cash on Delivery,Delivered,17,38,45,4
+FD100999,2026-09-29,11:23,CUST1376,Kolkata,Sweet Tooth,Desserts,390,61,49,UPI,Delivered,12,26,45,
+FD100311,2026-04-30,20:59,CUST1700,Jaipur,Dosa Corner,South Indian,185,0,35,Cash on Delivery,Delivered,19,37,45,4
+FD101061,2026-09-27,14:22,CUST1579,Chennai,Momo  Magic,Street Food,5448,26,0,Cash on Delivery,Delivered,17,35,45,3
+FD100641,2026-06-12,18:09,CUST1229,Mumbai,Momo Magic,Street Food,155,0,35,UPI,Delivered,13,38,50,4
+FD100241,2026-09-19,21:49,CUST1231,Delhi,Kathi Roll Co.,Street Food,225,0,25,Digital Wallet,Delivered,21,44,45,3
+FD100667,2026-05-31,17:57,CUST1031,,SWEET TOOTH,Desserts,200,32,49,UPI,Delivered,10,37,45,4
+FD101289,2026-07-25,19:36,CUST1690,Noida,Spice Route,North Indian,350,0,49,Credit Card,Delivered,16,39,50,3
+FD100099,2026-04-19,22:26,CUST1491,Pune,Momo Magic,Street Food,305,73,25,UPI,Refunded,23,45,45,2
+FD100168,2026-05-23,19:38,CUST1045,Jaipur,mithai mahal,Desserts,460,0,49,UPI,Delivered,8,28,40,4
+FD100497,2026-09-08,12:58,CUST1538,Gurugram,Spice Route,North Indian,300,0,25,Digital Wallet,Delivered,17,30,55,3
+FD100276,2026-08-04,21:11,CUST1605,Delhi,Punjabi Tadka,North Indian,350,0,0,Cash on Delivery,Delivered,24,55,55,4
+FD101114,2026-06-27,13:31,CUST1067,Noida,Rajasthani Rasoi,Regional,685,0,0,UPI,Delivered,30,45,55,
+FD100715,2026-06-21,12:58,CUST1239,Delhi,Fresh Salad Co,Healthy,310,0,35,UPI,Delivered,9,21,45,
+FD101257,2026-06-14,13:13,CUST1208,Bengaluru,Dosa Corner,South Indian,350,0,49,UPI,Delivered,21,42,50,
+FD100332,2026-07-15,12:56,CUST1443,Gurugram,Kathi Roll Co.,Street Food,155,0,49,NET BANKING,Delivered,11,20,45,2
+FD100220,2026-07-16,21:43,CUST1130,Kolkata,Burger Barn,Fast Food,145,35,49,UPI,Cancelled,,,45,
+FD100434,2026-07-04,20:56,CUST1121,Kolkata,Punjabi Tadka,North Indian,685,0,0,Debit Card,Delivered,27,44,55,
+FD101441,2026-08-06,20:05,CUST1694,Pune,Pizza Junction,Pizza,365,0,35,Debit Card,Delivered,25,67,50,
+FD101280,2026-05-26,11:13,CUST1071,Pune,Wrap It Up,Fast Food,335,0,0,UPI,Delivered,16,49,45,3
+FD100487,2026-04-17,21:14,CUST1652,Delhi,Slice  Station,Pizza,495,130,25,UPI,Delivered,24,43,50,3
+FD100532,2026-05-21,16:29,CUST1122,Bengaluru,Kathi Roll Co.,Street Food,185,0,49,UPI,Delivered,12,32,50,
+FD101298,2026-07-05,12:36,CUST1077,Mumbai,Slice Station,Pizza,540,65,49,Cash on Delivery,Refunded,21,,55,1
+FD100261,2026-07-23,14:07,CUST1509,Hyderabad,Punjabi Tadka,North Indian,835,0,0,Digital Wallet,Delivered,26,43,55,
+FD100811,2026-08-18,17:22,CUST1421,Bengaluru,Biryani House,Biryani,545,0,35,Cash on Delivery,Delivered,21,50,60,
+FD100306,2026-06-01,19:09,CUST1270,Delhi,Dosa Corner,South Indian,215,0,25,Debit Card,Delivered,13,46,50,4
+FD101262,2026-09-20,21:02,CUST1385,Hyderabad,South Spice,South Indian,205,0,0,Credit Card,Delivered,23,53,50,
+FD100197,2026-06-04,21:08,CUST1166,Delhi,Spice Route,North Indian,400,0,25,Cash on Delivery,Delivered,23,66,55,
+FD101165,2026-05-01,12:25,CUST1314,Chennai,Chai & Chaat,Street Food,165,0,25,Cash on Delivery,Delivered,7,24,40,
+FD101147,2026-06-21,20:42,CUST1642,Gurugram,Fresh Salad Co,Healthy,185,0,25,Cash on Delivery,Refunded,13,40,45,1
+FD100495,2026-04-04,23:10,CUST1646,Delhi,Dilli Darbar,North Indian,400,0,49,Cash on Delivery,Delivered,23,34,55,3
+FD100111,2026-07-26,13:26,CUST1301,Pune,Momo Magic,Street Food,150,15,49,UPI,Delivered,18,35,45,4
+FD101109,2026-04-22,17:04,CUST1343,Gurugram,Fresh Salad Co,Healthy,480,66,49,UPI,Delivered,9,35,45,
+FD100514,2026-05-07,12:16,CUST1120,Hyderabad,Tandoori Nights,mughlai,530,80,35,UPI,Delivered,26,57,55,4
+FD100692,2026-05-11,12:04,CUST1657,Bengaluru,Tandoori Nights,Mughlai,575,66,49,Cash on Delivery,Delivered,25,47,60,4
+FD100370,2026-08-12,18:51,CUST1498,Pune,Rajasthani Rasoi,Regional,615,113,0,Debit Card,Delivered,24,41,55,4
+FD100794,2026-07-17,20:19,CUST1295,Mumbai,Rajasthani Rasoi,Regional,325,0,35,Cash on Delivery,Delivered,29,41,60,4
+FD101099,2026-09-05,20:14,CUST1012,Chennai,Dilli Darbar,North Indian,700,150,0,UPI,Delivered,27,53,55,
+FD100927,2026-07-16,12:52,CUST1339,Hyderabad,Noodle Nation,Chinese,345,0,35,UPI,Delivered,24,48,50,
+FD100274,2026-08-30,12:57,CUST1666,Kolkata,Dragon Wok,Chinese,260,26,0,Cash on Delivery,Delivered,21,38,55,3
+FD100397,2026-08-07,13:56,CUST1188,Gurugram,Spice Route,North Indian,370,107,49,UPI,Delivered,26,45,55,
+FD101179,2026-09-04,16:08,CUST1684,Bengaluru,Royal Kebab,Mughlai,425,0,0,Cash on Delivery,  Delivered ,28,38,65,
+FD100733,2026-06-09,20:04,CUST1345,Bengaluru,Bengal Bites,Regional,355,0,49,UPI,Delivered,28,53,55,3
+FD101216,2026-05-01,19:08,CUST1233,Bengaluru,Rajasthani Rasoi,REGIONAL,910,,0,UPI,Delivered,20,49,60,
+FD100798,2026-07-27,20:35,CUST1285,Mumbai,Biryani House,Biryani,670,0,0,UPI,Delivered,32,52,60,
+FD101212,2026-04-23,18:18,CUST1486,Mumbai,Royal Kebab,Mughlai,440,0,25,Credit Card,Delivered,29,45,60,3
+FD101075,2026-09-09,20:58,CUST1117,Delhi,Fresh Salad Co,Healthy,370,0,35,Net Banking,Delivered,17,41,45,
+FD101063,2026-08-25,11:34,CUST1021,Pune,Pizza Junction,Pizza,505,0,35,UPI,Delivered,19,32,50,
+FD100962,2026-09-19,19:52,CUST1477,Mumbai,Slice Station,Pizza,625,0,0,UPI,  Delivered ,17,47,55,3
+FD100419,2026-08-20,22:33,CUST1329,Delhi,Dragon Wok,Chinese,345,0,0,Credit Card,Delivered,21,42,55,3
+FD100376,2026-06-30,21:35,CUST1596,Jaipur,Hyderabadi Handi,Biryani,485,87,25,Cash on Delivery,Delivered,28,42,60,4
+FD100464,2026-05-19,12:23,CUST1262,Chennai,Royal Kebab,Mughlai,375,0,49,Debit Card,Delivered,30,99,60,1
+FD100471,2026-08-29,20:34,CUST1563,Chennai,Tandoori Nights,Mughlai,365,40,0,Upi,Delivered,32,57,55,
+FD101100,2026-05-09,12:58,CUST1431,Delhi,Royal Kebab,Mughlai,780,110,0,UPI,Delivered,27,51,60,3
+FD100560,2026-06-22,21:17,CUST1038,Kolkata,Mithai Mahal,Desserts,370,0,0,Credit Card,Delivered,14,34,45,4
+FD100303,2026-08-31,19:28,CUST1303,Bengaluru,Biryani House,Biryani,605,150,0,Digital Wallet,Delivered,22,44,60,4
+FD100583,2026-09-10,23:16,CUST1207,Noida,Bengal Bites,Regional,265,68,0,Cash on Delivery,Delivered,23,40,50,4
+FD100799,2026-06-02,19:51,CUST1156,Pune,Rajasthani Rasoi,Regional,570,0,49,UPI,Delivered,26,36,55,2
+FD100012,2026-05-12,18:10,CUST1507,  Mumbai ,Wrap It Up,Fast Food,215,0,25,Credit Card,Delivered,11,29,45,3
+FD101263,2026-06-21,21:28,CUST1009,Mumbai,Wrap It Up,Fast Food,365,58,35,Digital Wallet,Delivered,19,53,45,2
+FD100539,2026-09-06,14:21,CUST1550,Bengaluru,  Mithai Mahal ,Desserts,335,57,25,Cash on Delivery,Delivered,16,53,45,3
+FD100628,2026-09-14,11:32,CUST1622,Mumbai,Hyderabadi Handi,Biryani,415,0,0,Credit Card,Refunded,31,69,65,1
+FD100282,2026-07-04,18:38,CUST1299,Jaipur,Spice Route,North Indian,460,0,49,Digital Wallet,Delivered,20,39,50,4
+FD100984,2026-06-07,13:46,CUST1471,Kolkata,Rajasthani Rasoi,Regional,680,80,0,  Credit Card ,DELIVERED,31,74,55,
+FD101176,2026-08-20,18:33,CUST1210,Bengaluru,Fresh Salad Co,Healthy,440,113,49,UPI,Cancelled,,,50,
+FD100224,2026-06-25,19:54,CUST1204,Delhi,Kathi Roll Co.,Street Food,220,0,25,UPI,Delivered,18,36,45,
+FD100673,2026-08-21,21:08,CUST1310,Delhi,Rajasthani Rasoi,Regional,460,66,25,Upi,Delivered,28,51,55,4
+FD100967,2026-08-01,21:41,CUST1477,Chennai,Slice Station,Pizza,950,110,0,Digital Wallet,Refunded,25,46,50,2
+FD101150,2026-08-23,21:09,CUST1112,Chennai,Royal Kebab,Mughlai,600,150,0,UPI,Delivered,37,73,60,3
+FD101094,2026-08-29,12:57,CUST1637,Gurugram,Sweet Tooth,Desserts,410,0,35,Digital Wallet,Delivered,11,34,45,4
+FD100140,2026-04-09,20:13,CUST1631,Pune,Sweet Tooth,Desserts,310,0,25,Credit Card,Delivered,18,32,45,3
+FD100995,2026-04-10,12:28,CUST1159,Gurugram,Fresh Salad Co,Healthy,550,0,25,Digital Wallet,Delivered,10,20,45,
+FD100581,2026-09-25,16:40,CUST1666,Jaipur,Royal Kebab,Mughlai,690,94,0,UPI,Delivered,24,33,55,
+FD101046,2026-06-22,18:40,CUST1129,Delhi,Hyderabadi Handi,Biryani,570,101,49,UPI,Delivered,24,59,60,4
+FD100078,2026-08-14,19:14,CUST1096,Pune,Tandoori Nights,Mughlai,580,90,25,UPI,Delivered,24,44,55,4
+FD100548,2026-09-06,21:17,CUST1027,Bengaluru,Rajasthani Rasoi,Regional,390,58,25,Debit Card,Delivered,28,62,60,5
+FD101284,2026-08-09,18:00,CUST1420,Hyderabad,Pizza Junction,Pizza,615,113,0,UPI,Delivered,18,34,50,3
+FD100749,2026-07-26,15:48,CUST1578,Mumbai,Spice Route,North Indian,305,0,25,Credit Card,Delivered,19,31,55,2
+FD100827,2026-05-10,11:39,CUST1571,Chennai,Bengal Bites,Regional,675,150,0,UPI,Delivered,23,39,50,3
+FD100126,2026-04-05,11:16,CUST1617,Mumbai,Pizza Junction,Pizza,570,150,0,UPI,DELIVERED,18,32,55,
+FD100758,2026-09-18,20:09,CUST1037,Bengaluru,Healthy Bowl,Healthy,350,81,0,Debit Card,Delivered,20,56,50,4
+FD101067,2026-05-23,19:44,CUST1303,Delhi,Chai & Chaat,Street Food,180,0,49,Credit Card,Refunded,10,50,45,2
+FD100577,2026-07-07,21:24,CUST1127,Pune,Noodle Nation,Chinese,210,0,35,UPI,Delivered,23,38,50,2
+FD100622,2026-09-09,22:42,CUST1100,Mumbai,PUNJABI TADKA,North Indian,420,64,25,Digital Wallet,delivered,26,58,55,4
+FD100768,2026-06-25,23:35,CUST1410,Chennai,Dragon Wok,Chinese,395,62,49,UPI,Delivered,24,42,55,
+FD101230,2026-08-01,16:44,CUST1394,Pune,Tandoori Nights,Mughlai,650,0,0,Digital Wallet,Delivered,23,42,55,
+FD100200,2026-09-24,20:52,CUST1024,Delhi,Spice Route,North Indian,175,0,25,Cash on Delivery,Delivered,25,47,55,3
+FD101031,2026-05-31,22:17,CUST1511,Bengaluru,Slice Station,Pizza,750,150,0,UPI,Delivered,26,50,55,3
+FD101359,2026-07-17,21:39,CUST1669,Bengaluru,Slice Station,Pizza,660,0,0,UPI,Delivered,22,40,55,3
+FD100803,2026-07-27,20:41,CUST1436,Mumbai,Punjabi Tadka,North Indian,495,0,49,Debit Card,Delivered,24,50,55,3
+FD100845,2026-04-23,19:57,CUST1678,Chennai,Burger Barn,Fast Food,225,0,49,UPI,Delivered,12,27,45,3
+FD101269,2026-07-20,12:18,CUST1683,Bengaluru,MITHAI MAHAL,Desserts,465,131,25,UPI,Delivered,12,39,45,
+FD100986,2026-07-04,22:56,CUST1062,hyderabad,HYDERABADI HANDI,Biryani,645,150,0,Digital Wallet,Delivered,31,58,60,
+FD101290,2026-04-02,14:11,CUST1692,  Delhi ,Healthy Bowl,Healthy,495,0,49,Cash on Delivery,Delivered,18,46,50,3
+FD100260,2026-05-24,21:57,CUST1266,Delhi,Slice Station,PIZZA,495,62,49,UPI,Delivered,20,38,50,4
+FD100283,2026-06-20,20:03,CUST1500,Mumbai,Dragon Wok,Chinese,285,0,35,Cash on Delivery,Delivered,21,64,55,3
+FD100635,2026-07-26,12:28,CUST1033,  Delhi ,Biryani House,Biryani,370,45,25,UPI,Delivered,26,55,60,4
+FD101418,2026-04-12,12:17,CUST1381,Chennai,Tandoori Nights,Mughlai,305,0,35,Credit Card,Cancelled,23,,55,
+FD100475,2026-06-15,18:18,CUST1329,  Hyderabad ,wrap it up,Fast Food,,0,49,Cash on Delivery,Delivered,19,40,45,4
+FD100456,2026-06-25,22:01,CUST1242,Bengaluru,Dragon Wok,Chinese,530,0,35,Digital Wallet,Delivered,20,34,55,
+FD100321,2026-08-28,21:03,CUST1473,Hyderabad,Dilli Darbar,North Indian,495,0,25,UPI,Delivered,30,59,55,3
+FD100435,2026-08-28,10:45,CUST1294,Bengaluru,Dosa Corner,South Indian,220,64,25,UPI,Delivered,19,32,50,
+FD101449,2026-04-25,21:36,CUST1692,Noida,Tandoori Nights,MUGHLAI,275,69,35,UPI,Delivered,28,46,55,3
+FD100300,2026-07-17,20:39,CUST1093,Noida,Dosa Corner,South Indian,175,0,0,Credit Card,Cancelled,19,,45,
+FD100437,2026-07-24,19:48,CUST1507,Bengaluru,Pizza Junction,Pizza,560,124,25,Credit Card,  Delivered ,23,52,55,
+FD101371,2026-09-05,16:25,CUST1015,NOIDA,Biryani House,Biryani,470,102,35,Credit Card,Delivered,26,48,55,
+FD100439,2026-09-22,20:49,CUST1124,Mumbai,PIZZA JUNCTION,  Pizza ,420,99,35,UPI,Delivered,17,31,55,5
+FD100326,2026-04-22,19:32,CUST1284,Delhi,Dragon Wok,Chinese,410,0,35,Digital Wallet,Delivered,21,51,55,4
+FD100404,2026-09-07,13:41,CUST1584,Kolkata,Biryani House,Biryani,795,120,0,UPI,Delivered,30,43,60,5
+FD100565,2026-05-13,12:17,CUST1482,Bengaluru,South Spice,South Indian,195,0,49,Cash on Delivery,Delivered,17,48,55,4
+FD100293,2026-06-19,14:16,CUST1660,Pune,Slice Station,  Pizza ,315,0,0,Debit Card,DELIVERED,19,43,50,2
+FD100279,2026-07-17,19:42,CUST1070,Mumbai,Spice Route,North Indian,570,94,35,UPI,Delivered,16,45,55,3
+FD100656,2026-06-16,12:43,CUST1194,Chennai,Chai & Chaat,Street Food,145,0,25,Debit Card,Delivered,8,17,40,4
+FD101308,2026-07-10,18:09,CUST1423,Kolkata,Punjabi Tadka,North Indian,490,0,0,Digital Wallet,Cancelled,21,,55,
+FD100733,2026-06-09,20:04,CUST1345,Bengaluru,Bengal Bites,Regional,355,0,49,UPI,Delivered,28,53,55,3
+FD100554,2026-07-26,19:53,CUST1157,Hyderabad,Punjabi Tadka,North Indian,370,0,49,UPI,Delivered,19,38,55,4
+FD100095,2026-06-28,14:19,CUST1573,Noida,Dilli Darbar,North Indian,350,0,25,UPI,Delivered,31,52,55,4
+FD101422,2026-07-23,12:47,CUST1126,Delhi,Momo Magic,Street Food,260,0,35,COD,Delivered,14,33,45,
+FD101256,2026-07-26,11:19,CUST1069,Mumbai,WRAP IT UP,Fast Food,310,0,35,Cash  on  Delivery,Cancelled,,,45,
+FD100246,2026-04-05,20:12,CUST1556,Gurugram,Dragon Wok,Chinese,695,0,0,Credit Card,Delivered,25,51,55,3
+FD100946,2026-05-16,20:19,CUST1151,Delhi,Slice Station,Pizza,525,88,35,COD,Refunded,27,44,50,3
+FD101192,2026-07-15,20:30,CUST1146,Kolkata,Kathi Roll Co.,Street Food,110,0,49,UPI,Delivered,22,60,45,4
+FD100776,2026-08-15,21:06,CUST1273,Bengaluru,Healthy Bowl,Healthy,220,0,35,Debit Card,Delivered,20,51,50,
+FD100427,2026-04-11,18:44,CUST1142,Delhi,Biryani House,Biryani,520,0,49,Debit Card,Cancelled,,,60,
+FD101187,2026-08-23,21:32,CUST1391,Hyderabad,Spice Route,North Indian,325,0,25,UPI,Delivered,18,43,50,3
+FD100150,2026-09-20,13:11,CUST1617,Mumbai,Kathi Roll Co.,Street Food,255,34,35,,Delivered,17,42,50,4
+FD100227,2026-08-06,11:00,CUST1182,Hyderabad,Mithai Mahal,Desserts,405,72,35,Debit Card,Delivered,9,31,40,
+FD100866,2026-08-12,12:04,CUST1452,Bengaluru,Wrap It Up,Fast Food,275,66,25,Cash on Delivery,Delivered,16,52,50,1
+FD100968,2026-08-22,20:45,CUST1132,Bengaluru,Tandoori Nights,Mughlai,480,0,49,Credit Card,  Delivered ,24,45,60,3
+FD101119,2026-09-05,18:35,CUST1409,KOLKATA,Hyderabadi  Handi,Biryani,670,0,0,Debit Card,Delivered,25,50,60,
+FD101246,2026-07-10,19:23,CUST1558,Bengaluru,Dragon Wok,Chinese,365,85,49,Digital Wallet,Delivered,19,41,55,3
+FD100901,2026-05-07,19:28,CUST1097,Gurugram,Kathi Roll Co.,Street Food,220,0,35,  Net Banking ,Delivered,12,46,45,4
+FD100700,2026-09-25,11:36,CUST1621,Bengaluru,Pizza Junction,Pizza,535,146,35,  UPI ,Delivered,19,40,55,4
+FD100602,2026-06-25,14:20,CUST1475,,Wrap It Up,Fast Food,195,40,35,cash on delivery,Delivered,19,34,40,2
+FD101292,2026-08-11,20:13,CUST1102,Kolkata,Sweet Tooth,Desserts,245,0,25,Cash on Delivery,Delivered,18,53,45,4
+FD101059,2026-09-19,19:31,CUST1664,Hyderabad,Chai  &  Chaat,Street Food,200,0,35,Digital Wallet,Delivered,12,36,40,4
+FD100218,2026-08-30,15:48,CUST1144,Noida,Kathi Roll Co.,Street Food,185,0,35,UPI,Delivered,15,41,45,
+FD101097,2026-08-08,20:07,CUST1524,Hyderabad,Dilli Darbar,North Indian,455,115,0,Cash on Delivery,Delivered,26,,55,
+FD100818,2026-08-30,12:51,CUST1303,Delhi,Mithai Mahal,Desserts,505,133,25,UPI,Delivered,10,,45,3
+FD100221,2026-07-29,14:05,CUST1639,Chennai,Pizza Junction,Pizza,470,0,25,Credit Card,Delivered,22,46,50,3
+FD100214,2026-08-28,16:00,CUST1584,Gurugram,Dosa Corner,South Indian,205,0,49,UPI,Delivered,12,29,50,
+FD101456,2026-07-07,21:36,CUST1427,Gurugram,Kathi Roll Co.,Street Food,180,34,0,UPI,delivered,19,50,45,3
+FD100908,2026-06-17,21:47,CUST1552,Kolkata,Rajasthani Rasoi,Regional,550,85,35,UPI,Delivered,32,72,55,
+FD100395,2026-05-14,21:07,CUST1124,Mumbai,Kathi Roll Co.,Street Food,270,0,35,Cash on Delivery,Delivered,17,40,50,3
+FD100368,2026-04-28,23:42,CUST1317,Noida,Momo Magic,Street Food,165,48,35,Cash on Delivery,Delivered,16,27,45,4
+FD100925,2026-09-11,11:40,CUST1554,Noida,Burger Barn,fast food,210,0,35,Credit Card,Delivered,15,27,45,4
+FD100013,2026-04-30,20:15,CUST1052,Kolkata,Healthy Bowl,Healthy,560,97,25,UPI,Delivered,23,51,50,4
+FD101387,2026-09-04,12:53,CUST1409,Noida,Spice Route,North Indian,525,76,25,Cash on Delivery,Delivered,24,42,50,
+FD101223,2026-07-30,18:35,CUST1446,Chennai,Biryani House,Biryani,425,0,35,Net Banking,Delivered,23,45,60,4
+FD100235,2026-04-16,11:13,CUST1634,Delhi,Pizza Junction,Pizza,950,150,0,Credit Card,DELIVERED,23,,55,5
+FD100696,2026-09-24,22:56,CUST1373,Pune,Burger Barn,Fast Food,220,0,0,Cash on Delivery,Delivered,16,34,45,3
+FD101085,2026-09-30,12:44,CUST1335,Bengaluru,Dragon Wok,Chinese,540,107,35,Cash on Delivery,DELIVERED,26,52,55,3
+FD101413,2026-05-18,23:52,CUST1198,Pune,Slice Station,Pizza,770,0,0,Debit Card,Delivered,18,45,50,3
+FD101333,2026-07-14,17:12,CUST1588,Delhi,Pizza Junction,Pizza,480,0,49,UPI,Delivered,20,41,55,
+FD101322,2026-07-30,19:40,CUST1500,DELHI,Chai & Chaat,Street Food,275,28,49,UPI,Delivered,11,25,45,4
+FD100064,2026-07-04,18:28,CUST1458,Bangalore,Wrap It Up,Fast Food,475,62,25,UPI,Delivered,5,39,50,
+FD100735,2026-04-12,11:28,CUST1102,Delhi,Biryani House,Biryani,430,0,35,UPI,Delivered,23,39,60,5
+FD101024,2026-08-27,13:25,CUST1165,Hyderabad,Bengal Bites,Regional,230,33,35,UPI,Delivered,24,44,50,3
+FD100965,2026-06-12,13:01,CUST1302,Delhi,Spice Route,NORTH INDIAN,540,0,35,UPI,Cancelled,,,55,
+FD100608,2026-09-03,12:45,CUST1373,Gurugram,Momo Magic,Street Food,150,40,49,Credit Card,Delivered,12,31,45,4
+FD100014,2026-07-06,17:28,CUST1199,Delhi,Pizza Junction,Pizza,665,150,0,UPI,Delivered,21,40,55,4
+FD100840,2026-07-23,12:33,CUST1295,Bengaluru,Dragon Wok,Chinese,410,0,35,Digital Wallet,Cancelled,,,55,
+FD100436,2026-08-03,17:15,CUST1632,Hyderabad,Momo Magic,Street Food,180,37,25,UPI,Canceled,9,,45,
+FD100018,2026-09-05,13:07,CUST1281,Hyderabad,Tandoori Nights,Mughlai,725,0,0,Cash on Delivery,Delivered,28,50,55,4
+FD100765,2026-08-30,11:49,CUST1271,Delhi,Royal Kebab,Mughlai,680,150,0,UPI,Delivered,31,67,60,5
+FD100349,2026-06-16,12:04,CUST1516,Mumbai,Punjabi Tadka,North Indian,560,89,25,UPI,Delivered,24,41,55,
+FD100208,2026-06-26,23:10,CUST1252,  Chennai ,Hyderabadi Handi,Biryani,325,0,0,Cash on Delivery,Delivered,26,53,60,3
+FD101115,2026-04-12,20:36,CUST1255,Mumbai,Dragon Wok,Chinese,245,25,25,UPI,Delivered,26,46,55,3
+FD101332,2026-04-06,20:11,CUST1218,Chennai,Dosa Corner,South Indian,395,0,25,Cash on Delivery,Delivered,,34,45,4
+FD100342,2026-06-26,12:43,CUST1168,Noida,Burger Barn,Fast Food,440,0,25,UPI,Delivered,18,44,45,4
+FD100345,2026-06-10,20:34,CUST1307,Delhi,Mithai Mahal,Desserts,380,0,35,Cash on Delivery,Delivered,14,37,45,3
+FD101348,2026-09-22,17:12,CUST1140,Noida,pizza junction,Pizza,360,0,35,Digital Wallet,Delivered,16,31,50,
+FD101380,2026-06-06,13:12,CUST1453,Pune,Fresh Salad Co,Healthy,255,,0,UPI,Delivered,18,57,45,3
+FD100552,2026-07-12,11:19,CUST1297,,Spice Route,North Indian,410,81,35,Credit Card,refunded,25,62,50,3
+FD100599,2026-09-28,19:00,CUST1501,Delhi,Tandoori Nights,Mughlai,615,126,0,Debit Card,Delivered,25,39,60,4
+FD100033,2026-07-04,15:10,CUST1522,delhi,Dosa Corner,South Indian,205,29,25,UPI,Delivered,22,59,50,3
+FD100373,2026-09-04,22:20,CUST1630,Chennai,Mithai Mahal,Desserts,380,0,35,Net Banking,Delivered,15,30,40,3
+FD100658,2026-05-15,11:34,CUST1226,Hyderabad,Fresh  Salad  Co,Healthy,345,0,49,UPI,Delivered,19,26,45,
+FD100173,2026-07-28,21:12,CUST1590,Kolkata,Royal Kebab,Mughlai,655,70,0,Digital Wallet,Delivered,30,42,60,5
+FD101087,2026-05-05,11:25,CUST1073,Delhi,Slice Station,Pizza,515,0,35,Credit Card,refunded,15,29,50,3
+FD101390,2026-09-22,14:52,CUST1243,Bengaluru,Rajasthani Rasoi,Regional,570,0,0,Upi,Delivered,29,59,60,3
+FD100409,2026-08-14,21:32,CUST1155,Delhi,Bengal Bites,Regional,310,0,35,Cash on Delivery,Delivered,25,45,55,4
+FD101051,2026-09-08,18:37,CUST1404,Noida,Fresh Salad Co,Healthy,465,0,35,Cash on Delivery,Delivered,14,22,45,2
+FD101434,2026-06-29,19:44,CUST1227,Hyderabad,Momo Magic,Street Food,135,0,0,Cash on Delivery,Delivered,13,49,45,
+FD100201,2026-05-31,20:19,CUST1507,Mumbai,Tandoori Nights,Mughlai,320,0,0,Debit Card,Delivered,33,55,60,3
+FD101317,2026-04-23,11:43,CUST1580,Noida,Hyderabadi Handi,Biryani,905,150,0,UPI,Delivered,28,49,60,4
+FD100861,2026-05-14,17:14,CUST1153,Noida,Healthy Bowl,Healthy,420,0,25,UPI,Delivered,22,29,45,4
+FD101404,2026-04-18,13:25,CUST1003,Bengaluru,Slice Station,Pizza,470,52,25,Cash on Delivery,Cancelled,22,,55,
+FD101166,2026-08-07,13:28,CUST1276,Bengaluru,Wrap It Up,Fast Food,165,0,25,Digital Wallet,Delivered,14,45,50,3
+FD101382,2026-05-31,13:19,CUST1312,Gurugram,Dilli Darbar,North Indian,325,81,35,,Delivered,,48,60,3
+FD101417,2026-05-22,20:44,CUST1132,Mumbai,Bengal Bites,Regional,385,0,49,Credit Card,Delivered,22,51,55,
+FD101362,2026-04-10,22:03,CUST1016,Delhi,Tandoori Nights,Mughlai,310,74,25,UPI,Delivered,29,52,60,2
+FD100490,2026-05-31,13:06,CUST1644,Chennai,Mithai Mahal,Desserts,305,0,35,UPI,Delivered,19,47,40,3
+FD101415,2026-09-20,22:50,CUST1522,Noida,Kathi Roll Co.,Street Food,235,0,0,Net Banking,Refunded,17,44,45,2
+FD100213,2026-07-05,12:19,CUST1123,Jaipur,Momo Magic,Street Food,,0,25,UPI,Cancelled,14,,45,
+FD100134,2026-08-08,13:47,CUST1426,Mumbai,Spice Route,North Indian,210,0,25,Cash on Delivery,Delivered,24,93,55,
+FD100061,2026-04-06,13:52,CUST1100,Bengaluru,South Spice,South Indian,255,71,49,UPI,Delivered,27,45,55,4
+FD100691,2026-08-29,18:19,CUST1442,Mumbai,Spice Route,North Indian,475,0,25,UPI,Delivered,27,51,55,
+FD100027,2026-05-14,14:40,CUST1227,Mumbai,Pizza Junction,Pizza,335,55,49,UPI,Delivered,27,56,55,
+FD100101,2026-04-10,21:31,CUST1319,Noida,Spice Route,North Indian,130,0,25,Credit Card,Cancelled,,,50,
+FD100975,2026-09-29,19:48,CUST1567,Gurugram,Tandoori Nights,Mughlai,480,85,25,UPI,Delivered,24,46,60,3
+FD100777,2026-08-21,19:53,CUST1527,Jaipur,Hyderabadi Handi,Biryani,335,0,25,UPI,Delivered,27,37,60,
+FD100789,2026-09-29,14:33,CUST1336,Noida,Wrap It Up,Fast Food,285,40,49,UPI,Delivered,14,35,45,
+FD100521,2026-05-02,16:11,CUST1173,Chennai,Pizza Junction,Pizza,665,103,0,UPI,Delivered,18,36,50,4
+FD100364,2026-09-23,14:38,CUST1526,Pune,Biryani House,Biryani,440,0,25,Cash on Delivery,Delivered,28,50,60,
+FD100310,2026-09-09,20:16,CUST1672,Noida,Biryani House,Biryani,855,,0,Digital Wallet,Delivered,31,,55,4
+FD100796,2026-05-29,14:20,CUST1515,Mumbai,Spice Route,North Indian,255,0,25,UPI,Delivered,,60,55,
+FD100829,2026-09-09,16:31,CUST1357,Delhi,Hyderabadi Handi,Biryani,505,0,25,Digital Wallet,  Delivered ,34,55,60,4
+FD101277,2026-05-17,12:00,CUST1343,Chennai,Spice Route,North Indian,360,72,35,Credit Card,Delivered,18,58,50,
+FD100545,2026-06-16,19:26,CUST1580,Noida,Healthy Bowl,Healthy,500,0,35,Credit Card,Delivered,14,50,45,3
+FD100940,2026-04-29,14:14,CUST1094,Jaipur,Fresh Salad Co,Healthy,445,0,0,Credit Card,Delivered,13,26,40,3
+FD100442,2026-08-14,12:03,CUST1438,Delhi,Burger Barn,  Fast Food ,340,59,25,Digital Wallet,Cancelled,,,45,
+FD100648,2026-07-24,17:25,CUST1062,noida,Fresh Salad Co,Healthy,,0,49,UPI,Delivered,8,33,45,
+FD101004,2026-06-16,13:47,CUST1292,Hyderabad,Slice Station,Pizza,725,99,0,Debit Card,Delivered,25,44,50,2
+FD100477,2026-08-20,14:48,CUST1530,Hyderabad,Healthy Bowl,Healthy,430,0,35,Cash on Delivery,Delivered,25,40,50,4
+FD101047,2026-09-12,18:18,CUST1363,Delhi,Momo Magic,Street Food,180,50,49,Upi,Delivered,16,36,45,
+FD100063,2026-08-18,22:02,CUST1424,Delhi,Tandoori Nights,Mughlai,625,0,0,Net Banking,Delivered,29,43,60,
+FD101173,2026-05-18,21:27,CUST1448,Delhi,Dragon Wok,CHINESE,345,0,49,UPI,Delivered,24,64,55,3
+FD100484,2026-09-05,22:25,CUST1677,Gurugram,Burger Barn,Fast Food,270,0,0,Digital Wallet,Delivered,14,31,50,2
+FD101027,2026-08-09,12:25,CUST1469,Chennai,Biryani House,Biryani,460,0,35,Cash on Delivery,Refunded,22,59,60,3
+FD101282,2026-09-19,15:56,CUST1696,Gurugram,Kathi Roll Co.,Street Food,225,0,35,UPI,Delivered,17,34,45,
+FD100053,2026-06-02,13:36,CUST1162,Delhi,Fresh Salad Co,Healthy,540,0,0,Debit Card,Delivered,,49,45,3
+FD100243,2026-05-31,21:32,CUST1507,Hyderabad,Spice Route,North Indian,335,0,25,Net Banking,Delivered,23,51,50,
+FD101198,2026-05-17,15:54,CUST1361,Hyderabad,Biryani House,Biryani,490,0,49,Net Banking,Delivered,28,46,60,4
+FD100036,2026-04-26,13:16,CUST1606,hyderabad,Pizza Junction,Pizza,580,0,35,Debit Card,Delivered,23,48,50,4
+FD101203,2026-07-05,21:19,CUST1306,Mumbai,Kathi Roll Co.,Street Food,220,0,49,Cash on Delivery,Delivered,15,47,50,
+FD100739,2026-04-11,12:04,CUST1331,Delhi,Hyderabadi Handi,Biryani,480,120,49,Cash on Delivery,Delivered,29,46,60,5
+FD100121,2026-07-06,21:10,CUST1055,Gurugram,Dragon Wok,Chinese,150,0,25,Debit Card,Delivered,19,56,55,4
+FD101444,2026-05-20,12:05,CUST1554,Mumbai,Bengal Bites,Regional,215,0,25,  UPI ,Delivered,18,27,55,4
+FD101300,2026-08-29,23:53,CUST1006,Mumbai,Tandoori Nights,Mughlai,1070,136,0,Credit Card,Delivered,32,114,60,3
+FD101020,2026-08-08,12:24,CUST1630,Bengaluru,Dosa Corner,South Indian,400,116,25,Credit Card,Delivered,14,45,50,4
+FD100045,2026-04-08,21:29,CUST1496,Delhi,Fresh Salad Co,Healthy,400,109,35,Debit Card,Delivered,15,54,45,
+FD101325,2026-06-26,17:46,CUST1309,Bangalore,Pizza Junction,Pizza,495,104,49,UPI,Delivered,23,50,55,
+FD100837,2026-08-21,19:28,CUST1064,Bengaluru,Fresh Salad Co,Healthy,330,95,35,Debit Card,Delivered,9,32,50,3
+FD100077,2026-09-17,16:28,CUST1408,Hyderabad,Dragon Wok,Chinese,595,0,35,UPI,Delivered,23,40,55,
+FD100369,2026-07-26,23:08,CUST1651,Chennai,Noodle Nation,Chinese,625,0,0,Cash on Delivery,Delivered,21,36,50,3
+FD100907,2026-06-03,19:03,CUST1326,Bengaluru,Pizza Junction,Pizza,665,0,0,Credit Card,Delivered,20,38,55,
+FD101237,2026-04-11,10:37,CUST1019,Mumbai,Royal Kebab,Mughlai,310,0,35,Credit Card,Delivered,29,51,60,4
+FD100268,2026-04-12,12:23,CUST1422,Jaipur,Noodle Nation,Chinese,570,0,35,Credit Card,DELIVERED,18,41,50,3
+FD101336,2026-05-07,20:57,CUST1170,BENGALURU,Biryani House,Biryani,475,50,35,Cash on Delivery,Delivered,27,57,60,
+FD100729,2026-05-23,16:53,CUST1576,Bengaluru,Biryani House,Biryani,350,0,49,COD,Delivered,26,46,60,
+FD100445,2026-05-03,13:56,CUST1651,Hyderabad,Fresh Salad Co,healthy,215,61,25,Debit Card,Cancelled,18,,45,
+FD100504,2026-09-30,14:44,CUST1061,Mumbai,Momo Magic,Street Food,195,58,25,Digital Wallet,Delivered,22,45,50,2
+FD101058,2026-09-17,18:51,CUST1572,Mumbai,Noodle Nation,Chinese,565,0,49,Credit Card,Delivered,14,51,55,3
+FD101034,2026-05-15,22:26,CUST1375,Mumbai,Burger Barn,Fast Food,270,0,35,UPI,Delivered,22,69,50,2
+FD101185,2026-05-26,20:56,CUST1065,Bengaluru,Slice Station,Pizza,245,70,49,UPI,Delivered,20,53,55,
+FD100286,2026-05-02,18:19,CUST1628,Mumbai,Kathi Roll Co.,Street Food,420,0,25,Upi,Delivered,12,35,50,4
+FD100296,2026-09-23,12:15,CUST1256,Jaipur,Bengal Bites,Regional,380,0,35,UPI,Delivered,24,28,50,3
+FD100626,2026-04-07,13:29,CUST1415,Chennai,Dosa Corner,South Indian,370,0,35,UPI,Delivered,19,50,45,5
+FD100278,2026-05-01,20:57,CUST1686,  Delhi ,Biryani House,biryani,985,150,0,UPI,Delivered,35,59,60,4
+FD101435,2026-09-22,15:00,CUST1485,Delhi,Royal Kebab,mughlai,665,150,0,Digital Wallet,Delivered,28,46,60,3
+FD100485,2026-07-10,20:05,CUST1153,Chennai,Sweet Tooth,Desserts,420,0,35,Credit Card,Delivered,11,23,45,
+FD100183,2026-04-30,20:51,CUST1226,delhi,Kathi Roll Co.,Street Food,170,43,0,Cash on Delivery,Delivered,19,38,45,
+FD100971,2026-09-19,13:56,CUST1062,Hyderabad,Kathi Roll Co.,Street Food,145,19,35,UPI,Cancelled,12,,45,
+FD101466,2026-07-06,22:17,CUST1659,Mumbai,Slice Station,Pizza,690,0,0,Debit Card,Refunded,26,48,55,2
+FD100685,2026-06-29,13:55,CUST1514,Gurugram,Hyderabadi Handi,Biryani,545,0,49,Net  Banking,Delivered,23,40,60,4
+FD100534,2026-07-09,15:26,CUST1361,chennai,SPICE ROUTE,North Indian,410,0,35,UPI,Delivered,22,42,50,4
+FD100037,2026-08-09,14:44,CUST1445,Noida,Healthy Bowl,Healthy,355,63,35,Debit Card,Delivered,21,40,45,4
+FD101181,2026-04-07,19:16,CUST1001,Gurugram,Momo Magic,Street Food,290,0,49,UPI,Cancelled,15,,45,
+FD100003,2026-07-05,21:55,CUST1426,Noida,Royal Kebab,MUGHLAI,1005,0,0,Net Banking,Cancelled,,,60,
+FD100755,2026-08-26,16:44,CUST1176,Bengaluru,Burger Barn,Fast Food,285,0,0,UPI,Cancelled,,,50,
+FD100509,2026-06-20,22:49,CUST1272,Pune,Biryani House,Biryani,410,51,0,UPI,Delivered,33,46,60,4
+FD100498,2026-06-17,20:47,CUST1349,Bengaluru,Punjabi Tadka,North Indian,365,92,25,Digital Wallet,Delivered,23,41,60,
+FD100309,2026-08-13,12:48,CUST1015,Hyderabad,Slice Station,Pizza,580,0,25,UPI,Delivered,22,33,50,3
+FD101314,2026-07-27,20:37,CUST1092,Gurugram,Burger Barn,Fast Food,200,24,49,Digital Wallet,Delivered,21,63,50,3
+FD100142,2026-06-17,16:59,CUST1134,Bengaluru,Dragon Wok,CHINESE,305,72,25,UPI,Delivered,20,39,55,2
+FD101248,2026-06-19,21:29,CUST1404,Pune,Chai & Chaat,Street Food,160,37,49,Digital Wallet,Delivered,14,33,40,4
+FD100865,2026-05-07,23:51,CUST1165,Pune,Kathi Roll Co.,Street Food,150,0,35,Debit Card,Delivered,11,36,45,
+FD100184,2026-08-10,17:29,CUST1363,Delhi,Royal Kebab,Mughlai,540,0,35,Cash on Delivery,Delivered,27,58,60,4
+FD101457,2026-06-27,12:37,CUST1657,Hyderabad,Wrap It Up,Fast Food,235,67,0,Debit Card,Delivered,11,40,45,3
+FD101011,2026-06-26,13:47,CUST1323,Hyderabad,Momo Magic,Street Food,130,0,35,UPI,Delivered,14,53,45,3
+FD100913,2026-09-21,19:16,CUST1030,Bengaluru,Momo Magic,Street Food,365,62,25,,Delivered,9,35,50,4
+FD100849,2026-09-27,20:31,CUST1064,Mumbai,Hyderabadi Handi,Biryani,715,140,0,Debit Card,Delivered,32,69,65,3
+FD100512,2026-05-16,21:19,CUST1441,Gurugram,Slice Station,Pizza,475,134,35,UPI,Delivered,23,59,55,
+FD100732,2026-05-20,13:13,CUST1174,Chennai,Chai & Chaat,Street Food,115,0,35,Net Banking,Delivered,16,66,40,3
+FD100997,2026-09-14,22:20,CUST1372,Mumbai,Royal Kebab,Mughlai,445,0,49,  Credit Card ,Delivered,30,53,60,3
+FD100888,2026-09-12,13:15,CUST1421,noida,Punjabi Tadka,North Indian,460,132,49,Debit Card,Delivered,29,53,55,4
+FD100118,2026-07-09,20:28,CUST1451,Mumbai,Hyderabadi Handi,Biryani,435,97,49,Cash on Delivery,Cancelled,30,,65,
+FD101026,2026-05-24,13:49,CUST1678,Chennai,Noodle Nation,Chinese,325,0,49,UPI,Delivered,23,58,50,3
+FD100114,2026-07-08,13:23,CUST1391,Mumbai,Dosa Corner,South Indian,235,0,35,UPI,Delivered,23,52,50,
+FD100546,2026-07-18,20:57,CUST1496,Bengaluru,Hyderabadi Handi,Biryani,710,128,0,Debit Card,Delivered,32,77,65,2
+FD100166,2026-05-27,11:27,CUST1405,Mumbai,Royal Kebab,mughlai,610,126,0,Digital Wallet,Delivered,32,86,60,
+FD100185,2026-04-28,21:27,CUST1453,Mumbai,Hyderabadi Handi,Biryani,470,0,25,Cash on Delivery,Delivered,32,78,65,
+FD101397,2026-08-15,12:28,CUST1475,Noida,Pizza Junction,Pizza,625,0,0,UPI,Cancelled,,,50,
+FD100275,2026-08-27,12:13,CUST1623,Noida,Fresh Salad Co,Healthy,180,0,49,UPI,Delivered,11,30,45,3
+FD101002,2026-06-04,18:45,CUST1422,Delhi,Tandoori Nights,Mughlai,355,0,0,Cash on Delivery,Delivered,25,38,60,
+FD100705,2026-07-03,13:11,CUST1207,Hyderabad,Healthy Bowl,Healthy,735,150,0,UPI,Delivered,20,41,50,
+FD101025,2026-09-09,19:48,CUST1504,Delhi,Pizza Junction,Pizza,455,0,35,UPI,Delivered,17,51,55,3
+FD100384,2026-09-05,14:19,CUST1641,Mumbai,Punjabi Tadka,North Indian,650,93,0,UPI,  Delivered ,26,43,55,
+FD101430,2026-09-23,20:16,CUST1626,Pune,Dosa Corner,South Indian,255,0,35,UPI,Delivered,17,40,45,3
+FD100562,2026-08-02,18:06,CUST1121,PUNE,Punjabi Tadka,North Indian,365,0,25,Cash on Delivery,Refunded,16,31,55,1
+FD100863,2026-06-21,18:51,CUST1244,Chennai,Bengal Bites,Regional,690,0,0,Debit Card,Delivered,21,47,50,
+FD101045,2026-04-06,10:13,CUST1454,Gurugram,Dosa Corner,South Indian,340,0,0,Digital Wallet,Delivered,11,38,50,3
+FD100177,2026-08-27,14:49,CUST1220,Mumbai,South Spice,  South Indian ,220,0,35,UPI,Delivered,25,56,50,
+FD101360,2026-09-29,14:10,CUST1467,Kolkata,Kathi Roll Co.,Street Food,125,0,25,UPI,Delivered,18,47,45,2
+FD100380,2026-04-25,23:07,CUST1262,Bengaluru,Dilli Darbar,North Indian,500,0,49,UPI,Delivered,28,49,60,
+FD101196,2026-04-16,18:30,CUST1396,Delhi,Spice Route,North Indian,535,0,49,UPI,Delivered,15,34,55,3
+FD101017,2026-04-21,17:47,CUST1101,Bengaluru,Mithai Mahal,Desserts,315,35,35,Debit Card,Delivered,7,21,45,
+FD100520,2026-09-29,17:41,CUST1076,Gurugram,  Biryani House ,Biryani,650,77,0,Cash on Delivery,Refunded,27,44,60,1
+FD100831,2026-05-17,13:17,CUST1138,Pune,Chai & Chaat,Street  Food,165,36,49,Digital Wallet,Delivered,18,42,40,3
+FD100508,2026-08-15,17:00,CUST1372,Kolkata,Spice Route,North Indian,330,0,49,UPI,Delivered,20,38,55,
+FD101177,2026-07-23,19:16,CUST1425,Mumbai,Wrap It Up,Fast  Food,420,0,49,UPI,Delivered,13,21,45,3
+FD100414,2026-07-12,12:59,CUST1011,Hyderabad,Sweet  Tooth,Desserts,420,0,0,Upi,Delivered,18,49,45,3
+FD100623,2026-04-02,13:33,CUST1295,Delhi,Bengal Bites,Regional,400,0,49,Credit Card,Refunded,20,42,55,3
+FD100873,2026-05-30,13:51,CUST1542,Hyderabad,Fresh Salad Co,Healthy,685,150,0,,Delivered,20,34,45,3
+FD100859,2026-09-20,13:38,CUST1190,Bengaluru,Biryani  House,Biryani,730,0,0,Cash on Delivery,Delivered,31,86,60,
+FD100642,2026-08-17,18:11,CUST1455,Mumbai,Dragon Wok,Chinese,220,0,49,Cash on Delivery,Delivered,26,38,55,
+FD101341,2026-07-04,20:28,CUST1580,Delhi,Dragon Wok,Chinese,540,0,0,UPI,Delivered,26,49,55,3
+FD100259,2026-05-22,21:23,CUST1592,bengaluru,Mithai Mahal,Desserts,375,0,35,Cash on Delivery,Refunded,16,48,45,1
+FD100835,2026-06-19,19:08,CUST1587,Gurugram,Dosa Corner,South Indian,195,45,25,UPI,Delivered,15,28,50,4
+FD100663,2026-06-27,12:00,CUST1097,Delhi,Burger Barn,Fast Food,400,0,25,Cash on Delivery,Delivered,16,48,45,2
+FD100338,2026-04-27,22:05,CUST1356,Noida,  Tandoori Nights ,Mughlai,440,0,25,UPI,Cancelled,33,,55,
+FD100399,2026-04-02,19:03,CUST1320,Mumbai,Biryani House,Biryani,405,0,0,Debit Card,Delivered,27,52,60,4
+FD101448,2026-05-12,13:57,CUST1158,Gurugram,Pizza Junction,Pizza,355,87,0,Cash on Delivery,Delivered,26,52,55,
+FD100606,2026-08-30,13:11,CUST1680,Delhi,Slice Station,Pizza,685,0,0,Digital Wallet,Delivered,23,53,50,
+FD100481,2026-07-14,13:31,CUST1067,Mumbai,Royal Kebab,Mughlai,595,81,35,Credit Card,Refunded,31,53,60,3
+FD101447,2026-09-21,23:22,CUST1518,Delhi,South Spice,South  Indian,240,0,0,Cash on Delivery,Delivered,23,39,50,3
+FD101144,2026-07-18,13:47,CUST1516,Hyderabad,Chai & Chaat,Street Food,255,71,49,Credit Card,delivered,13,56,40,3
+FD100918,2026-09-07,23:39,CUST1012,Mumbai,Mithai Mahal,Desserts,340,0,0,UPI,Delivered,10,24,45,
+FD101018,2026-08-09,16:33,CUST1580,Delhi,Chai & Chaat,Street Food,180,0,49,UPI,DELIVERED,11,31,45,
+FD100876,2026-07-15,18:50,CUST1545,Jaipur,Dilli Darbar,North Indian,530,0,0,UPI,Delivered,22,43,55,3
+FD100660,2026-07-02,21:29,CUST1292,Mumbai,Spice Route,North Indian,430,43,0,Credit Card,Delivered,25,53,55,
+FD101022,2026-06-08,21:33,CUST1492,Mumbai,Wrap It Up,Fast Food,320,,25,Digital Wallet,Delivered,16,63,45,3
+FD100790,2026-07-26,20:40,CUST1621,Hyderabad,Biryani House,Biryani,360,0,35,Net Banking,Delivered,25,50,60,5
+FD100257,2026-04-11,19:10,CUST1352,Bengaluru,Chai & Chaat,Street Food,175,39,0,UPI,Delivered,10,46,45,4
+FD100969,2026-08-29,12:15,CUST1192,Bangalore,Spice Route,North Indian,320,91,25,Credit Card,Delivered,18,50,55,4
+FD100953,2026-07-04,11:18,CUST1512,Hyderabad,Chai & Chaat,Street Food,135,0,49,Debit Card,Delivered,11,32,40,4
+FD101274,2026-05-07,20:17,CUST1532,Pune,South Spice,South Indian,260,63,25,UPI,Delivered,19,41,50,
